@@ -1,0 +1,96 @@
+PROMOTE_TO_MAIN_DOC
+Harper Heraldry & Family Research | AI DATA RULES
+
+================================================================
+THE VALIDATION GATE — RUN BEFORE ANY MAIN DOC ADDITION
+================================================================
+This command triggers the three-check validation sequence.
+Nothing enters MAIN DOC without passing all three checks.
+
+TO USE: Paste this command + the proposed new entry.
+Example: "PROMOTE_TO_MAIN_DOC: [individual name], [event],
+          [date], [location], [archive reference]"
+
+================================================================
+CHECK 1 — EVIDENCE MINIMUM
+================================================================
+Question: Does this entry meet the minimum evidence threshold?
+
+  Required: Minimum 2 independent supporting points
+            At least 1 must be Tier 1 PRIMARY source
+
+  If 2+ sources with 1 primary → PASS CHECK 1
+  If 1 primary source only     → CONDITIONAL PASS (add [NOTE])
+  If secondary sources only    → FAIL — stays in ANNEX A
+
+================================================================
+CHECK 2 — CONFLICT SCAN
+================================================================
+Question: Does this entry conflict with anything in MAIN DOC?
+
+  Scan for:
+    [ ] Timeline inconsistency (dates don't align)
+    [ ] Duplicate identity (same person already in chain?)
+    [ ] Relationship contradiction (conflicts named relationship)
+    [ ] Geographic impossibility (wrong place at wrong time)
+
+  No conflicts found → PASS CHECK 2
+  Conflict found     → HARD STOP
+                       Document the conflict in ANNEX A
+                       Resolve before any promotion attempt
+
+================================================================
+CHECK 3 — CERTAINTY RATING
+================================================================
+Question: What is the final certainty level of this entry?
+
+  HIGH   (PRIMARY CONFIRMED + corroboration) → PROMOTE ✓
+  MEDIUM (PRIMARY CONFIRMED, single source)  → PROMOTE with [NOTE]
+  LOW    (Secondary source only)             → FAIL, stay ANNEX A
+
+================================================================
+RESULT
+================================================================
+  ALL THREE PASS → Entry is eligible for MAIN DOC addition
+                   Proceed to POST-PROMOTION ACTIONS below
+
+  ANY FAIL       → Entry stays in ANNEX
+                   No damage done
+                   Note what evidence is required to re-attempt
+
+================================================================
+POST-PROMOTION ACTIONS (all required)
+================================================================
+  1. Add entry to MAIN DOC chain table with full source citation
+  2. Mark any resolved gap: [GAP CLOSED — Month Year]
+  3. Increment MAIN DOC version number
+  4. Update ANNEX A to reflect confirmed status
+  5. Update ANNEX B (archive working hypothesis if now confirmed)
+  6. Confirm WC-ID and WP-ID cross-references are complete
+  7. Note promotion in session log
+
+================================================================
+EXAMPLE — SUCCESSFUL PROMOTION
+================================================================
+  Entry:      Joseph Harbor, baptism, 1630, Bury St Edmunds
+  Source 1:   FamilySearch primary register image (PRIMARY)
+  Source 2:   Hearth Tax E179/257/15 same household 1663
+  Check 1:    PASS (2 sources, 1 primary)
+  Check 2:    PASS (no conflicts)
+  Check 3:    HIGH — PROMOTE
+  Action:     Added to MAIN DOC Gen P-06
+              WC-ID: WC-H006 | WP-SFK-005
+              MAIN DOC v[X] issued
+
+================================================================
+EXAMPLE — FAILED PROMOTION
+================================================================
+  Entry:      John Harper Esq → John Harbertt of Boxford
+  Source 1:   PROB 11/9/246 names John Harper (son of Richard)
+  Source 2:   FB77/D1/1 confirms John Harbertt at Boxford
+  Check 1:    CONDITIONAL PASS (2 sources but link is inferred)
+  Check 2:    PASS (no conflicts)
+  Check 3:    MEDIUM — no document directly connects the two
+  Result:     FAIL — remains ANNEX B WORKING THEORY
+  Required:   TNA C1 Bundle 326 naming John Harper in Suffolk
+              OR John Harbarde will naming Essex origin

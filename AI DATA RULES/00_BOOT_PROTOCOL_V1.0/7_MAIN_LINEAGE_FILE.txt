@@ -1,0 +1,67 @@
+MAIN LINEAGE FILE — RULES AND STATUS
+Harper Heraldry & Family Research | Boot Protocol V1.0
+
+================================================================
+THE MAIN DOC IS THE COURTROOM. EVERYTHING ELSE IS THE LAB.
+================================================================
+
+WHAT THE MAIN DOC IS:
+  The submission-grade primary source lineage chain.
+  Every entry has a primary source citation.
+  Every generation is individually verified.
+  It is what you hand to the College of Arms.
+
+WHAT THE MAIN DOC IS NOT:
+  A working document. A draft. A theory document.
+  A place for "probable" or "likely" ancestors.
+
+================================================================
+CURRENT CONFIRMED CHAIN — LAST VERIFIED APRIL 2026
+================================================================
+
+  GEN  | INDIVIDUAL                        | PRIMARY SOURCE
+  -----|-----------------------------------|---------------------------
+  P-01 | John Harbertt (patriarch, Boxford)| Inferred from children
+  P-02 | John Harbarde × Rose Smythe       | FB77/D1/1 (marriage 1563)
+  P-03 | Josephe Harberd × Marye Pulley    | FB77/D1/1 (marriage 1598)
+  P-04 | John Harberd                      | FB77/D1/1 (bapt. 1600)
+  P-05 | John Harbar × Mary Bathorne       | FL541/4/1 (marriage 1623)
+  P-06 | Joseph Harbor                     | FamilySearch (bapt. 1630)
+  P-07 | Joseph Harbor × Susan Elmy        | Marriage 1652, Stockton
+  P-08 | Joseph Harboe                     | 109/D2/11 (bapt. 1661)
+  P-09 | James Harbar                      | 109/D2/11 (bapt. 1705)
+         [primary image needed to confirm spelling]
+  P-10 | James Harper × Sarah Osborne      | FB80/D1/3 (marriage 1733)
+  P-11 | James Harper                      | FB64/D1/1 (bapt. 1748)
+  P-12 | Joseph Harper                     | New York 1765 (confirmed)
+  ...  | [American line to Hayden]         |
+  P-XX | Hayden F. Harper                  | b.1992, California
+
+CHAIN GAP — UNRESOLVED (ANNEX B):
+  Pre-P-02: John Harbertt patriarch → no primary source yet
+  Pre-chain: Essex to Suffolk bridge → TNA C1 Bundle 326 (ordered)
+
+================================================================
+NEXT GENERATION STRONGEST UNPROVEN LEAD
+================================================================
+[Per MAIN DOC protocol — only 1-2 unproven leads shown here]
+
+LEAD 1 (strongest):
+  John Harper Esq, younger son of Sir Richard Harpur of Epping
+  (PROB 11/9/246) → migrated to Suffolk → became John Harbertt
+  of Boxford. Evidence: MEDIUM. Linchpin doc ordered.
+
+LEAD 2:
+  William Harbard of Sutton, Gent. (PROB 11/132/106, 1571) as
+  connecting figure between Essex gentry and Boxford Harberds.
+  Evidence: LOW.
+
+================================================================
+MAIN DOC EDIT RULES
+================================================================
+1. NEVER edit MAIN DOC directly during a research session
+2. All additions must pass PROMOTE_TO_MAIN_DOC protocol first
+3. MAIN DOC is rebuilt (not incrementally edited) when promoted
+4. Both DOCX and MD versions updated simultaneously
+5. PDF version only for human consumption/sharing — not editable
+6. Version number increments with every confirmed addition

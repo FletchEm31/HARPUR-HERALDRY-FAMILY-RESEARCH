@@ -1,0 +1,73 @@
+ANNEX C — COLLATERAL & CONTEXTUAL DATA
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+PURPOSE
+================================================================
+Background ecosystem mapping. The world the family lived in.
+Collateral lines, regional surname clusters, socioeconomic
+context, and historical events that frame the research without
+being part of the direct lineage argument.
+
+================================================================
+WHAT BELONGS HERE
+================================================================
+  - Unrelated Harper/Harpur lines in the same geographic area
+  - Surrounding parish families and witness networks
+  - Regional surname clustering data
+  - Socioeconomic and historical context documents
+  - Collateral gentry lines (Burwell, Chamberlayne, Smythe etc.)
+  - Name collision records (documented different individuals
+    sharing the same name in the same period)
+  - Heraldic context — other Harper/Harpur armorial grants
+  - Historical events framing the research period
+
+================================================================
+WHAT DOES NOT BELONG HERE
+================================================================
+  - Direct lineage evidence (→ ANNEX A)
+  - Working hypotheses (→ ANNEX B)
+  - Probate/wills for direct ancestors (→ ANNEX E)
+
+================================================================
+CRITICAL RULE
+================================================================
+ANNEX C data MUST NEVER be used to support MAIN DOC conclusions
+directly. It provides context, not proof. If a collateral figure
+turns out to be directly relevant to the chain, move the entry
+to ANNEX A via proper promotion protocol.
+
+================================================================
+DOCUMENTED NAME COLLISIONS (active warning)
+================================================================
+The following are CONFIRMED different individuals. Do not conflate:
+
+  COLLISION 1:
+    James Harper × Sarah Osborne (Nayland 1733) — MAIN DOC ancestor
+    James Harper × Ann Knights (Syleham 1756, widower, Hoxne)
+    — Two contemporary James Harpers in adjacent Suffolk hundreds
+    — Phillimore index transcription error (Syleham 1715 vs 1756)
+      is a known contamination risk
+
+  COLLISION 2:
+    Joseph Harbor bapt. 1630 Bury St Edmunds (MAIN DOC)
+    Any other Joseph Harbor/Harbour in Suffolk same period
+    — Verify against primary register image before assuming identity
+
+================================================================
+KEY COLLATERAL FIGURES — APRIL 2026
+================================================================
+See: ANNEX_C_COLLATERAL_GENTRY_LINES_V2.md
+     ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES_1.md
+     (AI SOURCE DATA folder)
+
+Notable collateral entries:
+  - John Harberd of Hollesley × Kithenoe Burwell (1612 Visitation)
+  - Francis Harberd — 200 acres Long Melford/Ufford/Bredfield
+  - Sir Charles Harberd kt — HM Surveyor General under Charles II
+  - William Harbert of Hollesley (PCC PROB 11 Piece 70, c.1587)
+  - Hugh Harbertt × Agnes Eldergate (Boxford 1562) — brother of
+    John Harbarde, both sons of John Harbertt patriarch
+  - John Harbard buried Ufford 15 Apr 1559 (index only)
+  - Shared motto Te Deum Laudamus across 4 independent Harper/
+    Harpur armorial grants spanning 2 countries and 4 centuries

@@ -1,0 +1,137 @@
+ANNEX D — CITATION & WORKS CITED REGISTER
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+PURPOSE
+================================================================
+The source index for the entire project. Every document, archive
+reference, and secondary source used anywhere in the research
+is registered here with a unique WP-ID.
+
+This file contains INDEX ONLY — no interpretation, no conclusions.
+Perplexity is the primary maintainer of this file.
+
+================================================================
+ID FORMAT
+================================================================
+  WP-TNA-###    The National Archives documents
+  WP-SFK-###    Suffolk Archives documents
+  WP-ESX-###    Essex Record Office documents
+  WP-DRB-###    Derbyshire Record Office documents
+  WP-BL-###     British Library manuscripts
+  WP-PUB-###    Published secondary sources
+  WP-ONL-###    Online databases (flagged by tier)
+
+================================================================
+ENTRY FORMAT
+================================================================
+  WP-ID:        [ID]
+  Title:        [Document title or description]
+  Archive:      [Repository name]
+  Reference:    [Exact archive reference]
+  Date:         [Document date]
+  Type:         [PRIMARY / SECONDARY / TERTIARY / AGGREGATOR]
+  Status:       [CONFIRMED READ / ORDERED / TO ORDER / PENDING]
+  Used in:      [Which annex/document cites this source]
+  Notes:        [Any relevant access or transcription notes]
+
+================================================================
+CURRENT REGISTER — TNA DOCUMENTS
+================================================================
+WP-TNA-001  Will of Richard Harpur of Epping | TNA | PROB 11/9/246
+            1492 | PRIMARY | CONFIRMED READ
+            Used in: MAIN DOC, ANNEX A
+
+WP-TNA-002  Will of Richard Harpur alias Harper, Swarkeston | TNA
+            PROB 11/59/108 | 1577 | PRIMARY | CONFIRMED READ
+            Used in: ANNEX A (Harpur alias Harper = definitive)
+
+WP-TNA-003  Will of Jane Harpur, Widow, Swarkeston | TNA
+            PROB 11/89/461 | 1597 | PRIMARY | CONFIRMED READ
+            Used in: ANNEX A (confirms John Harpur = 1st Baronet's father)
+
+WP-TNA-004  Will of Dame Constance Colepepur, Kent | TNA
+            PROB 11/29 | 1542 | PRIMARY | CONFIRMED READ
+            Used in: ANNEX A
+
+WP-TNA-005  Will of William Harbard, Gent., Sutton Suffolk | TNA
+            PROB 11/132/106 | 1571 | PRIMARY | CONFIRMED READ
+            Used in: ANNEX B (hypothesis 3)
+
+WP-TNA-006  Hearth Tax, Beccles, Suffolk | TNA | E179/257/15
+            1663 | PRIMARY | CONFIRMED READ | Used in: ANNEX A
+
+WP-TNA-007  Hearth Tax, Beccles, Suffolk | TNA | E179/257/12
+            1664 | PRIMARY | CONFIRMED READ | Used in: ANNEX A
+
+WP-TNA-008  Hearth Tax, Beccles, Suffolk | TNA | E179/257/17
+            1669 (10 hearths) | PRIMARY | CONFIRMED READ
+            Used in: ANNEX A (gentry-level property argument)
+
+WP-TNA-009  IPM Richard Harper Essex c.1518 | TNA | E150/303/7
+            ORDERED — 24 working days | Status: PENDING
+
+WP-TNA-010  Sir Charles Harberd probate 1679 | TNA | PROB 18/11/62
+            ORDERED | Status: PENDING | Used in: ANNEX C
+
+WP-TNA-011  Chancery — Harberd | TNA | C2/ChasI/S60/60
+            ORDERED | Status: PENDING
+
+WP-TNA-012  Chancery — Harberd | TNA | C9/79/70
+            ORDERED | Status: PENDING
+
+WP-TNA-013  Chancery — Francis Harberd | TNA | C2/Eliz/M7/4
+            ORDERED | Status: PENDING | Used in: ANNEX C
+
+WP-TNA-014  Chancery — Harberd | TNA | C2/ChasI/H110/58
+            ORDERED | Status: PENDING
+
+WP-TNA-015  Chancery — Richard Harper Suffolk | TNA | C1 Vol.4
+            p.286 Bundle 329 | TO ORDER | Status: NOT YET ORDERED
+
+WP-TNA-016  Chancery — John Harper Suffolk | TNA | C1 Vol.4
+            p.278 Bundle 326 | ORDERED — AWAITING PHYSICAL COPY
+            *** CRITICAL LINCHPIN DOCUMENT ***
+
+================================================================
+CURRENT REGISTER — SUFFOLK ARCHIVES
+================================================================
+WP-SFK-001  Boxford parish register | Suffolk Archives | FB77/D1/1
+            1538-1812 | PRIMARY | CONFIRMED READ
+            Used in: MAIN DOC, ANNEX A
+
+WP-SFK-002  Stoke-by-Nayland parish register | FB80/D1/3
+            Marriage 1733 | PRIMARY | CONFIRMED READ
+            Used in: MAIN DOC
+
+WP-SFK-003  Nayland parish register | FB64/D1/1
+            Baptism 1748 | PRIMARY | CONFIRMED READ
+            Used in: MAIN DOC
+
+WP-SFK-004  Beccles St Michael register | 109/D2/11
+            1661, 1705 | PRIMARY | CONFIRMED READ (image needed 1705)
+            Used in: MAIN DOC
+
+================================================================
+CURRENT REGISTER — PUBLISHED SECONDARY SOURCES
+================================================================
+WP-PUB-001  History of Parliament Online — Sir George Harper MP
+            Peer-reviewed | TIER 2 | Used in: ANNEX A
+
+WP-PUB-002  Victoria County History, Essex Vol.8 pp.186-195
+            British History Online | TIER 2 | Used in: ANNEX A
+
+WP-PUB-003  Suffolk Visitation 1612, p.119
+            Harleian Society | TIER 2 | Used in: ANNEX C
+
+WP-PUB-004  The House of Harper (J. Henry Harper, 1912)
+            Archive.org | TIER 2 | Used in: ANNEX A
+
+WP-PUB-005  Willmore's Records of Rushall (1892)
+            Archive.org | TIER 2 | Used in: ANNEX B
+
+WP-PUB-006  Burke's General Armory (1884)
+            Archive.org | TIER 2 | Used in: ANNEX C
+
+WP-PUB-007  Suffolk in 1674 (ed. Hervey, 1905)
+            Archive.org | TIER 2 | Used in: ANNEX A

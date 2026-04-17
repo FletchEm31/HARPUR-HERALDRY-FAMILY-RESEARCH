@@ -1,0 +1,82 @@
+DATA ENTRY PROTOCOL — CRITICAL
+Harper Heraldry & Family Research | Boot Protocol V1.0
+
+================================================================
+ALL NEW DATA MUST FOLLOW THIS PROTOCOL BEFORE FILING
+================================================================
+
+STEP 1 — CLASSIFY THE SOURCE
+Assign one classification:
+
+  PRIMARY     — Original document, unmediated. Parish register image,
+                TNA original will, Hearth Tax primary roll, Chancery
+                original. This is the only class that can enter MAIN DOC.
+
+  PROBATE     — Will or administration. Sub-class of primary. Requires
+                WP-ID assignment. Routes to ANNEX E.
+
+  SECONDARY   — Transcription, index, or calendar of a primary source.
+                Boyd's Marriage Index, FamilySearch index entries,
+                Ancestry transcriptions. NEVER enters MAIN DOC directly.
+                Must be verified against primary before promotion.
+
+  THEORY      — Hypothesis, inference, or logical argument without
+                documentary confirmation. Routes to ANNEX B.
+
+  CONTEXTUAL  — Background historical data, collateral family lines,
+                surname clusters, geographic data. Routes to ANNEX C or D.
+
+================================================================
+STEP 2 — ASSIGN IDs
+================================================================
+
+WC-ID (Person ID):
+  Format: WC-[SURNAME INITIAL][NUMBER]
+  Example: WC-H001 = John Harbertt of Boxford
+  Assign to every named individual, confirmed or unconfirmed.
+  Once assigned, WC-ID never changes.
+
+WP-ID (Document/Probate ID):
+  Format: WP-[ARCHIVE CODE]-[NUMBER]
+  Example: WP-TNA-001 = PROB 11/9/246 (Richard Harpur will 1492)
+  Assign to every document processed.
+
+================================================================
+STEP 3 — EXTRACT VERIFIABLE FACTS ONLY
+================================================================
+For each document extract:
+  - Full name as written in original
+  - Date (baptism / marriage / burial / probate)
+  - Location (parish, county)
+  - Named relationships (father, mother, spouse, children)
+  - Property or occupation if stated
+  - Witnesses (potential collateral network)
+  - Archive reference (exact)
+
+DO NOT extract:
+  - Inferences about unnamed individuals
+  - Assumed relationships not stated in document
+  - Data from aggregator sites without primary verification
+
+================================================================
+STEP 4 — ASSIGN CERTAINTY LEVEL
+================================================================
+  HIGH    — Primary source confirmed. Directly states the fact.
+  MEDIUM  — Primary source exists but fact is inferred from context.
+  LOW     — Secondary source only. Primary not yet located.
+  THEORY  — No documentary basis. Logical argument only.
+
+================================================================
+STEP 5 — ROUTE TO CORRECT ANNEX
+================================================================
+  PRIMARY (non-probate) → ANNEX A (if supporting MAIN DOC)
+                        → ANNEX C or D (if collateral)
+  PROBATE               → ANNEX E
+  SECONDARY             → ANNEX A (flagged as unverified)
+  THEORY                → ANNEX B
+  CONTEXTUAL            → ANNEX C or D
+
+================================================================
+HARD RULE: DO NOT UPDATE MAIN DOC FROM THIS PROTOCOL
+Use PROMOTE_TO_MAIN_DOC for any chain additions.
+================================================================

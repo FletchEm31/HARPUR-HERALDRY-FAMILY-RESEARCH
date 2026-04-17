@@ -1,0 +1,70 @@
+RESEARCH DISCIPLINE RULES
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+NON-NEGOTIABLE RESEARCH CONDUCT RULES
+================================================================
+
+RULE 1 — TRUTH FIRST
+  If the evidence contradicts the narrative, the narrative changes.
+  We are building a legal-historical case, not a family story.
+  An honest negative result is more valuable than a false positive.
+
+RULE 2 — NO NARRATIVE IN MAIN DOC
+  No storytelling. No emotional framing. No pride language.
+  MAIN DOC is a court document. Write it like one.
+
+RULE 3 — NO SPECULATION PHRASED AS FACT
+  "Likely therefore true" is not permitted anywhere in the system.
+  Every inference must be explicitly labeled as inference.
+  Every theory must be in ANNEX B, not ANNEX A.
+
+RULE 4 — NO UNMARKED GAPS
+  A gap in the chain must be marked as a gap.
+  Do not imply continuity where continuity is not confirmed.
+  The College of Arms will find the gaps. Mark them yourself first.
+
+RULE 5 — PRIMARY SOURCE OR NOTHING IN MAIN DOC
+  Secondary sources support. They do not confirm.
+  Tier 3 and Tier 4 sources are research leads, not evidence.
+  Nothing enters MAIN DOC without a Tier 1 primary source.
+
+RULE 6 — CIRCULAR SOURCING IS ACTIVE CONTAMINATION
+  Always trace every lead to its ultimate primary source.
+  If the trail leads back to another aggregator — discard.
+  Known contamination sources are logged in EVIDENCE_STANDARDS.
+
+RULE 7 — GEOGRAPHIC DISCIPLINE
+  Rapidly eliminate geographically irrelevant records.
+  Core research area: Babergh Hundred, Hoxne Hundred,
+  Beccles, and Essex parishes (Latton, Epping, Capel St Mary).
+  Do not pursue leads outside this area without strong reason.
+
+RULE 8 — NAME COLLISION AWARENESS
+  Two individuals can share the same name in the same period.
+  The James Harper collision (Nayland 1733 vs Syleham 1756)
+  is a documented active risk. Never conflate confirmed
+  different individuals. Log all collisions in ANNEX C.
+
+RULE 9 — DISPROVEN LEADS ARE PERMANENT
+  Do not delete disproven leads from ANNEX B.
+  They prevent future re-investigation of confirmed dead ends.
+  Label clearly as DISPROVEN with date and reason.
+
+RULE 10 — STRESS TEST BEFORE SUBMISSION
+  Before any submission to the College of Arms:
+  Actively attempt to break the case.
+  Identify every weak point. Try every counter-argument.
+  A case that survives its own researcher's attack
+  will survive a Herald's scrutiny.
+
+================================================================
+SESSION DISCIPLINE
+================================================================
+  - Complete boot protocol before any research work
+  - State session objective before starting
+  - Declare working hypothesis explicitly
+  - Do not chase low-value leads when high-value gaps are open
+  - End session with file update confirmation
+  - Note any new archive orders placed
+  - Note any outstanding responses received

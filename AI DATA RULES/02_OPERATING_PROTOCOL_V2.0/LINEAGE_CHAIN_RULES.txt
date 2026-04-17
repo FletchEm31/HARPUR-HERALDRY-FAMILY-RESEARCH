@@ -1,0 +1,82 @@
+LINEAGE CHAIN RULES
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+CORE RULE
+================================================================
+Only MAIN DOC defines the official lineage.
+ANNEX B hypotheses cannot extend the lineage without confirmation.
+Every generational link must be explicitly justified.
+
+================================================================
+WHAT CONSTITUTES A VALID GENERATIONAL LINK
+================================================================
+IDEAL (all three present):
+  Baptism record → Marriage record → Will/probate/burial record
+  Each document naming the individual and their relationship
+  to the previous and next generation.
+
+ACCEPTABLE (minimum for MAIN DOC):
+  Two of the three above, PLUS one of:
+    - Property continuity in same location
+    - Named in another individual's will as son/father
+    - Witness pattern connecting two generations
+    - Hearth Tax or subsidy roll confirming household
+
+NOT ACCEPTABLE for MAIN DOC:
+  - Geographic proximity alone
+  - Surname match alone
+  - Naming pattern similarity alone
+  - Secondary source inference without primary backup
+  - Single index entry without image confirmation
+
+================================================================
+GAP MARKING — MANDATORY
+================================================================
+When a generational link cannot be confirmed, it MUST be
+explicitly marked in MAIN DOC as:
+
+  "GENERATIONAL GAP — NO PRIMARY LINK CONFIRMED
+   Gap period: [approximate date range]
+   Gap between: [last confirmed individual] and [next confirmed]
+   Research status: [what has been searched / what is pending]
+   Required to close: [specific document or archive search]"
+
+DO NOT paper over gaps with narrative.
+DO NOT imply continuity where none is confirmed.
+A clearly marked gap is more credible to the College of Arms
+than an unmarked one — it shows the researcher knows the
+difference between evidence and assumption.
+
+================================================================
+CURRENT CHAIN GAPS — APRIL 2026
+================================================================
+
+GAP 1 — PATRIARCH TO ESSEX [CRITICAL]
+  Between: Sir Richard Harpur of Epping (d.1492, PROB 11/9/246)
+           naming son John Harper
+  And:     John Harbertt of Boxford (fl. FB77/D1/1, c.1510-1584)
+  Gap:     ~15-30 years (c.1492-c.1510)
+  Status:  TNA C1 Vol.4 p.278 Bundle 326 ORDERED
+           This is the linchpin document for the entire case
+  Certainty of proposed link: LIKELY
+
+GAP 2 — PATRIARCH CONFIRMATION
+  Between: John Harbertt (patriarch, Boxford) — inferred
+  And:     John Harbarde × Rose Smythe (FB77/D1/1, 1563)
+  Gap:     Patriarch has no primary source of his own
+  Status:  Burial and will search outstanding (Bury St Edmunds)
+  Certainty: UNCONFIRMED
+
+================================================================
+PROMOTION PATHWAY
+================================================================
+To move a proposed link from ANNEX B to MAIN DOC:
+
+  Step 1: Run DATA_INTAKE_COMMAND on new evidence
+  Step 2: Assign WC-ID and WP-ID
+  Step 3: Assign certainty label
+  Step 4: Run PROMOTE_TO_MAIN_DOC validation gate
+  Step 5: If PASS — add to MAIN DOC, update ANNEX A
+  Step 6: If FAIL — retain in ANNEX B, note what is missing
+  Step 7: Increment MAIN DOC version number

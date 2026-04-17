@@ -1,0 +1,41 @@
+BOOT ORDER — STRICT SEQUENCE
+Harper Heraldry & Family Research | Boot Protocol V1.0
+
+================================================================
+LOAD IN THIS ORDER EVERY SESSION
+================================================================
+
+[1] 0_FILE_HEADER
+    → Confirm project identity and AI role assignments
+
+[2] 2_SESSION_INITIALIZATION_RULE_MANDATORY
+    → Complete all 5 initialization steps
+
+[3] MAIN DOC (AI SOURCE DATA)
+    → Read as locked/read-only
+    → Confirm last verified generation
+
+[4] ANNEX A (AI SOURCE DATA)
+    → Load verified supporting evidence
+
+[5] ANNEX B (AI SOURCE DATA)
+    → Load current working hypotheses
+
+[6] ANNEX C (AI SOURCE DATA)
+    → Load collateral gentry context
+
+[7] ANNEX D (AI SOURCE DATA)
+    → Load bulk data layer
+
+[8] DATA_INTAKE_COMMAND
+    → Active for entire session
+
+[9] PROMOTE_TO_MAIN_DOC
+    → Active only when promotion is being considered
+
+================================================================
+DEVIATION FROM THIS ORDER IS NOT PERMITTED
+================================================================
+Reason: Loading theory (ANNEX B) before the confirmed chain
+(MAIN DOC) risks contaminating session reasoning with
+unconfirmed hypotheses. Order is protective, not bureaucratic.

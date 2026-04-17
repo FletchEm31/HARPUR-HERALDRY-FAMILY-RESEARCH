@@ -1,0 +1,70 @@
+LEGAL EVIDENCE SYSTEM
+Harper Heraldry & Family Research | Boot Protocol V1.0
+
+================================================================
+THE FOUR-PILLAR EVIDENCE FRAMEWORK
+================================================================
+Every generation in the lineage must be supported by as many
+of the following four pillars as possible. A single pillar is
+the minimum for ANNEX A. All four are the target for MAIN DOC.
+
+PILLAR 1 — GEOGRAPHIC CONVERGENCE
+  Same individual (or family unit) appears in the same geographic
+  area across multiple independent record types.
+  Example: Boxford Harberdts in parish register + Hearth Tax +
+  probate = three independent geographic confirmations.
+
+PILLAR 2 — NAMING PATTERN CONTINUITY
+  Repeated first names across generations (John → John → Josephe)
+  consistent with established family naming conventions of the period.
+  Must be supported by at least one primary source per generation.
+
+PILLAR 3 — SOCIOECONOMIC CONTINUITY
+  Property level, occupation, and social status consistent across
+  generations. A gentry family does not become landless between
+  confirmed generations without explanation.
+  Key data point: 10-hearth Beccles property (1669) = gentry level.
+
+PILLAR 4 — SURNAME EVOLUTION CHAIN
+  Spelling variants are phonetically consistent and geographically
+  contained. See: SURNAME_EVOLUTION_HARPUR_TO_HARPER.md
+  Key argument: Harpur alias Harper used simultaneously in PROB
+  11/59/108 — College of Arms cannot dispute same-family spelling.
+
+================================================================
+THE BARONETCY PRECEDENT ARGUMENT
+================================================================
+The Harpur Baronetcy of Calke Abbey (created 1626) is dormant,
+not extinct. It has never been formally declared extinct.
+
+The Johnson family claim (Vermont) is female-line only and
+cannot support a baronetcy succession under Letters Patent
+which specify male-line descent.
+
+Precedent argument:
+  The baronetcy's own accepted pedigree contains a documented
+  gap of 109 years between confirmable primary sources.
+  Our gap is approximately 30 years (c.1507–1538).
+  Our evidence density exceeds the baronetcy's own accepted standard.
+  This is the legal argument, not just the genealogical one.
+
+================================================================
+EVIDENCE WEIGHTING RULES
+================================================================
+  Two independent PRIMARY sources confirming same fact = CONFIRMED
+  One PRIMARY + one SECONDARY = PROBABLE (cannot enter MAIN DOC)
+  One PRIMARY alone = POSSIBLE (ANNEX A with flag)
+  Secondary sources only = UNVERIFIED (ANNEX B)
+  Logic without documentation = THEORY (ANNEX B, clearly labeled)
+
+================================================================
+CIRCULAR SOURCE WARNING
+================================================================
+The following are KNOWN contamination risks. Never cite as primary:
+  - Ancestry member trees (unsourced)
+  - FamilySearch index entries (transcription only)
+  - Stirnet pedigrees
+  - RootsWeb / Geni trees
+  - Any source that traces back to another aggregator
+
+Always trace to the ultimate primary source before acceptance.

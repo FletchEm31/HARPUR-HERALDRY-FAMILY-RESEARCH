@@ -1,0 +1,90 @@
+ANNEX B — THEORY & HYPOTHESIS LAYER
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+PURPOSE
+================================================================
+The research thinking space. This is the lab, not the courtroom.
+Every working hypothesis lives here until primary source evidence
+either confirms it (→ ANNEX A / MAIN DOC) or disproves it
+(→ retained here with DISPROVEN flag).
+
+A well-maintained ANNEX B demonstrates research integrity to
+the College of Arms. Present it openly — it is a strength.
+
+================================================================
+MANDATORY LABELS — EVERY ENTRY MUST CARRY ONE
+================================================================
+  WORKING THEORY      Active hypothesis under investigation
+  INFERENCE ONLY      Logical argument without documentary basis
+  UNCONFIRMED         Lead exists but primary source not yet found
+  DISPROVEN           Investigated and eliminated (do not delete)
+  SUSPENDED           Not actively pursued — retained for future
+
+================================================================
+WHAT BELONGS HERE
+================================================================
+  - Hypotheses about unconfirmed generational links
+  - Geographic inference arguments
+  - Naming pattern analysis without primary source backup
+  - Aggregator source data (flagged, not cited as proof)
+  - Logical arguments about migration or social continuity
+  - Any statement containing: likely / probably / possibly /
+    suggests / indicates / may have / could be
+
+================================================================
+WHAT DOES NOT BELONG HERE
+================================================================
+  - Confirmed primary source findings (→ ANNEX A)
+  - Collateral family data not related to the main hypothesis
+    (→ ANNEX C or D)
+  - Random surname clusters with no working hypothesis attached
+
+================================================================
+CURRENT WORKING HYPOTHESES — APRIL 2026
+================================================================
+See: ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE_V2.md
+     ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE_md.md
+     (AI SOURCE DATA folder — master working files)
+
+HYPOTHESIS 1 — ESSEX-SUFFOLK BRIDGE [CRITICAL | WORKING THEORY]
+  John Harper Esq (son of Sir Richard Harpur of Epping, PROB
+  11/9/246) migrated to Suffolk c.1507-1530 and became John
+  Harbertt of Boxford (fl. FB77/D1/1).
+  Evidence level: MEDIUM
+  Confirm with: TNA C1 Vol.4 p.278 Bundle 326 (ORDERED)
+                OR John Harbarde will/burial, Boxford
+
+HYPOTHESIS 2 — BARONETCY SIBLING [WORKING THEORY]
+  John Harper (c.1580-1667) was brother of Sir Henry Harpur,
+  1st Baronet (b.1579) — both sons of Sir John Harpur of
+  Swarkeston (1531-1633).
+  Evidence level: LOW-MEDIUM
+  Confirm with: Sir John Harpur of Swarkeston will naming
+                all children
+
+HYPOTHESIS 3 — WILLIAM HARBARD BRIDGE [INFERENCE ONLY]
+  William Harbard of Sutton Gent. (PROB 11/132/106, 1571)
+  connects the Essex Harper gentry to the Boxford Harberd line.
+  Evidence level: LOW
+  Confirm with: Named relationship in primary document
+
+HYPOTHESIS 4 — CONSTANCE NAME FLAG [INFERENCE ONLY]
+  Constance as a given name in the Boxford cluster c.1540-1600
+  indicates descent from Constance Chamberlayne (wife of
+  Richard Harper III of Latton, whose father held Suffolk estates).
+  Evidence level: CIRCUMSTANTIAL
+  Confirm with: Primary record with name + Boxford/Beccles location
+
+================================================================
+PROMOTION RULE
+================================================================
+To move from ANNEX B to ANNEX A:
+  Must pass PROMOTE_TO_MAIN_DOC validation gate
+  Must have minimum 2 independent primary source confirmations
+  Must have no conflicting contemporary record
+
+To retain in ANNEX B:
+  Single primary source only, OR
+  Secondary source only, OR
+  Logical argument without documentary confirmation

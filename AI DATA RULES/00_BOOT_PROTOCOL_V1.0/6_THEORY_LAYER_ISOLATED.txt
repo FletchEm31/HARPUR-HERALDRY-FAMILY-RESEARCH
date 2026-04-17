@@ -1,0 +1,70 @@
+THEORY LAYER — ISOLATED
+Harper Heraldry & Family Research | Boot Protocol V1.0
+
+================================================================
+PURPOSE OF THIS FILE
+================================================================
+This file defines how theory is handled in the Harper System.
+Theory is not the enemy of good genealogy. Unflagged theory is.
+
+================================================================
+WHAT BELONGS IN ANNEX B
+================================================================
+  - Hypotheses about chain gaps not yet closed by primary source
+  - Logical inferences from circumstantial evidence
+  - Working leads not yet confirmed
+  - Aggregator source data flagged as unverified
+  - Any statement beginning with "likely", "probably", "possibly"
+
+================================================================
+CURRENT WORKING HYPOTHESES (summary — see ANNEX B for full detail)
+================================================================
+
+HYPOTHESIS 1 — THE ESSEX-SUFFOLK BRIDGE [CRITICAL]
+  John Harper Esq (younger son of Sir Richard Harpur of Epping,
+  d.1492) migrated to Suffolk c.1507-1530 following the death of
+  his brother Richard III and became John Harbertt of Boxford.
+  Evidence level: MEDIUM
+  Required to confirm: TNA C1 Vol.4 p.278 Bundle 326 (ordered)
+                       OR primary probate for John Harbarde Boxford
+
+HYPOTHESIS 2 — BARONETCY SIBLING CONNECTION
+  John Harper (c.1580-1667) was born approximately one year after
+  Sir Henry Harpur, 1st Baronet (b.1579). Both are sons of Sir
+  John Harpur of Swarkeston (1531-1633).
+  Evidence level: LOW-MEDIUM
+  Required to confirm: Sir John Harpur of Swarkeston will or
+                       primary document naming all children
+
+HYPOTHESIS 3 — WILLIAM HARBARD OF SUTTON BRIDGE
+  William Harbard, Gentleman of Sutton (will 1571, PROB 11/132/106)
+  is a connecting figure between the Essex Harper gentry and the
+  Boxford Harberd confirmed line.
+  Evidence level: LOW
+  Required to confirm: Named relationship to Boxford Harberds
+                       in primary document
+
+HYPOTHESIS 4 — CONSTANCE NAME FLAG
+  Any instance of the name "Constance" in the Boxford/Beccles/
+  Nayland Harper cluster c.1540-1600 may indicate descent from
+  Constance Chamberlayne (wife of Richard Harper III of Latton).
+  Evidence level: CIRCUMSTANTIAL
+  Required to confirm: Primary record with name + location match
+
+================================================================
+HARD RULES FOR THEORY LAYER
+================================================================
+1. Theory never enters MAIN DOC under any circumstances
+2. Theory must be labeled with evidence level (LOW/MEDIUM/HIGH)
+3. Theory must state explicitly what document would confirm it
+4. Confirmed theory moves to ANNEX A via PROMOTE_TO_MAIN_DOC
+5. Disproven theory is retained in ANNEX B with DISPROVEN flag
+   (Do not delete — disproven leads prevent future re-investigation)
+
+================================================================
+THE ANNEX B DISCIPLINE
+================================================================
+A well-maintained ANNEX B is a sign of rigorous research.
+It shows the College of Arms that you separated fact from theory
+and did not contaminate your primary chain with assumption.
+Present it openly. It is a strength, not a weakness.

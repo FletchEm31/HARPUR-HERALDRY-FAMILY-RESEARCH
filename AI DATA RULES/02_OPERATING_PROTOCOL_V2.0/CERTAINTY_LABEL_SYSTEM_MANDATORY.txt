@@ -1,0 +1,77 @@
+CERTAINTY LABEL SYSTEM — MANDATORY
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+RULE: EVERY PERSON AND EVENT MUST CARRY A CERTAINTY LABEL
+No unlabeled entries anywhere in the system.
+================================================================
+
+PRIMARY CONFIRMED
+  Definition: Original document image confirmed. The fact is
+              stated directly in the primary source.
+  Requires:   TNA / county archive original document read
+              in primary image form by researcher or Claude.
+  Can enter:  MAIN DOC ✓ | ANNEX A ✓
+  Example:    John Harbarde × Rose Smythe, marriage 1563,
+              Boxford — FB77/D1/1 image confirmed.
+
+CONFIRMED (SECONDARY SUPPORT)
+  Definition: Primary source exists and has been located but
+              fact is inferred from clear context rather than
+              directly stated. OR Tier 2 scholarly source with
+              clear primary citation trail.
+  Can enter:  ANNEX A ✓ | MAIN DOC only with additional support
+  Example:    Richard Harper III of Latton c.1470-1509 —
+              confirmed via VCH Essex but primary will not
+              yet located.
+
+LIKELY (STRONG INDIRECT EVIDENCE)
+  Definition: Multiple secondary sources agree. Geographic,
+              chronological, and naming pattern consistency.
+              No conflicting record found. Primary not yet located.
+  Can enter:  ANNEX A (flagged) ✓ | ANNEX B ✓
+  Cannot enter: MAIN DOC without upgrade to PRIMARY CONFIRMED
+  Example:    John Harper Esq as younger son of Richard Harpur
+              of Epping — strongly supported, not yet primary.
+
+POSSIBLE (WEAK INDICATORS)
+  Definition: Some circumstantial evidence. Single secondary
+              source. Plausible but not corroborated.
+  Can enter:  ANNEX B ✓
+  Example:    William Harbard of Sutton as connecting figure —
+              same area, same period, no named relationship.
+
+UNCONFIRMED
+  Definition: Lead identified but no source located yet.
+              Name and location only, no document found.
+  Can enter:  ANNEX B ✓ (flagged for research)
+  Example:    John Harbarde burial record Boxford — not yet
+              located in FB77/D1/1 or probate.
+
+DISPROVEN
+  Definition: Investigated fully and eliminated as a candidate.
+              DO NOT DELETE — retained to prevent future
+              re-investigation of confirmed dead ends.
+  Stays in:   ANNEX B (DISPROVEN flag)
+  Example:    1738 Nayland James Harper — confirmed infant
+              burial, not the emigrant.
+
+UNKNOWN GAP
+  Definition: A generational link that is required but for
+              which no research has yet been conducted.
+              Explicitly marks where the chain is open.
+  Marked in:  MAIN DOC (between last confirmed generation
+              and next confirmed generation)
+  Example:    "GENERATIONAL GAP — NO PRIMARY LINK CONFIRMED
+              between John Harbertt patriarch and Essex line"
+
+================================================================
+APPLICATION RULES
+================================================================
+1. Label assigned at point of data intake — never retrospectively
+2. Label can only be UPGRADED (never downgraded) via evidence
+3. Upgrade requires passing PROMOTE_TO_MAIN_DOC protocol
+4. DISPROVEN entries are permanent — deletion not permitted
+5. Claude assigns certainty labels during data intake
+6. Perplexity may flag citation concerns but cannot override
+   Claude's certainty assessment without new primary evidence

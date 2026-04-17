@@ -1,0 +1,85 @@
+COLLABORATIVE AI WORKFLOW
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+ACTIVE AI ROLES — APRIL 2026
+================================================================
+
+CLAUDE (Anthropic) — Primary Research Engine
+  Responsibilities:
+  - Paleography and handwritten document translation
+  - Secretary hand, Latin, and early modern English transcription
+  - Wills, probate, IPM, and Chancery document analysis
+  - Lineage chain gap analysis and stress testing
+  - Data classification and annex routing
+  - Surname evolution and linguistic argument
+  - Session-by-session research execution
+  - All file updates to AI SOURCE DATA .md files
+  - Attacking and stress-testing the case before submission
+
+  Works from: AI SOURCE DATA folder (project files)
+  Updates: MAIN DOC, ANNEX A, B, C, D (md files)
+
+PERPLEXITY — Citation, Verification & Document Preparation
+  Responsibilities:
+  - Works cited formatting and citation verification
+  - External source cross-checking
+  - Formal submission document preparation
+  - College of Arms format templates
+  - ANNEX D (citation register) maintenance
+  - Final submission package assembly
+
+  Works from: Outputs provided by Claude
+  Updates: ANNEX D, formal submission documents
+
+================================================================
+DIVISION OF LABOR BY TASK TYPE
+================================================================
+
+  TASK                              OWNER
+  --------------------------------- ----------
+  Handwritten will translation      Claude
+  Parish register transcription     Claude
+  Latin document reading            Claude
+  Chain gap analysis                Claude
+  Surname linguistic argument       Claude
+  Stress testing / attack the case  Claude
+  Data classification               Claude
+  Annex routing decisions           Claude
+  File updates (.md)                Claude
+  Works cited formatting            Perplexity
+  Citation verification             Perplexity
+  Submission template               Perplexity
+  External source verification      Perplexity
+  Final document prep               Perplexity
+
+================================================================
+SHARED RULES (both systems must follow)
+================================================================
+  1. Work from identical file state — sync before each session
+  2. Never overwrite interpretation layers incorrectly
+  3. Maintain strict separation between evidence and inference
+  4. Never promote data to MAIN DOC without full protocol
+  5. All certainty labels are mandatory — no unlabeled entries
+  6. Primary source standard is non-negotiable in MAIN DOC
+
+================================================================
+SESSION HANDOFF PROTOCOL
+================================================================
+When passing work from Claude to Perplexity:
+  - Provide exact archive references (WP-IDs)
+  - Provide certainty labels for all new entries
+  - Flag any entries that are SECONDARY and need verification
+  - Do not pass ANNEX B theory as confirmed fact
+
+When passing work from Perplexity to Claude:
+  - Provide exact citation strings in full
+  - Flag any source that could not be verified
+  - Note any discrepancies found in existing citations
+
+================================================================
+NOTE: ChatGPT is no longer part of this workflow.
+All structure, validation, and consolidation previously
+assigned to ChatGPT is now handled by Claude and Perplexity
+per the division of labor above.
+================================================================

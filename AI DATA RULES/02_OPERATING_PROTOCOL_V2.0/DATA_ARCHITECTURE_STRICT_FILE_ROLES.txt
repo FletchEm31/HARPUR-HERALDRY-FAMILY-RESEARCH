@@ -1,0 +1,88 @@
+DATA ARCHITECTURE — STRICT FILE ROLES
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+THE SYSTEM AT A GLANCE
+================================================================
+RAW DATA → INTAKE → CLASSIFY → ANNEX → VALIDATE → MAIN DOC
+                                  ↓
+                          (fails validation)
+                                  ↓
+                          STAYS IN ANNEX
+
+================================================================
+FILE ROLES — NO CROSS-CONTAMINATION
+================================================================
+
+MAIN DOC — HARPER LINEAGE PRIMARY SOURCE CHAIN
+  Role:     Legal-grade lineage proof. Submission document.
+  Contains: Verified lineage links only. Primary-source-confirmed
+            individuals. Direct generational chain.
+            Maximum 1-2 strongest unproven leads beyond last
+            confirmed generation.
+  Style:    Minimal narrative. Chronological. Court standard.
+  Edits:    Via PROMOTE_TO_MAIN_DOC protocol only.
+  Owner:    Claude (updates) | Hayden (approves)
+
+ANNEX A — VERIFIED SUPPORTING EVIDENCE
+  Role:     Evidence room. Backs MAIN DOC entries.
+  Contains: Primary and Tier 2 sources directly supporting
+            confirmed chain individuals.
+  Rule:     If it doesn't reference a MAIN DOC entry — move it.
+  Owner:    Claude
+
+ANNEX B — THEORY & HYPOTHESIS
+  Role:     Research lab. Working hypotheses and leads.
+  Contains: Unconfirmed connections, inference, theory.
+            All entries labeled with certainty level.
+  Rule:     Nothing here touches MAIN DOC without promotion.
+  Owner:    Claude
+
+ANNEX C — COLLATERAL GENTRY LINES
+  Role:     Context. The world the family lived in.
+  Contains: Collateral Harper/Harpur lines, related families,
+            geographic clustering, name collision records.
+  Rule:     Never cited as direct proof of lineage.
+  Owner:    Claude
+
+ANNEX D — CITATION & WORKS CITED REGISTER
+  Role:     Source index. Every document referenced anywhere.
+  Contains: WP-IDs, archive references, source tier, status.
+            Index only — no interpretation.
+  Owner:    Perplexity (primary) | Claude (WP-ID assignment)
+
+ANNEX E — WILLS & PROBATE REGISTER
+  Role:     Legal evidence index for all probate documents.
+  Contains: All wills, IPMs, Chancery cases. WP-IDs,
+            importance scores, named persons, lineage impact.
+            Index only — no interpretation.
+  Owner:    Claude (intake) | Perplexity (citation formatting)
+
+SURNAME EVOLUTION — FORENSIC LINGUISTIC ARGUMENT
+  Role:     Standalone supporting argument document.
+  File:     SURNAME_EVOLUTION_HARPUR_TO_HARPER.md
+  Contains: Complete spelling chain with primary source table.
+            Linguistic mechanism explanation. Forensic conclusion.
+  Owner:    Claude (complete as of April 2026)
+
+================================================================
+WHAT GOES WHERE — QUICK REFERENCE
+================================================================
+
+  New primary document confirmed → ANNEX A + ANNEX E (if probate)
+  New theory or hypothesis → ANNEX B
+  Collateral family data → ANNEX C
+  New archive reference → ANNEX D (WP-ID assigned)
+  Confirmed generational link → PROMOTE_TO_MAIN_DOC protocol
+  Disproven lead → ANNEX B (DISPROVEN flag — do not delete)
+  Name collision identified → ANNEX C (warning logged)
+
+================================================================
+VERSION CONTROL
+================================================================
+  MAIN DOC version increments with every confirmed promotion.
+  All .md files are the working masters.
+  PDF versions are for human consumption only — not editable.
+  DOCX versions for formal sharing with genealogist/College.
+  GitHub is the version control and backup system.
+  Proton Drive shared folder is for genealogist access (read).

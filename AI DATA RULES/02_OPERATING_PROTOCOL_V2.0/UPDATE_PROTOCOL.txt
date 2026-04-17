@@ -1,0 +1,63 @@
+UPDATE PROTOCOL
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+FILE UPDATE ORDER — MANDATORY SEQUENCE
+================================================================
+When new evidence arrives, update files in this order only:
+
+  1. ANNEX E first (if probate/will) — log the document
+  2. ANNEX D — assign WP-ID, log in citation register
+  3. ANNEX A — if evidence supports a MAIN DOC entry
+     OR
+     ANNEX B — if evidence is theory/unconfirmed
+     OR
+     ANNEX C — if evidence is collateral
+  4. MAIN DOC — ONLY via PROMOTE_TO_MAIN_DOC protocol
+     NEVER update MAIN DOC before the annexes are updated
+
+================================================================
+PROMOTE_TO_MAIN_DOC PROTOCOL (validation gate)
+================================================================
+Before any entry enters MAIN DOC, run these three checks:
+
+CHECK 1 — EVIDENCE MINIMUM
+  Minimum 2 independent supporting points required.
+  At least 1 must be PRIMARY (Tier 1).
+  If only 1 source exists → stays in ANNEX A, not MAIN DOC.
+
+CHECK 2 — CONFLICT SCAN
+  Does this entry conflict with any existing MAIN DOC entry?
+    - Timeline inconsistency?
+    - Duplicate identity risk?
+    - Relationship contradiction?
+  If ANY conflict found → HARD STOP. Resolve conflict first.
+  Do not promote over a conflict.
+
+CHECK 3 — CERTAINTY RATING
+  Assign final certainty:
+    HIGH   = PRIMARY CONFIRMED + corroborating source → PROMOTE
+    MEDIUM = PRIMARY CONFIRMED alone → PROMOTE with [NOTE]
+    LOW    = Secondary source only → STAYS IN ANNEX
+
+  PASS → eligible for MAIN DOC addition
+  FAIL → stays in ANNEX (no damage done)
+
+================================================================
+POST-PROMOTION ACTIONS
+================================================================
+  1. Add entry to MAIN DOC chain table
+  2. Mark any resolved gap as [GAP CLOSED — date]
+  3. Increment MAIN DOC version number
+  4. Update ANNEX A to reflect promotion
+  5. Update ANNEX B (remove from working hypothesis if applicable)
+  6. Confirm all WC-IDs and WP-IDs are cross-referenced
+
+================================================================
+RULE: NEVER UPDATE ANNEX BEFORE MAIN DOC IF CONTRADICTION EXISTS
+If new evidence contradicts an existing MAIN DOC entry:
+  1. Do NOT update MAIN DOC yet
+  2. File new evidence in ANNEX A with CONFLICT flag
+  3. Document the contradiction explicitly
+  4. Investigate both sources to determine which is correct
+  5. Only update MAIN DOC once contradiction is resolved

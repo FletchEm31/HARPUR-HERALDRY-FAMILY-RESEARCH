@@ -1,0 +1,100 @@
+EVIDENCE STANDARDS — COLLEGE OF ARMS LEVEL
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+CONFIRMATION STANDARD — ALL CONDITIONS MUST APPLY
+================================================================
+A claim is only labeled PRIMARY CONFIRMED if:
+
+  1. Direct primary source exists OR clearly transcribed
+     archival image has been read by researcher or Claude
+  2. Name + place + date alignment is internally consistent
+  3. No conflicting contemporary record exists
+  4. The document directly states the fact (not inferred)
+
+================================================================
+SOURCE TIER HIERARCHY
+================================================================
+
+TIER 1 — PRIMARY SOURCE (required for MAIN DOC)
+  Original document images from national/county archives.
+  Examples:
+    TNA: PROB (wills), C1/C2/C9 (Chancery), E150 (IPMs),
+         E179 (Hearth Tax), SC8 (petitions), STAC (Star Chamber)
+    Suffolk Archives: FB, FL, FC series parish registers
+    Essex Record Office: manor courts, probate records
+    Derbyshire Record Office: D2375 series
+
+TIER 2 — VERIFIED TRANSCRIPTION
+  Published scholarly transcriptions with clear primary citation.
+  Can support ANNEX A. Cannot alone support MAIN DOC.
+  Examples:
+    Harleian Society Visitations (with page reference)
+    History of Parliament Online (peer-reviewed)
+    Victoria County History (volume and page required)
+    British History Online (specific page required)
+    Harleian manuscripts (British Library — with folio ref)
+
+TIER 3 — SECONDARY INDEX
+  Confirms a record exists. Does not confirm its content.
+  Must be verified against Tier 1 before use in argument.
+  Examples:
+    Boyd's Marriage Index
+    FamilySearch index entries (NOT images)
+    National Burial Index
+    Phillimore transcriptions (known error risk — verify)
+
+TIER 4 — AGGREGATOR (never cite — contamination risk)
+  Examples:
+    Ancestry member trees (unsourced)
+    FamilySearch unsourced trees
+    Stirnet pedigrees
+    RootsWeb / Geni / WikiTree
+    Any source tracing back to another aggregator
+
+================================================================
+ACCEPTABLE EVIDENCE TYPES (Tier 1 only)
+================================================================
+  Parish registers (baptism, marriage, burial)
+  Wills and probate (PCC, archdeaconry, diocesan courts)
+  Chancery records (C-series, E-series)
+  Heraldic visitation pedigrees (with herald's certification)
+  Inquisitions Post Mortem (E150 series)
+  Hearth Tax returns (E179 series)
+  Subsidy rolls (E179 series)
+  Star Chamber proceedings (STAC series)
+  Manor court rolls (original)
+  Feet of Fines (CP25 series)
+
+================================================================
+NOT ACCEPTABLE AS SOLE PROOF
+================================================================
+  Online family trees (any platform)
+  Unsourced genealogies
+  Secondary summaries without full citation chain
+  Assumptive surname matching alone
+  Geographic proximity alone
+  Naming pattern similarity alone
+  Any combination of Tier 3/4 sources without Tier 1 backup
+
+================================================================
+CIRCULAR SOURCING — ACTIVE CONTAMINATION RISKS
+================================================================
+The following sources have been identified as containing
+errors or circular sourcing in this project:
+
+  1. Phillimore Marriage Index — Syleham 1715 vs 1756
+     transcription error. Always verify against primary.
+
+  2. Ancestry member trees — multiple unsourced trees claim
+     connections not supported by any primary document.
+
+  3. Stirnet — Harpur pedigree contains unverified entries
+     particularly in the Essex branch c.1480-1540.
+
+  4. FamilySearch index — several index entries in this
+     project have been found to misread secretary hand.
+     Always pull the primary image.
+
+Rule: Every lead traced back to its ultimate primary source
+before acceptance. No exceptions.

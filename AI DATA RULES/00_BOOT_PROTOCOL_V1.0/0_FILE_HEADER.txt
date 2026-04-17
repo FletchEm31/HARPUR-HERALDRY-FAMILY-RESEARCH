@@ -1,0 +1,55 @@
+HARPER HERALDRY & FAMILY RESEARCH
+GITHUB REPOSITORY — AI OPERATING SYSTEM
+Version: 1.0 | Initialized: April 2026
+
+================================================================
+PROJECT IDENTITY
+================================================================
+Project Name:    Harper / Harpur Lineage Research
+Claim Target:    Grant of Armorial Bearings — College of Arms, London
+Secondary Claim: Dormant Harpur Baronetcy of Calke Abbey (lapsed 1924)
+Lead Researcher: Hayden F. Harper (b.1992, Laguna Niguel, California)
+Evidentiary Std: College of Arms primary source standard (or higher)
+
+================================================================
+AI ROLES
+================================================================
+Claude (Anthropic):
+  - Primary paleography and handwritten document translation
+  - Wills, probate, and Latin/secretary hand transcription
+  - Lineage stress testing and chain gap analysis
+  - Data classification and annex routing
+
+Perplexity:
+  - Works cited and citation formatting
+  - Document preparation and formal submission templates
+  - External source verification
+
+================================================================
+REPOSITORY STRUCTURE
+================================================================
+00. GITHUB REPOSITORY/
+  AI DATA RULES/
+    00_BOOT_PROTOCOL_V1.0/       — Session initialization files
+    02_OPERATING_PROTOCOL_V2.0/  — Rules and standards
+  AI SOURCE DATA/                — All active .md research files
+
+Research folders (ROME R: drive):
+  CALKE ABBEY/
+  COMPLETE BARONETAGE 1611-1706/
+  HARD FILES/
+  HARPER-HARPUR LINE/
+  HARPERS WEEKLY ARCHIVE/
+  HEARTH TAX RECORDS/
+  MAJOR HISTORICAL EVENT/
+  OLD NEWS CLIPPINGS/
+  PARISH BOOKS/
+  VISITATION/
+  WILLS AND PROBATE/
+
+================================================================
+CRITICAL RULE
+================================================================
+The MAIN DOC is the only submission-grade document.
+Nothing enters it without passing PROMOTE_TO_MAIN_DOC protocol.
+All other files are lab, not courtroom.

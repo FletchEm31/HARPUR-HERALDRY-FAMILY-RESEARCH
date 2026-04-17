@@ -1,0 +1,87 @@
+ANNEX A — VERIFIED SUPPORTING EVIDENCE
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+PURPOSE
+================================================================
+Evidence that directly supports MAIN DOCUMENT claims.
+This is the evidence room. Everything here backs something
+already in the confirmed chain or directly adjacent to it.
+
+If it does not support a MAIN DOC entry — it does not belong here.
+Move it to ANNEX C (collateral) or ANNEX B (theory).
+
+================================================================
+WHAT BELONGS HERE
+================================================================
+  - Parish register extracts confirming MAIN DOC individuals
+  - Will and probate summaries for direct chain ancestors
+  - Hearth Tax entries confirming MAIN DOC household
+  - Visitation pedigree entries naming MAIN DOC individuals
+  - Chancery records naming MAIN DOC individuals
+  - IPM records for MAIN DOC ancestors
+  - Secondary source confirmations (Tier 2) of MAIN DOC entries
+    [flagged as SECONDARY — must be verified against primary]
+
+================================================================
+WHAT DOES NOT BELONG HERE
+================================================================
+  - Collateral family members not in the direct line
+  - Surname clusters not linked to a MAIN DOC individual
+  - Theory or hypothesis about unconfirmed connections
+  - Aggregator source data (Ancestry trees, unsourced FamilySearch)
+  - Any document not explicitly referencing a MAIN DOC individual
+
+================================================================
+FILING FORMAT (use for every entry)
+================================================================
+  Individual:      [Full name as in primary source]
+  WC-ID:           [WC-H00X]
+  Event:           [Baptism / Marriage / Burial / Probate / Other]
+  Date:            [Day Month Year as recorded]
+  Location:        [Parish, County]
+  Archive Ref:     [Exact archive reference]
+  WP-ID:           [WP-XXX-00X if probate document]
+  Certainty:       [PRIMARY CONFIRMED / CONFIRMED / LIKELY / POSSIBLE]
+  Supports:        [Which MAIN DOC entry this backs]
+  Notes:           [Any relevant detail from the document]
+
+================================================================
+CERTAINTY LABELS (mandatory — no unlabeled entries)
+================================================================
+  PRIMARY CONFIRMED     Original document image confirmed. States
+                        the fact directly. Can enter MAIN DOC.
+
+  CONFIRMED             Primary source exists. Fact inferred from
+                        clear context. Strong but not direct.
+
+  LIKELY                Tier 2 source. Primary not yet confirmed.
+                        Cannot enter MAIN DOC without upgrade.
+
+  POSSIBLE              Tier 3 index only. Document not yet seen.
+                        Flag for follow-up research.
+
+  UNCONFIRMED           Lead only. No source located yet.
+
+  DISPROVEN             Investigated and eliminated. Retained to
+                        prevent future re-investigation of dead end.
+
+================================================================
+CURRENT ANNEX A ENTRIES — APRIL 2026
+================================================================
+See: ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE_V2_1.md
+     (AI SOURCE DATA folder — master working file)
+
+Key confirmed entries include:
+  - PROB 11/9/246  Richard Harpur of Epping will 1492 (WP-TNA-001)
+  - PROB 11/59/108 Richard Harpur alias Harper 1577 (WP-TNA-002)
+  - PROB 11/89/461 Jane Harpur widow 1597 (WP-TNA-003)
+  - FB77/D1/1      Boxford parish register 1563-1600 (WP-SFK-001)
+  - FB80/D1/3      Nayland marriage register 1733 (WP-SFK-002)
+  - E179/257/17    Beccles Hearth Tax 1669 10 hearths (WP-TNA-008)
+  - Suffolk Visitation 1612 p.119 Harberd/Burwell connection
+
+================================================================
+RULE: ANNEX A IS NEVER UPDATED BEFORE MAIN DOC
+If a new finding upgrades a MAIN DOC entry, update MAIN DOC
+via PROMOTE_TO_MAIN_DOC first, then update ANNEX A to match.

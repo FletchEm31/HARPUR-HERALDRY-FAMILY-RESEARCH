@@ -1,0 +1,43 @@
+SESSION INITIALIZATION RULE — MANDATORY
+Harper Heraldry & Family Research | Boot Protocol V1.0
+
+================================================================
+EVERY SESSION MUST BEGIN WITH THESE STEPS — NO EXCEPTIONS
+================================================================
+
+STEP 1 — LOAD CORE DOCUMENTS
+Load the following files before any research work begins:
+  - MAIN DOC (primary source chain — read only)
+  - ANNEX A (verified supporting evidence)
+  - ANNEX B (theory and unconfirmed leads)
+  - ANNEX C (collateral gentry lines)
+  - ANNEX D (bulk data)
+  - SURNAME_EVOLUTION_HARPUR_TO_HARPER.md
+
+STEP 2 — STATE CURRENT SESSION OBJECTIVE
+Before any action, declare:
+  "Session objective: [specific task]"
+  "Current chain gap being worked: [gap description]"
+  "Documents being examined today: [list]"
+
+STEP 3 — CONFIRM CHAIN STATUS
+Review the last confirmed generation in MAIN DOC.
+Do not assume continuity from prior session without confirmation.
+State: "Last confirmed primary source link: [individual + source]"
+
+STEP 4 — CONFIRM OUTSTANDING ORDERS
+Review pending archive requests before new orders are placed:
+  - TNA documents ordered but not received
+  - Suffolk Archives requests outstanding
+  - Essex Record Office requests outstanding
+  - Any genealogist correspondence pending
+
+STEP 5 — DECLARE WORKING HYPOTHESIS
+If working a theory, state explicitly:
+  "Working hypothesis: [statement]"
+  "Current evidence level: LOW / MEDIUM / HIGH"
+  "Required to promote: [what document or source is needed]"
+
+================================================================
+RULE: DO NOT BEGIN RESEARCH BEFORE STEPS 1-5 ARE COMPLETE
+================================================================

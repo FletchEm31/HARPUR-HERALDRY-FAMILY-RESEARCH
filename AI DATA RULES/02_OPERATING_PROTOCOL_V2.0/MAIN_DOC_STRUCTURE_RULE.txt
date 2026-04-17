@@ -1,0 +1,66 @@
+MAIN DOC STRUCTURE RULE
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+THE MAIN DOC IS THE COURTROOM. TREAT IT ACCORDINGLY.
+================================================================
+
+PURPOSE
+  The submission-grade primary source lineage chain.
+  This is what you hand to the College of Arms.
+  Every word in it must be defensible under scrutiny.
+
+================================================================
+WHAT IT CONTAINS
+================================================================
+  ✓ Verified lineage links (PRIMARY CONFIRMED only)
+  ✓ Primary-source-confirmed individuals
+  ✓ Direct patrilineal generational chain only
+  ✓ Exact archive references for every entry
+  ✓ Certainty label for every entry
+  ✓ Explicitly marked generational gaps
+  ✓ Maximum 1-2 strongest unproven leads (clearly labeled)
+    beyond the last confirmed generation
+
+================================================================
+WHAT IT DOES NOT CONTAIN
+================================================================
+  ✗ Theory or speculation of any kind
+  ✗ Narrative expansion or storytelling
+  ✗ Emotional framing or family pride language
+  ✗ Likely / probably / possibly / suggests
+  ✗ Aggregator or secondary-source-only entries
+  ✗ Collateral family members not in direct line
+  ✗ Unmarked gaps
+
+================================================================
+STYLE RULES
+================================================================
+  - Chronological order (oldest to most recent)
+  - Tabular format where possible
+  - Each entry: Name | Event | Date | Location | Source
+  - No narrative sentences in the chain table itself
+  - Brief explanatory notes permitted — labeled as [NOTE]
+  - Generational gaps explicitly marked — labeled as [GAP]
+
+================================================================
+EDIT RULES — NON-NEGOTIABLE
+================================================================
+  1. NEVER edit MAIN DOC directly during a research session
+  2. ALL additions must pass PROMOTE_TO_MAIN_DOC first
+  3. MAIN DOC is the .md file in AI SOURCE DATA — master copy
+  4. PDF version is for sharing only — never edit the PDF
+  5. Version number increments with every confirmed addition
+  6. Both .md and any DOCX updated simultaneously
+  7. Rebuild document cleanly — do not incrementally patch
+
+================================================================
+CURRENT VERSION STATUS
+================================================================
+  File:     MAIN_DOC_HARPER_LINEAGE_PRIMARY_SOURCE_CHAIN
+  Location: AI SOURCE DATA (working .md)
+            Project Files (reference copy)
+  Last confirmed addition: April 2026
+  Last confirmed generation: James Harper bapt. Nayland 1748
+  Next target: Close Gap 1 (Essex-Suffolk bridge)
+               via TNA C1 Bundle 326 (ordered)
