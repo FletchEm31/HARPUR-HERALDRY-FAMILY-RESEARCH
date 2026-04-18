@@ -1,0 +1,239 @@
+ANNEX D — CITATION & WORKS CITED REGISTER
+Harper Heraldry & Family Research | Operating Protocol V2.0
+
+================================================================
+PURPOSE
+================================================================
+The source index for the entire project. Every document, archive
+reference, and secondary source used anywhere in the research
+is registered here with a unique WP-ID.
+
+This file contains INDEX ONLY — no interpretation, no conclusions.
+Perplexity is the primary maintainer of this file.
+
+================================================================
+ID FORMAT
+================================================================
+  WP-TNA-###    The National Archives documents
+  WP-SFK-###    Suffolk Archives documents
+  WP-ESX-###    Essex Record Office documents
+  WP-DRB-###    Derbyshire Record Office documents
+  WP-BL-###     British Library manuscripts
+  WP-PUB-###    Published secondary sources
+  WP-ONL-###    Online databases (flagged by tier)
+
+================================================================
+ENTRY FORMAT
+================================================================
+  WP-ID:        [ID]
+  Title:        [Document title or description]
+  Archive:      [Repository name]
+  Reference:    [Exact archive reference]
+  Date:         [Document date]
+  Type:         [PRIMARY / SECONDARY / TERTIARY / AGGREGATOR]
+  Status:       [CONFIRMED READ / ORDERED / TO ORDER / PENDING]
+  Used in:      [Which annex/document cites this source]
+  Notes:        [Any relevant access or transcription notes]
+
+================================================================
+CURRENT REGISTER — TNA DOCUMENTS
+================================================================
+WP-TNA-001  Will of Richard Harpur of Epping | TNA | PROB 11/9/246
+            Proved January 1492/3 | PRIMARY | CONFIRMED READ Apr 2026
+            Testator: Richard Harpur, Epping, Essex
+            Key facts:
+              - Widow/administratrix: Dame Elizabeth
+              - Elder son: Richard Harper
+              - Younger son: John Harper — proposed ancestor, inherits Essex lands
+              - Future heir: Humfrey Harpur
+              - "Nepoti meo filio filii" — grandson, son of his son
+              - Burial: Chancel of St Mary at Latton church
+              - Bequests: Latton church; All Saints Epping; Church of Rushall, Staffordshire
+              - Rushall bequest = primary source proof of Essex/Derbyshire family link
+            Routing: ANNEX A (Essex chain + Staffordshire link) + ANNEX E
+            Certainty: HIGH
+            Works Cited: Harpur, Richard, of Epping, Essex. Will. Prerogative Court of Canterbury,
+              PROB 11/9/246. The National Archives, Kew. Proved January 1492/3.
+            Digital access: TNA Discovery; Ancestry/Findmypast images
+            Used in: MAIN DOC, ANNEX A, ANNEX E
+
+WP-TNA-002  Will of Richard Harpur alias Harper, Swarkeston | TNA
+            PROB 11/59/108 | Dated July 1576; proved 7 Feb 1576/7 | PRIMARY | CONFIRMED READ Apr 2026
+            Testator: Richard Harpur alias Harper, Justice of Common Pleas, Swarkeston, Derbyshire
+            Key facts:
+              - HARPUR ALIAS HARPER confirmed in opening line — definitive spelling proof
+              - Eldest son: John Harpur — inherits Swarkeston, father of 1st Baronet
+              - Second son: Richard — inherits Starkcastle Yorkshire + Milton Derbyshire
+              - Step son John — separate individual, not blood Harpur, irrelevant to chain
+              - Wife: Jane Harpur — life interest in all goods, co-executor
+              - Executors: Jane Harpur (wife) and Richard Harper (son)
+              - Codicil signed personally by Richard Harpur 1576
+              - Probate oath taken by George — possibly son acting as nominee
+              - Burial: Swarkeston Church new chapel
+              - Poor relief: Swarkston, Chelafton, Mellbow
+            Routing: ANNEX A (Harpur alias Harper spelling proof + baronetcy line confirmation) + ANNEX E
+            Certainty: HIGH
+            Works Cited: Harpur alias Harper, Richard, Justice of Common Pleas, of Swarkeston.
+              Will and Codicil. Prerogative Court of Canterbury, PROB 11/59/108.
+              The National Archives, Kew. Dated July 1576; proved 7 February 1576/7.
+            Digital access: TNA Discovery; Ancestry/Findmypast images
+            Used in: ANNEX A, ANNEX E
+
+WP-TNA-003  Will of Jane Harpur, Widow, Swarkeston | TNA
+            PROB 11/89/461 | 1597 | PRIMARY | CONFIRMED READ
+            Used in: ANNEX A (confirms John Harpur = 1st Baronet's father)
+
+WP-TNA-004  Will of Dame Constance Colepepur, Kent | TNA
+            PROB 11/29 | 1542 | PRIMARY | CONFIRMED READ
+            Used in: ANNEX A
+
+WP-TNA-005  Will of William Harbard, Gent., Sutton Suffolk | TNA
+            PROB 11/132/106 | 1571 | PRIMARY | CONFIRMED READ
+            Used in: ANNEX B (hypothesis 3)
+
+WP-TNA-006  Hearth Tax, Beccles, Suffolk | TNA | E179/257/15
+            1663 | PRIMARY | CONFIRMED READ | Used in: ANNEX A
+
+WP-TNA-007  Hearth Tax, Beccles, Suffolk | TNA | E179/257/12
+            1664 | PRIMARY | CONFIRMED READ | Used in: ANNEX A
+
+WP-TNA-008  Hearth Tax, Beccles, Suffolk | TNA | E179/257/17
+            1669 (10 hearths) | PRIMARY | CONFIRMED READ
+            Used in: ANNEX A (gentry-level property argument)
+
+WP-TNA-009  IPM Richard Harper Essex c.1518 | TNA | E150/303/7
+            ORDERED — 24 working days | Status: PENDING
+
+WP-TNA-010  Sir Charles Harberd probate 1679 | TNA | PROB 18/11/62
+            ORDERED | Status: PENDING | Used in: ANNEX C
+
+WP-TNA-011  Chancery — Harberd | TNA | C2/ChasI/S60/60
+            ORDERED | Status: PENDING
+
+WP-TNA-012  Chancery — Harberd | TNA | C9/79/70
+            ORDERED | Status: PENDING
+
+WP-TNA-013  Chancery — Francis Harberd | TNA | C2/Eliz/M7/4
+            ORDERED | Status: PENDING | Used in: ANNEX C
+
+WP-TNA-014  Chancery — Harberd | TNA | C2/ChasI/H110/58
+            ORDERED | Status: PENDING
+
+WP-TNA-015  Chancery — Richard Harper Suffolk | TNA | C1 Vol.4
+            p.286 Bundle 329 | TO ORDER | Status: NOT YET ORDERED
+
+WP-TNA-016  Chancery — John Harper Suffolk | TNA | C1 Vol.4
+            p.278 Bundle 326 | ORDERED — AWAITING PHYSICAL COPY
+            *** CRITICAL LINCHPIN DOCUMENT ***
+
+WP-TNA-017  Will + Codicil of Sir Henry Harpur, 6th Baronet of Calke Abbey | TNA
+            PROB 11/1175/248 | Dated 4 Feb 1789; proved 14 Feb 1789 | PRIMARY | CONFIRMED READ Apr 2026
+            Testator: Sir Henry Harpur, 6th Baronet (1739-1789), Calke, Derbyshire
+            Key facts:
+              - Wife: Lady Frances Harpur — annuity £1,200/yr on Manor of Swarkston; furniture use until son age 21
+              - Son/Heir: Sir Henry Harpur (7th Baronet, b.1763) — inherits at age 21
+              - Executors: Martha Bummings/Cummings (administration granted); Elizabetha Bummings (daughter, co-executor)
+              - Codicil: Rachel Tracy (£200 guineas); William Holmes (wages + one year's wages)
+            Court: Prerogative Court of Canterbury; before William Battine, Doctor of Laws
+            Digital access: TNA Discovery https://discovery.nationalarchives.gov.uk/details/r/D564098; Ancestry/Findmypast PCC Wills 1384-1858
+            Routing: ANNEX C (collateral baronetcy confirmation) + ANNEX E (probate cross-ref)
+            Certainty: HIGH
+            Works Cited: Harpur, Sir Henry, 6th Baronet. Will and Codicil. Prerogative Court of Canterbury,
+              PROB 11/1175/248. The National Archives, Kew, UK. Dated 4 Feb 1789; proved 14 Feb 1789
+              before William Battine, Doctor of Laws. Digital images via Ancestry.com and Findmypast.co.uk.
+            NOTE: Initially filed as 5th Baronet in error — CORRECTED to 6th Baronet per Perplexity verification
+            Used in: ANNEX C, ANNEX E
+
+WP-TNA-018  Will of Sir George Harper, Knight, of Sutton Valence, Kent | TNA
+            PCC 10 Welles | PROB 11 series | Dated 8 Nov 1558 | PRIMARY | TO ORDER
+            Testator: Sir George Harper (1503-1558), Blackfriars, London
+            Key facts:
+              - Wife/executrix: Audrey (second wife, nee Gainsford)
+              - No legitimate male heirs confirmed
+              - Residence Sutton Valence to William Isley (sister's son-in-law)
+              - Putative children of first marriage provided for by Richard Morison
+            Routing: ANNEX E (probate) + ANNEX A if siblings or relatives named
+            Certainty: HIGH (document existence confirmed via History of Parliament footnote)
+            Priority: HIGH — may name siblings or junior branch relatives; critical for
+                      identifying any family member who migrated to Suffolk post-1558
+            Used in: TO BE CONFIRMED on receipt
+            Cross-ref: WP-PUB-001 (History of Parliament cites this document)
+
+================================================================
+CURRENT REGISTER — SUFFOLK ARCHIVES
+================================================================
+WP-SFK-001  Boxford parish register | Suffolk Archives | FB77/D1/1
+            1538-1812 | PRIMARY | CONFIRMED READ
+            Used in: MAIN DOC, ANNEX A
+
+WP-SFK-002  Stoke-by-Nayland parish register | FB80/D1/3
+            Marriage 1733 | PRIMARY | CONFIRMED READ
+            Used in: MAIN DOC
+
+WP-SFK-003  Nayland parish register | FB64/D1/1
+            Baptism 1748 | PRIMARY | CONFIRMED READ
+            Used in: MAIN DOC
+
+WP-SFK-004  Beccles St Michael register | 109/D2/11
+            1661, 1705 | PRIMARY | CONFIRMED READ (image needed 1705)
+            Used in: MAIN DOC
+
+WP-SFK-005  Will of Christopher Harper of Bury St Edmunds | Suffolk Archives Ipswich
+            IC/500/2/49/100 (cross-ref IC/500/1/71/76)
+            Dated 9 Aug 1614; proved 22 Oct 1614 | PRIMARY | CONFIRMED READ Apr 2026
+            Testator: Christopher Harper, Bury St Edmunds, Suffolk
+            Key facts:
+              - Wife: Alice Harper (executrix, residuary legatee)
+              - Sons: Christopher Harper (eldest, £30); Francis Harper (£30)
+              - Brothers: Thomas Harper; William Harper; Andrew Harper
+              - Executor: Nippeas Hearte of Bury St Edmunds, maltster
+              - Proved before surrogate Johannes Howell, notary Barnabas Borge
+              - Archdeaconry of Sudbury
+            Routing: ANNEX A (Suffolk Harper cluster pre-1623 John Harbar) + ANNEX E (probate index)
+            Certainty: HIGH
+            NOTE: Perplexity routed to Annex B — CORRECTED to Annex A. Primary confirmed evidence,
+                  not theory. Four Harper brothers at Bury St Edmunds 1614, one generation before
+                  John Harbar's confirmed 1623 marriage at same parish.
+            Works Cited: Harper, Christopher, of Bury St Edmunds, Suffolk. Will. Archdeaconry of
+              Sudbury, IC/500/2/49/100 (cross-ref IC/500/1/71/76). Suffolk Archives, Ipswich.
+              Dated 9 August 1614; proved 22 October 1614 before Johannes Howell.
+            Used in: ANNEX A, ANNEX E
+
+================================================================
+CURRENT REGISTER — PUBLISHED SECONDARY SOURCES
+================================================================
+WP-PUB-001  History of Parliament Online — Sir George Harper, MP for Kent (1503-1558)
+            History of Parliament Trust | TIER 2 SECONDARY | CONFIRMED READ Apr 2026
+            Full Ref: Harper, Sir George (1503-58), of Sutton Valence, Kent and London
+            History of Parliament: House of Commons 1509-1558 (pub.1981, online ongoing)
+            URL: https://www.historyofparliamentonline.org/volume/1509-1558/member/harper-sir-george-1503-58
+            Subject: Sir George Harper (b.11 Mar 1503 – d.Dec 1558, Blackfriars, London)
+            Key facts:
+              - Parents: Richard Harper III of Latton, Essex x Dame Constance nee Chamberlayne/Colepeper
+              - Wife 1: Lucy, dau. of Thomas Peckham (d.1552)
+              - Wife 2: Audrey, dau. of Sir John Gainsford of Crowhurst, Surrey
+              - Children: NO legitimate male heirs — two putative sons biologically Richard Morison's
+              - Career: Knighted Feb 1547; MP Kent 1545; JP Kent; imprisoned Tower 1554 (Wyatt's Rebellion)
+              - Will: dated 8 Nov 1558 — PCC 10 Welles (cross-ref WP-TNA-018 — TO ORDER)
+              - Died Dec 1558 Blackfriars London; buried St Martin's Ludgate
+            Routing: ANNEX A (Essex Harper gentry confirmation) + ANNEX E cross-ref (WP-TNA-018)
+            Certainty: HIGH
+            Used in: ANNEX A, MAIN DOC refs
+
+WP-PUB-002  Victoria County History, Essex Vol.8 pp.186-195
+            British History Online | TIER 2 | Used in: ANNEX A
+
+WP-PUB-003  Suffolk Visitation 1612, p.119
+            Harleian Society | TIER 2 | Used in: ANNEX C
+
+WP-PUB-004  The House of Harper (J. Henry Harper, 1912)
+            Archive.org | TIER 2 | Used in: ANNEX A
+
+WP-PUB-005  Willmore's Records of Rushall (1892)
+            Archive.org | TIER 2 | Used in: ANNEX B
+
+WP-PUB-006  Burke's General Armory (1884)
+            Archive.org | TIER 2 | Used in: ANNEX C
+
+WP-PUB-007  Suffolk in 1674 (ed. Hervey, 1905)
+            Archive.org | TIER 2 | Used in: ANNEX A

@@ -1,0 +1,14 @@
+"Generate a Works Cited entry AND format it as a ready-to-file ANNEX D entry. This will be passed to Claude for official filing, as Claude holds write privileges and project seniority on the Harper Lineage Research project. Use this exact format:
+WP-ID: [next available — current highest is WP-TNA-017]
+WP-TITLE: [document title]
+ARCHIVE: [repository]
+FULL REF: [exact archive reference]
+DATE: [document date]
+TYPE: [PRIMARY / SECONDARY]
+TESTATOR/SUBJECT: [name, title, location]
+KEY FACTS: [bullet points — names, relationships, bequests, dates]
+ROUTING: [which Annex + reason]
+CERTAINTY: [HIGH / MEDIUM / LOW]
+DIGITAL ACCESS: [where to find it]
+RELEVANCE: [one sentence on why it matters to the Harper lineage research]
+STATUS: READY TO FILE — pending Claude confirmation"**

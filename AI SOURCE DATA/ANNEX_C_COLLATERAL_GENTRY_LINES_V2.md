@@ -19,6 +19,8 @@ Richard Harpur alias Harper, Justice of Common Pleas | Swarkeston, Derbyshire | 
 Jane Harpur — widow of Justice | Swarkeston, Derbyshire | d.1597 | PROB 11/89/461 — names sons John and Richard. John = father of 1st Baronet.
 John Harpur of Swarkeston | Swarkeston, Derbyshire | fl.1580s-1620s | Father of Sir Henry Harpur 1st Baronet. Confirmed in Jane's will.
 Sir Henry Harpur, 1st Baronet | Calke Abbey, Derbyshire | 1579-1638 | Created Baronet 1626. Third of twelve children.
+Sir Henry Harpur, 5th Baronet | Calke Abbey, Derbyshire | 1708-1748 | Father of 6th Baronet. Confirmed by succession records.
+Sir Henry Harpur, 6th Baronet | Calke Abbey, Derbyshire | 1739-1789 | PROB 11/1175/248 — PCC will proved 14 Feb 1789. Wife Lady Frances Harpur (annuity £1,200/yr on Swarkston Manor). Son Sir Henry Harpur (heir = 7th Baronet, later assumed surname Crewe 1808, d.1819). Executors: Martha & Elizabetha Bummings. Codicil: Rachel Tracy (£200 guineas), William Holmes (wages). WP-TNA-017. PRIMARY — confirmed read Apr 2026.
 Sir Vauncey Harpur Crewe, 10th Baronet | Calke Abbey, Derbyshire | d.1924 | Last holder. Title lapsed — never declared extinct. Status: DORMANT.
 Andrew Johnson / Harpur Crewe LLC | Vermont USA / Calke Abbey | d.2014 | FEMALE LINE ONLY — cannot support baronetcy claim.
 
