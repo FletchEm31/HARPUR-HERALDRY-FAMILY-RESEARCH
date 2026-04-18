@@ -143,6 +143,15 @@ WP-TNA-010
 REGISTER — OUTSTANDING ARCHIVE SEARCHES
 ================================================================
 
+SUFFOLK ARCHIVES — PAR183 PARISH IDENTITY
+  Search:     Identify parish register labelled PAR183 on Ancestry
+              Entry: "John Harper the sonne of John Harper was Christened 18 of November 1604"
+  Contacts:   accesstoarchives@suffolk.gov.uk
+              info@suffolkarchives.co.uk
+  Status:     AWAITING RESPONSE (sent 11 Apr 2026)
+  Chase by:   28 April 2026
+  Priority:   HIGH — if Suffolk parish confirmed, potential bridge document
+
 SUFFOLK — BURY ST EDMUNDS BRANCH
   Search:     Probate, Archdeaconry of Sudbury
   Variants:   Harberde/Harbard/Harbarde/Harbar/Harbor/Harberd/Harper
@@ -153,5 +162,15 @@ SUFFOLK — BURY ST EDMUNDS BRANCH
 
 ESSEX RECORD OFFICE
   Search:     Richard Harper III will, Essex probate 1505-1520
-  Status:     AWAITING RESPONSE (sent April 11 2026)
+              + manorial court rolls Stanford Rivers/Stapulford c.1500-1530
+              + Feet of Fines vol.iv pages 3,23,40,53,68
+              + IPM Richard Harper Latton/Epping c.1505-1515
+              + Fine/recovery records Stanford/Stapulford c.1507-1515
+              + Harper/Harber entries Epping/Latton/Barking c.1490-1530
+              + PAR183 parish identification — John Harper son of John Harper bapt. 18 Nov 1604
+              + Essex records referencing Richard Harper receiver-general 1464-1492
+              + CPR 1467-77 p.443 chantry at Swinford
+  Status:     3 emails sent 11 Apr 2026 — AWAITING RESPONSE
+  Chase by:   28 April 2026 (10 working days per auto-reply)
+  Contact:    ero.enquiry@essex.gov.uk | 03330 132497
   Priority:   HIGHEST ESSEX PRIORITY

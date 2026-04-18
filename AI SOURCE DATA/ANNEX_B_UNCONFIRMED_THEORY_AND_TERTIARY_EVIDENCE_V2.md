@@ -62,13 +62,100 @@ PROB 11/132/106 — William Harbard of Sutton will | 1571 | William Harbard name
 
 1. PRIORITY ACTIONS
 Priority | Action | Cost/Status
-ORDER TODAY | TNA C1 Vol.4 Page 278 Bundle 326 — John Harper Suffolk/Norfolk 1504-1515 | 9.92 GBP — not yet ordered
-DOWNLOAD FREE | PROB 11/30 — Alexander Culpeper will 1541 | Free — TNA Discovery
+ORDERED | TNA C1/326/40 — John Harper Suffolk/Norfolk 1504-1515 | RC8271591 — due 30 Apr 2026
+ORDERED | TNA C1/948/11 — Barley v Harper, Latton manor 1538-1544 | RC8274724 — ordered 18 Apr 2026
 AWAITING | Essex Record Office — John Harper Latton/Epping probate c.1510-1540 | Sent 11 Apr 2026
 AWAITING | Suffolk Archives — John Harbarde burial/will Boxford c.1580-1610 | Outstanding
-ORDER | TNA C 1/948/11-14 — Barley v Harper, Latton manor 1538-1544 | 9.92 GBP
 SEARCH NEEDED | Staffordshire Visitation Glover 1583 — closes baronetcy line gap | British Library or Ancestry
 SEARCH NEEDED | Boxford FB77/D1/1 — Constance as given name 1540-1600 | Suffolk Archives
+
+SUFFOLK HARPER CHANCERY CLUSTER — NEW FINDS 18 APRIL 2026
+Status: UNCONFIRMED — documents not yet ordered/read
+All require copy requests from TNA Kew
+
+CRITICAL:
+1. C 1/1358/21-23 — Harper v Lawes, 1553-1555
+   Thomas, son of John Harper deceased — property in Suffolk OR Derbyshire
+   Defendants: John Lawes and Richard Stratforde
+   Subject: Close in Wyngfold late of Agnes Stratford
+   SIGNIFICANCE: Dual Suffolk/Derbyshire geographic reference — exactly the two counties
+   at the heart of the entire research. John Harper deceased before 1553, his son Thomas
+   active. Could place our John Harper Esq as recently deceased with son Thomas as heir.
+
+2. C 1/981/98-99 — Ewen v Harper, 1538-1544
+   John Harper of Wingfield, Suffolk — defendant
+   Subject: Lands in Dennington, Suffolk
+   SIGNIFICANCE: John Harper in Suffolk 1538-1544 — directly in our migration window.
+   Wingfield is 25 miles northeast of Boxford.
+
+HIGH PRIORITY:
+3. C 2/JasI/H30/61 — Harper v Chauncey, 1603-1625
+   Thomas Harper (uncle and next heir of John Harper) — plaintiff
+   Subject: Lands in Syleham, Essham, manor of Monks Hall, Syleham, Suffolk
+   SIGNIFICANCE: Harper family structure in Suffolk — uncle/nephew inheritance pattern.
+
+4. C 1/329/1 — Kyngsey v Harper, 1504-1515
+   Richard Harper — defendant
+   Subject: Property in Mendham and Wyddershale, Suffolk
+   SIGNIFICANCE: Richard Harper in Suffolk 1504-1515 — same window as C1/326/40.
+
+MEDIUM PRIORITY:
+5. C 3/96/56 — Harper v Plumpton, 1558-1579 | William Harper, Huntingfield Suffolk
+6. C 9/33/100 — Smalpeice v Harper, 1664 | John Harper, Withersdale Suffolk
+7. DL 4/28/51 — Wakering v Harper, 1585-1586 | Harper, Stoke-by-Clare Suffolk — Duchy of Lancaster
+8. C 8/371/20 — Felton v Harper, 1711 | Daniel Harper, Beccles Suffolk
+9. C 142/33/11 — Richard Harper Essex IPM 1518-1519 — companion to E150/303/7
+
+LOG ONLY — Birmingham Archives:
+MS 3415/21 — George Harper, Esquire for body of King, Essex, 1543. Annex A material.
+
+CERTAINTY: ALL UNCONFIRMED — documents not yet read
+Status: UNCONFIRMED — TO ORDER
+Source: TNA C 8/371/20 — Felton v Harper
+Subject: Amy Felton widow (plaintiff) v Daniel Harper (defendant)
+Property: Worlingham and Beccles, Suffolk
+Date: 1711
+Note: Cannot be downloaded — requires copy request from TNA Kew
+Significance: Daniel Harper in property dispute in Beccles 1711 — exactly the time and place of our Joseph Harboe/Harbar chain. If Daniel Harper is connected to our line this places a Harper-spelled family member in Beccles at the right moment. TO ORDER — request copy from TNA.
+CERTAINTY: UNCONFIRMED — document not yet seen
+Status: WORKING THEORY | UNCONFIRMED — parish identity unknown
+Source: Ancestry user upload, labelled PAR183. Primary image confirmed April 2026.
+
+Entry reads: "John Harper the sonne of John Harper was Christened 18 of November 1604"
+
+Key observations:
+- Surname spelled HARPER — the Essex spelling, not the Suffolk Harbertt/Herber variant
+- Father also named John Harper — same name carried through generations
+- Suggests a family that arrived in Suffolk relatively recently and hadn't yet had their name phonetically altered by Suffolk clerks
+
+Generational math:
+- John Harper of Essex inherits c.1507
+- Arrives Suffolk c.1507-1510
+- His son/grandson maintains the Harper spelling
+- By 1604 — John Harper son of John Harper in a Suffolk parish
+
+This is exactly what you would expect to see if the Essex Harper line migrated to Suffolk — the original Harper spelling persisting for 2-3 generations before either dying out or being absorbed into the Harbertt/Herber variant cluster.
+
+If PAR183 is confirmed as a Suffolk parish register this would be the documentary bridge — placing a Harper-spelled family in Suffolk in the exact generational window predicted by the migration hypothesis.
+
+OUTSTANDING: Parish identity unconfirmed. Emails sent 11 April 2026 to:
+- accesstoarchives@suffolk.gov.uk
+- info@suffolkarchives.co.uk
+- ero.enquiries@essex.gov.uk (asked if PAR183 falls within ERO holdings)
+CHASE IF NO RESPONSE BY: 28 April 2026
+CERTAINTY: UNCONFIRMED — linchpin document if parish confirmed as Suffolk
+Status: WORKING THEORY | INFERENCE ONLY
+Sources: PROB 11/30 (Alexander Culpeper will 1541) + PROB 11/29/217 (Constance Colepepur will 1542)
+
+Sir Alexander Culpeper named five church bequests — one to St Mary Bures, Suffolk. Bures is 4 miles from Boxford. His wife Dame Constance (née Chamberlayne) had family estates at Capel St Mary — 8.5 miles from Boxford. Her brother Sir Edward Chamberlayne named as overseer.
+
+Two independent primary sources confirm the Chamberlayne family's Suffolk geographic footprint:
+- Culpeper bequest to St Mary Bures (PROB 11/30) — 4 miles from Boxford
+- Chamberlayne estates at Capel St Mary — 8.5 miles from Boxford
+
+Constance was first married to Richard Harper III of Latton Essex — John Harper Esq's nephew. If John Harper Esq followed his sister-in-law's family connections into Suffolk after 1509, he would be settling within walking distance of known Chamberlayne territory. This is the geographic mechanism supporting the Essex-Suffolk migration hypothesis.
+
+CERTAINTY: INFERENCE ONLY — no primary source directly links John Harper Esq to this geography.
 
 
 

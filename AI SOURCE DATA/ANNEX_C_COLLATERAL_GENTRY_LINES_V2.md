@@ -19,8 +19,7 @@ Richard Harpur alias Harper, Justice of Common Pleas | Swarkeston, Derbyshire | 
 Jane Harpur — widow of Justice | Swarkeston, Derbyshire | d.1597 | PROB 11/89/461 — names sons John and Richard. John = father of 1st Baronet.
 John Harpur of Swarkeston | Swarkeston, Derbyshire | fl.1580s-1620s | Father of Sir Henry Harpur 1st Baronet. Confirmed in Jane's will.
 Sir Henry Harpur, 1st Baronet | Calke Abbey, Derbyshire | 1579-1638 | Created Baronet 1626. Third of twelve children.
-Sir Henry Harpur, 5th Baronet | Calke Abbey, Derbyshire | 1708-1748 | Father of 6th Baronet. Confirmed by succession records.
-Sir Henry Harpur, 6th Baronet | Calke Abbey, Derbyshire | 1739-1789 | PROB 11/1175/248 — PCC will proved 14 Feb 1789. Wife Lady Frances Harpur (annuity £1,200/yr on Swarkston Manor). Son Sir Henry Harpur (heir = 7th Baronet, later assumed surname Crewe 1808, d.1819). Executors: Martha & Elizabetha Bummings. Codicil: Rachel Tracy (£200 guineas), William Holmes (wages). WP-TNA-017. PRIMARY — confirmed read Apr 2026.
+Sir John Harpur, Baronet | Calke Abbey, Derbyshire | will dated 2 Oct 1668 | PROB 11/332/342 — PRIMARY IMAGE CONFIRMED April 2026. Names wife Susan Harpur, younger children, Calke household goods. 2nd or 3rd Baronet. Annex C only.
 Sir Vauncey Harpur Crewe, 10th Baronet | Calke Abbey, Derbyshire | d.1924 | Last holder. Title lapsed — never declared extinct. Status: DORMANT.
 Andrew Johnson / Harpur Crewe LLC | Vermont USA / Calke Abbey | d.2014 | FEMALE LINE ONLY — cannot support baronetcy claim.
 
@@ -49,6 +48,12 @@ Cadency — Hayden's position | Crescent (second son) | Hayden F. Harper is the 
 A separate family tree prepared by Hayden's uncle documents a connection to Charlemagne (748-814) through the female line. AncestryDNA results (Hayden F. Harper, April 2026): 28% Central Scotland \& Northern Ireland; 13% Southern Germanic Europe; 12% Southeastern England \& NW Europe; 10% Sweden; 9% Northern Wales \& NW England; 7% North Central Europe; 6% Netherlands; 4% NW Germany; 3% Donegal; 2% Hebrides \& Western Highlands; 2% Munster Ireland; 2% Leinster Ireland; 1% Ashkenazi Jews; 1% Estonia \& Latvia. Ancestral journey: Early Connecticut \& New York Settlers.
 
 NOTE: Charlemagne descent is near-universal among people of Western European ancestry. Limited value for College of Arms petition unless specific armigerous female-line ancestor can be documented.
+
+5. Luce (Lucy) Harpur — UNIDENTIFIED HARPUR INDIVIDUAL
+Source: Will of Dame Constance Colepepur (PROB 11/29/217), proved 13 November 1542.
+Reference: "a bay colte, the dam of yt I bought of Luce Harpur"
+Notes: A woman named Harpur conducting horse trade with Constance — close enough for direct personal transactions. Could be sister-in-law (widow of a Harpur brother), or collateral Harpur family member in Kent/Essex. Not yet identified. Given Constance's first marriage was to a Harper, Luce Harpur is almost certainly connected to that Harper family. FLAGGED FOR FOLLOW-UP.
+Certainty: UNCONFIRMED — index entry only | Annex C
 
 ANNEX C — Collateral Gentry Lines | Harper/Harberd Research | Updated April 2026 | Internal Use Only
 

@@ -102,8 +102,8 @@ IC/500/5/1/4/4f | Hugo Harbarde of Boxford — Administration | January 1570/71 
 IC/500/1/71/76 | Christopher Harper, Bury St Edmunds — Will | Proved Oct 1614 | PRIMARY IMAGE CONFIRMED April 2026 | Brothers Thomas, William, Andrew Harper at Bury St Edmunds.
 E150/303/7 | IPM Richard Harper Essex 1518 | 1518 | ORDERED — 24 working days | Will confirm family structure around Richard III and George.
 PROB 18/11/62 | Sir Charles Harberd kt, probate | 1679 | ORDERED — 24 working days | Will name Harberd heirs.
-C1 Vol.4 Page 278 Bundle 326 | John Harper Suffolk/Norfolk 1504-1515 | 1504-1515 | NOT YET ORDERED — ORDER TODAY 9.92 GBP | Places John Harper in Suffolk during exact migration window.
-C 1/948/11-14 | Barley v Harper, Latton manor 1538-1544 | 1538-1544 | NOT YET ORDERED — 9.92 GBP | George Harper defending Latton manor.
+C1/326/40 | John Harper Suffolk/Norfolk 1504-1515 | 1504-1515 | ORDERED 16 Apr 2026 | RC8271591 — due 30 Apr 2026 | Critical linchpin document.
+C1/948/11 | Barley v Harper, Latton manor 1538-1544 | 1538-1544 | ORDERED 18 Apr 2026 | RC8274724 | George Harper defending Latton manor — deeds detention.
 
 
 
@@ -144,13 +144,14 @@ Mary Harper | Bapt. c.1746-1750 | FB64/D1/1 | Certified copy requested
 
 
 
-7. Archive Status
+7. Archive Status — Updated 18 April 2026
 Archive | Status
 Suffolk Archives Ipswich — Katie Bishop | 114.25 GBP order PENDING — awaiting response to April 3 email
-Suffolk Archives Bury St Edmunds | Probate search sent 7 Apr 2026 — AWAITING RESPONSE
-Essex Record Office | John Harper probate search sent 11 Apr 2026 — AWAITING RESPONSE
-TNA — E150/303/7 and PROB 18/11/62 | ORDERED — 24 working days
-TNA — C1 Bundle 326 | NOT YET ORDERED — ORDER TODAY
+Suffolk Archives — accesstoarchives & info | PAR183 parish identity query sent 11 Apr 2026 to accesstoarchives@suffolk.gov.uk AND info@suffolkarchives.co.uk — AWAITING RESPONSE | CHASE IF NO RESPONSE BY 28 Apr 2026
+Essex Record Office | 3 emails sent 11 Apr 2026 — 9 separate requests — AWAITING RESPONSE | Auto-reply confirms 10 working days — CHASE IF NO RESPONSE BY 28 Apr 2026 | ero.enquiry@essex.gov.uk
+TNA — E150/303/7 and PROB 18/11/62 | ORDERED — 24 working days from April 2026
+TNA — C1/326/40 (Jermy v Throgmerton — John Harper Suffolk 1504-1515) | ORDERED 16 Apr 2026 | RC8271591 | Due 30 Apr 2026
+TNA — C1/948/11 (Barley v Harper — Latton manor 1538-1544) | ORDERED 18 Apr 2026 | RC8274724
 Calke Abbey National Trust | GM reply expected — call scheduled
 
 
