@@ -1,0 +1,154 @@
+END_SESSION
+Harper Heraldry & Family Research | AI DATA RULES
+
+================================================================
+RUN THIS AT THE CLOSE OF EVERY CLAUDE SESSION
+================================================================
+Paste this prompt at session close. Claude executes all 5 steps
+in sequence. Do not skip steps. Do not close without Step 3.
+================================================================
+
+
+STEP 1 — SESSION SUMMARY
+================================================================
+Claude states:
+
+  SESSION ID:    SESSION_DDMMMYYYY  (e.g. SESSION_19APR2026)
+  DATE:          [full date]
+  OBJECTIVE:     [what this session set out to do]
+
+KEY FINDINGS — label every item:
+  [CONFIRMED]    Primary source verified. Promotable.
+  [STRONG LEAD]  Corroborated but not yet primary. Stays in ANNEX A/B.
+  [HYPOTHESIS]   Working theory. ANNEX B only.
+  [DISPROVEN]    Lead eliminated. Retained and labeled in annex.
+  [NO FINDING]   Searched, nothing found. Log the null result.
+
+NEW DOCUMENTS — state for each:
+  Type: ORDERED / RECEIVED / REVIEWED / FOUND (online)
+  Reference: [TNA ref or archive identifier]
+  Filed in: [which HROS_SOURCE file]
+
+FILES UPDATED THIS SESSION:
+  [filename] — [one line describing what changed]
+  If no files updated → state: NO FILE CHANGES THIS SESSION
+
+
+STEP 2 — FILE INTEGRITY CHECK
+================================================================
+Claude reads all 11 HROS_SOURCE files and confirms the following.
+State PASS or FAIL for each line. FAIL requires a note.
+
+  READABILITY
+  [ ] All 11 HROS_SOURCE .md files readable and non-corrupt
+
+  NAMING CONVENTION
+  [ ] No old naming present (no V1, V2, VERSION tags)
+  [ ] No orphan .txt duplicates of .md source files
+
+  ANNEX ROUTING
+  [ ] No theory or hypothesis present in MAIN DOC
+  [ ] No aggregator data (Ancestry trees, FamilySearch index)
+      promoted to CONFIRMED status anywhere
+  [ ] No MAIN DOC edits made outside PROMOTE_TO_MAIN_DOC protocol
+  [ ] All disproven leads retained and labeled (never deleted)
+
+  REGISTERS
+  [ ] HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER — updated with
+      all new documents from this session
+  [ ] HROS_SOURCE11_WORKS_CITED_REGISTER — updated with
+      all new citations from this session
+
+  START_SESSION SYNC
+  [ ] HROS_START_SESSION outstanding orders list is current
+      (add new orders, update received items, remove closed items)
+  [ ] HROS_START_SESSION chain status reflects current last
+      confirmed generation
+
+  If any check FAILS → state the issue and corrective action taken
+  before proceeding to Step 3.
+
+
+STEP 3 — FILE SYNC
+================================================================
+  1. Claude generates a zip of all 11 HROS_SOURCE .md files
+  2. User downloads the zip
+  3. User replaces local copies with downloaded files
+  4. User pushes to GitHub
+  5. User confirms push in chat before session is considered closed
+
+  Claude prompt to user:
+  "File sync package ready. Download, replace locals, push to
+  GitHub, and confirm here. Session remains open until confirmed."
+
+  [ ] GitHub push confirmed by user
+
+
+STEP 4 — OUTSTANDING ACTIONS
+================================================================
+Claude produces a full current-state list. Update every session.
+
+  DOCUMENTS TO ORDER (not yet placed):
+    Priority | TNA Reference | Description
+    -------- | ------------- | -----------
+    [list all, highest priority first]
+
+  DOCUMENTS ON ORDER (placed, awaiting receipt):
+    TNA Ref                  | Date Ordered | Est. Receipt
+    TNA C1 Vol.4 p.278 B326  | [date]       | ~24 working days
+    TNA E150/303/7           | [date]       | ~24 working days
+    TNA PROB 18/11/62        | [date]       |
+    TNA C2/ChasI/S60/60      | [date]       |
+    TNA C9/79/70             | [date]       |
+    TNA C2/Eliz/M7/4         | [date]       |
+    TNA C2/ChasI/H110/58     | [date]       |
+    [add new orders here]
+
+  ARCHIVE CORRESPONDENCE — chase if no response in 14 days:
+    Archive                           | Sent        | Status
+    Suffolk Archives Bury St Edmunds  | [date]      | AWAITING
+      (probate search, Sudbury Archdeaconry, 1560-1640, all variants)
+    Essex Record Office               | 11 Apr 2026 | AWAITING
+      (Latton manor, Richard Harper III will, feet of fines c.1507-40)
+    Katie Bishop, Suffolk Ipswich     | [date]      | ON HOLD
+      (Beccles & Nayland probate, Beccles reg 109/D2/11)
+
+  PROFESSIONAL CONTACTS:
+    Name                | Status               | Next Action
+    Dr. Karen Cummings  | UNAVAILABLE          | Re-contact when available
+    Diana Spelman       | RESPONDED/SEMI-ACTIVE| Follow up on Lisa referral
+    Lisa (Spelman ref.) | CONTACTED            | Await response
+    John Titford        | EMAIL NOT DRAFTED    | Draft and send
+
+  TOP PRIORITIES — NEXT SESSION (in order):
+    1. [highest priority action]
+    2.
+    3.
+    4.
+    5.
+
+
+STEP 5 — HROS SESSION ARCHIVE
+================================================================
+  FORMAL SESSION NAME:  SESSION_DDMMMYYYY
+
+  BREAKTHROUGH FINDINGS:
+    [List any finding that materially advances the chain or
+     closes a gap. If none → state: NO BREAKTHROUGH THIS SESSION]
+
+  NEGATIVE FINDINGS:
+    [List any confirmed dead ends or eliminated leads.
+     Negative findings are evidence. Log them.]
+
+  ONE-LINE HANDOFF:
+    [Single sentence. Next Claude instance reads this first.
+     State where the chain stands and what to do next.]
+
+================================================================
+RULE: SESSION IS NOT CLOSED UNTIL GITHUB PUSH IS CONFIRMED.
+RULE: DISPROVEN LEADS ARE NEVER DELETED. LABEL AND RETAIN.
+RULE: THEORY DOES NOT ADVANCE TO CHAIN WITHOUT PRIMARY SOURCE.
+RULE: IF STEP 2 HAS A FAIL, RESOLVE IT BEFORE STEP 3.
+================================================================
+END SESSION COMPLETE.
+================================================================
