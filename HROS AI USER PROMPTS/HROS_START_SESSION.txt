@@ -38,12 +38,14 @@ ACTIVE RULES:
   - Disproven leads are never deleted.
 
 CURRENT CHAIN STATUS (as of April 2026):
-  Last confirmed generation: James Harper bapt. Nayland 1748
+  Last confirmed generation: Joseph Harper, New York 1765 (P-12)
   Critical gap: Essex-Suffolk bridge (TNA C1 Bundle 326 ordered)
   Highest priority: Await and analyze TNA C1 Bundle 326
 
 OUTSTANDING ORDERS (do not re-order):
   TNA C1 Vol.4 p.278 Bundle 326 — ORDERED (physical copy)
+  TNA C1/326/40 (Jermy v Throgmerton) — ORDERED 16 Apr 2026 | RC8271591 | due ~30 Apr 2026
+  TNA C1/948/11 (Barley v Harper, Latton) — ORDERED 18 Apr 2026 | RC8274724
   TNA E150/303/7 — ORDERED (24 working days)
   TNA PROB 18/11/62 — ORDERED
   TNA C2/ChasI/S60/60 — ORDERED
