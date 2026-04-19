@@ -1,0 +1,32 @@
+HROS SESSION ARCHIVE PROTOCOL
+Harper Research Operations System
+================================================================
+PASTE THIS INTO ANY OLD CHAT TO GENERATE ITS ARCHIVE RECORD
+================================================================
+
+Review this entire conversation and produce the following:
+
+DATE RULE: The START DATE is the date of the first message in
+this chat. The END DATE is today's date. Use both in the name.
+
+1. FORMAL SESSION NAME — format:
+   SESSION_DDMMMYYYY-DDMMMYYYY_[TOPIC]_[STATUS]
+   STATUS options: RESEARCH / ADMIN / ARCHITECTURE / DOCUMENT_REVIEW
+   NOTE: Do not assign a session number — that is added manually.
+
+2. SESSION SYNOPSIS — 3-5 sentences max. What was worked on,
+   what was found, what was decided.
+
+3. KEY FINDINGS — bullet list with certainty labels:
+   [CONFIRMED] / [STRONG LEAD] / [HYPOTHESIS] / [DISPROVEN]
+
+4. DOCUMENTS — any ordered, received, or analyzed this session
+
+5. DECISIONS MADE — workflow, routing, or system changes
+
+6. BREAKTHROUGH FLAG — use ⭐ if anything materially advanced
+   the chain or the baronetcy claim
+
+================================================================
+HROS | Harper Research Operations System | Internal Use Only
+================================================================
