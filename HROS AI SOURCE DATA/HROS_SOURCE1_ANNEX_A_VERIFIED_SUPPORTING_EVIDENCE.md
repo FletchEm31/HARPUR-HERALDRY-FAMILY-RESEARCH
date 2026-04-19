@@ -1,6 +1,19 @@
-ANNEX A — Verified Supporting Evidence
-Harper / Harberd Family Research | Suffolk, Norfolk \& Essex, England | 1490-1765
-INTERNAL RESEARCH DOCUMENT — Supporting evidence for the Main Document primary chain. Updated: April 2026.
+================================================================
+ANNEX A — VERIFIED SUPPORTING EVIDENCE | HROS SOURCE DATA
+Version:        1.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 19 2026
+================================================================
+Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\HROS AI SOURCE DATA\HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
+================================================================
+Contains:       Primary source confirmed evidence supporting the direct patrilineal chain.
+Description:    All entries verified against Tier 1 primary sources. This is the evidence layer directly beneath the Main Document. Nothing here is theory or inference — all conclusions are labeled with certainty ratings and sourced to archive references. NOT for standalone submission; supports the Main Document only.
+================================================================
 
 1. CRITICAL CORRECTION — John Harper Generational Position
 CORRECTED April 2026: John Harper Esq is the YOUNGER SON of Sir Richard Harpur of Epping (PROB 11/9/246) — not the younger brother of Sir George Harper MP. George is the son of Richard III (grandson of Richard of Epping). John is Richard of Epping's second son — making John the UNCLE of George, one generation above him.
@@ -156,5 +169,5 @@ Calke Abbey National Trust | GM reply expected — call scheduled
 
 
 
-ANNEX A — Verified Supporting Evidence | Harper/Harberd Family Research | Updated April 2026 | Internal Use Only
+ANNEX A — VERIFIED SUPPORTING EVIDENCE | HARPUR HERALDRY & FAMILY RESEARCH | Updated April 19 2026 | Internal Use Only
 

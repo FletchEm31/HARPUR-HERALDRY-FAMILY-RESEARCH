@@ -1,11 +1,19 @@
 ================================================================
-WORKS CITED REGISTER
-Harper / Harberd Family Research
-Harpur Heraldry and Family Research
-Updated: April 17 2026
-Maintained by: HROS (Harper Research Operations System)
+WORKS CITED REGISTER | HROS SOURCE DATA
+Version:        1.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE11_WORKS_CITED_REGISTER.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 19 2026
 ================================================================
-
+Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\HROS AI SOURCE DATA\HROS_SOURCE11_WORKS_CITED_REGISTER.md
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE11_WORKS_CITED_REGISTER.md
+================================================================
+Contains:       Formal works cited register with full bibliographic citations.
+Description:    Complete bibliography for all primary and secondary sources used in the research. Formatted to academic citation standard. Primary maintainer: Perplexity. Cross-referenced with SOURCE6 WP-ID index. For use in formal submission documents.
+================================================================
 
 ================================================================
 PRIMARY SOURCES — THE NATIONAL ARCHIVES (TNA), KEW
@@ -208,6 +216,6 @@ Archive.org digital edition.
 
 
 ================================================================
-WORKS CITED REGISTER | Harper / Harberd Family Research
-HROS | Updated April 17 2026 | Internal Use Only
+WORKS CITED REGISTER | HARPUR HERALDRY & FAMILY RESEARCH | Updated April 19 2026 | Internal Use Only
+
 ================================================================

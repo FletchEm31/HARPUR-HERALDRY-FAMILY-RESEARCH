@@ -1,5 +1,19 @@
-ANNEX E — LEGAL EVIDENCE LAYER: WILLS & PROBATE REGISTER
-Harper Heraldry & Family Research | Operating Protocol V2.0
+================================================================
+ANNEX E — LEGAL EVIDENCE LAYER: WILLS & PROBATE REGISTER | HROS SOURCE DATA
+Version:        1.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 19 2026
+================================================================
+Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\HROS AI SOURCE DATA\HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
+================================================================
+Contains:       Register of all wills, probate records, IPMs, and Chancery inheritance cases.
+Description:    Dedicated legal evidence index. Every probate document assigned a WP-ID and importance score (1-10). Index layer only — genealogical interpretation goes in Annex A or B. Covers TNA PROB, C1, C2, C9, E150, and STAC series relevant to the Harper/Harberd/Harpur line.
+================================================================
 
 ================================================================
 PURPOSE

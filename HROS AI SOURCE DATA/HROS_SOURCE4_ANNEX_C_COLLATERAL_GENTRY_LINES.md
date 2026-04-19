@@ -1,6 +1,19 @@
-ANNEX C — Collateral Gentry Lines \& Bulk Harper/Harpur Data
-Harper / Harberd Family Research | Updated April 2026
-INTERNAL RESEARCH DOCUMENT — Collateral lines and bulk data. Not direct ancestors unless noted.
+================================================================
+ANNEX C — COLLATERAL GENTRY LINES | HROS SOURCE DATA
+Version:        1.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 19 2026
+================================================================
+Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\HROS AI SOURCE DATA\HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+================================================================
+Contains:       Collateral Harper/Harpur/Harberd gentry lines not on the direct patrilineal chain.
+Description:    Documents individuals and branches confirmed as collateral — including Sir Charles Harberd kt, the Baronetcy line at Swarkeston, and the Hollesley Harberd network. No entry is a direct ancestor unless explicitly noted. Provides corroborating context for armigerous standing of the wider family network.
+================================================================
 
 1. Sir Charles Harberd kt — HM Surveyor General under Charles II
 Appears in four TNA Chancery and probate cases 1625-1679. Almost certainly collateral to Josephe Harberd of Boxford. NOT confirmed direct ancestor.
@@ -55,5 +68,5 @@ Reference: "a bay colte, the dam of yt I bought of Luce Harpur"
 Notes: A woman named Harpur conducting horse trade with Constance — close enough for direct personal transactions. Could be sister-in-law (widow of a Harpur brother), or collateral Harpur family member in Kent/Essex. Not yet identified. Given Constance's first marriage was to a Harper, Luce Harpur is almost certainly connected to that Harper family. FLAGGED FOR FOLLOW-UP.
 Certainty: UNCONFIRMED — index entry only | Annex C
 
-ANNEX C — Collateral Gentry Lines | Harper/Harberd Research | Updated April 2026 | Internal Use Only
+ANNEX C — COLLATERAL GENTRY LINES | HARPUR HERALDRY & FAMILY RESEARCH | Updated April 19 2026 | Internal Use Only
 

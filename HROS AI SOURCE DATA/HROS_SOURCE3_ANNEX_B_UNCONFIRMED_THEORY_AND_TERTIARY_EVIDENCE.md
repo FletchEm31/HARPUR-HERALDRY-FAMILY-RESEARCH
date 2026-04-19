@@ -1,6 +1,19 @@
-ANNEX B — Theory, Hypothesis \& Unconfirmed Research
-Harper / Harberd Family Lineage | Active Research Leads | April 2026
-INTERNAL RESEARCH DOCUMENT — NOT FOR COLLEGE OF ARMS SUBMISSION. Updated April 2026.
+================================================================
+ANNEX B — THEORY, HYPOTHESIS & UNCONFIRMED RESEARCH | HROS SOURCE DATA
+Version:        1.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 19 2026
+================================================================
+Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\HROS AI SOURCE DATA\HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
+================================================================
+Contains:       All unconfirmed leads, working hypotheses, and tertiary evidence.
+Description:    Strictly isolated from the Main Document and Annex A. All entries labeled UNCONFIRMED, HYPOTHESIS, or DISPROVEN. Disproven leads are never deleted — they prevent re-investigation of dead ends. NOT FOR COLLEGE OF ARMS SUBMISSION under any circumstances.
+================================================================
 
 1. THE MASTER HYPOTHESIS — Status April 2026
 The following narrative represents the working theory connecting the confirmed Suffolk Harberd chain to the Harpur Baronets of Calke Abbey. As of April 2026 this hypothesis is supported by five confirmed primary source TNA documents, three independent Herald's Visitations, and a cluster of corroborating parish register evidence. The critical remaining gap is a single document directly linking John Harper Esq to John Harbertt of Boxford.
@@ -159,5 +172,5 @@ CERTAINTY: INFERENCE ONLY — no primary source directly links John Harper Esq t
 
 
 
-ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Internal only | Updated April 2026.
+ANNEX B — THEORY, HYPOTHESIS & UNCONFIRMED | HARPUR HERALDRY & FAMILY RESEARCH | Internal Use Only | Updated April 19 2026
 

@@ -1,9 +1,19 @@
-ANNEX C
-Collateral Gentry Lines \& Bulk Harper/Harpur Data
-Harper / Harberd Family Research
-Extended Family Network | Heraldry | Suffolk, Norfolk, Essex \& Derbyshire | Updated April 2026
-INTERNAL RESEARCH DOCUMENT — This annex documents collateral gentry lines, bulk Harper/Harpur data, heraldry, and family members who are NOT on the direct patrilineal chain. Records here provide context, corroboration, and background for the main petition but are not themselves primary chain evidence. None of the individuals below are direct ancestors of Hayden F. Harper unless specifically noted.
-
+================================================================
+ANNEX D — BULK DATA & COLLATERAL GENTRY LINES | HROS SOURCE DATA
+Version:        1.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 19 2026
+================================================================
+Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\HROS AI SOURCE DATA\HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
+================================================================
+Contains:       Extended bulk data — heraldry, collateral lines, Suffolk/Essex/Derbyshire network.
+Description:    Expanded version of Annex C covering the full extended family network across Suffolk, Norfolk, Essex and Derbyshire. Includes heraldic arms data, TNA document significance ratings, and bulk Harper/Harpur name data. Background context only — no direct chain evidence.
+================================================================
 
 
 1. Sir Charles Harberd kt — HM Surveyor General under Charles II
@@ -67,5 +77,5 @@ NOTE: Charlemagne descent is extremely common among people of European ancestry 
 
 
 
-ANNEX C — Collateral Gentry Lines \& Bulk Harper/Harpur Data | Harper/Harberd Family Research | Updated April 2026 | Internal Use Only
+ANNEX D — BULK DATA & COLLATERAL GENTRY LINES | HARPUR HERALDRY & FAMILY RESEARCH | Updated April 19 2026 | Internal Use Only
 
