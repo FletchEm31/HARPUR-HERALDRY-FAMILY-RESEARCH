@@ -1,0 +1,177 @@
+HROS_DATA_INTAKE_COMMAND
+Harper Research Operations System | Command Prompt V2.0
+Updated: April 2026
+
+================================================================
+PASTE THIS PROMPT WHEN HANDING CLAUDE A NEW DOCUMENT MID-SESSION
+================================================================
+
+A new document is being submitted for intake. STOP all other
+tasks. Process this document in full before anything else.
+Do not skip steps. Do not infer beyond what the document states.
+Work through the following steps sequentially and output each
+step before proceeding to the next.
+
+================================================================
+STEP 1 — IDENTIFY AND DESCRIBE THE DOCUMENT
+================================================================
+State clearly:
+  - Document type (will, parish register, Chancery bill, IPM, etc.)
+  - Archive and exact reference (e.g. TNA PROB 11/9/246)
+  - Date of document
+  - Testator / subject / principal named party
+  - Legibility notes if relevant
+
+================================================================
+STEP 2 — CLASSIFY THE SOURCE
+================================================================
+Assign one classification only:
+
+  PRIMARY     — Original unmediated document. TNA original, parish
+                register image, Chancery original, Hearth Tax primary
+                roll. The ONLY class eligible for MAIN DOC via
+                HROS_PROMOTE_TO_MAIN_DOC.
+
+  PROBATE     — Will or administration. Sub-class of PRIMARY.
+                Requires WP-ID assignment. Routes to ANNEX E.
+
+  SECONDARY   — Transcription, index, or calendar of a primary.
+                Boyd's Index, FamilySearch entries, Ancestry
+                transcriptions. NEVER enters MAIN DOC directly.
+                Must be verified against primary before promotion.
+
+  THEORY      — Hypothesis or inference without documentary basis.
+                Routes to ANNEX B only.
+
+  CONTEXTUAL  — Background history, collateral lines, surname
+                clusters, geographic data. Routes to ANNEX C or D.
+
+================================================================
+STEP 3 — ASSIGN IDs
+================================================================
+
+WC-ID (Person ID):
+  Format: WC-[SURNAME INITIAL][NUMBER]
+  Example: WC-H001 = John Harbertt of Boxford
+  Assign to EVERY named individual.
+  Check existing register before assigning — do not duplicate.
+  Once assigned, WC-ID never changes.
+
+WP-ID (Document ID):
+  Format: WP-[ARCHIVE CODE]-[NUMBER]
+  Current watermark: WP-TNA-018 / WP-PUB-007
+  Next TNA document = WP-TNA-019
+  Next PUB document = WP-PUB-008
+  CONFIRM WITH CLAUDE before committing any WP-ID.
+
+================================================================
+STEP 4 — EXTRACT VERIFIABLE FACTS ONLY
+================================================================
+List separately:
+
+  CONFIRMED FACTS (stated directly in the document):
+  - Full name as written in original spelling
+  - Date (baptism / marriage / burial / probate / execution)
+  - Location (parish, hundred, county)
+  - Named relationships (father, mother, spouse, children, heirs)
+  - Property, land, or occupation if stated
+  - Witnesses and overseers
+  - Exact archive reference
+
+  DO NOT EXTRACT:
+  - Inferences about unnamed individuals
+  - Assumed relationships not explicitly stated in the document
+  - Data sourced from aggregators without primary verification
+  - Any fact requiring a logical step beyond the document text
+
+================================================================
+STEP 5 — ASSIGN CERTAINTY PER FACT
+================================================================
+Apply to EVERY extracted fact individually:
+
+  HIGH    — Primary source. Document directly states the fact.
+  MEDIUM  — Primary source exists but fact requires contextual
+            inference.
+  LOW     — Secondary source only. Primary not yet located.
+  THEORY  — No documentary basis. Routes to ANNEX B only.
+
+================================================================
+STEP 6 — CONFLICT CHECK
+================================================================
+Before routing, check against:
+  - Confirmed facts in Session Brief / Space Instructions
+  - MAIN DOC current chain entries
+  - Any previously processed documents this session
+
+If a conflict is found:
+  - STATE IT EXPLICITLY
+  - Do NOT resolve silently
+  - Flag for review before proceeding
+  - Do NOT update MAIN DOC until conflict is resolved
+
+================================================================
+STEP 7 — ROUTE TO CORRECT ANNEX
+================================================================
+  PRIMARY (non-probate, supports chain)  → ANNEX A
+  PRIMARY (non-probate, collateral)      → ANNEX C or D
+  PROBATE                                → ANNEX E + ANNEX D
+  SECONDARY (unverified)                 → ANNEX A (flagged)
+  THEORY                                 → ANNEX B only
+  CONTEXTUAL                             → ANNEX C or D
+
+================================================================
+STEP 8 — GENERATE ANNEX D FILING BLOCK
+================================================================
+Output a complete filing block in this exact format:
+
+  WP-ID:            [PENDING confirmation / confirmed ID]
+  WP-TITLE:         [document title]
+  ARCHIVE:          [repository full name]
+  FULL REF:         [exact archive reference]
+  DATE:             [document date]
+  TYPE:             [PRIMARY / SECONDARY / PROBATE / CONTEXTUAL]
+  TESTATOR/SUBJECT: [name, title, location]
+  KEY FACTS:
+    - [bullet point each confirmed fact]
+  ROUTING:          [Annex + reason]
+  CERTAINTY:        [HIGH / MEDIUM / LOW per fact if mixed]
+  DIGITAL ACCESS:   [URL or TNA catalogue link if known]
+  RELEVANCE:        [one sentence — Harper lineage research only]
+  STATUS:           READY TO FILE — pending Claude confirmation
+
+================================================================
+STEP 9 — PASS TO PERPLEXITY FOR WORKS CITED
+================================================================
+After filing block is confirmed, instruct the user:
+
+  "Pass this block to Perplexity (HARPUR HERALDRY SPACE) with:
+   'Claude has processed [WP-ID] — [document name]. Here is the
+   confirmed Annex D block: [paste block]. Please generate:
+   (1) Works Cited entry in standard academic format
+   (2) Confirm or correct the Annex D block format
+   Next WP-ID watermark is now [updated watermark].'
+
+  Perplexity will return a citation block. Bring it back to this
+  session for final confirmation, then tell Perplexity to push
+  to GitHub."
+
+================================================================
+HARD RULES — DO NOT VIOLATE
+================================================================
+  — DO NOT update MAIN DOC from this command
+     Use HROS_PROMOTE_TO_MAIN_DOC for all chain additions
+
+  — DO NOT assign a WP-ID without confirming against watermark
+     Current watermark: WP-TNA-018 / WP-PUB-007
+
+  — DO NOT infer relationships not stated in the document
+
+  — DO NOT cite Wikipedia, Ancestry trees, FamilySearch index,
+     Stirnet, or any aggregator as a source — ever
+
+  — DISPROVEN leads are NEVER deleted
+     Mark as DISPROVEN and retain in ANNEX B with reason
+
+================================================================
+END OF HROS_DATA_INTAKE_COMMAND
+================================================================

@@ -1,5 +1,5 @@
 BOOT ORDER — STRICT SEQUENCE
-Harper Heraldry & Family Research | Boot Protocol V1.0
+Harper Heraldry & Family Research | Boot Protocol V2.0
 
 ================================================================
 LOAD IN THIS ORDER EVERY SESSION
@@ -27,10 +27,11 @@ LOAD IN THIS ORDER EVERY SESSION
 [7] ANNEX D (AI SOURCE DATA)
     → Load bulk data layer
 
-[8] DATA_INTAKE_COMMAND
+[8] HROS_DATA_INTAKE_COMMAND
     → Active for entire session
+    → Paste when handing Claude a new document mid-session
 
-[9] PROMOTE_TO_MAIN_DOC
+[9] HROS_PROMOTE_TO_MAIN_DOC
     → Active only when promotion is being considered
 
 ================================================================
@@ -39,3 +40,68 @@ DEVIATION FROM THIS ORDER IS NOT PERMITTED
 Reason: Loading theory (ANNEX B) before the confirmed chain
 (MAIN DOC) risks contaminating session reasoning with
 unconfirmed hypotheses. Order is protective, not bureaucratic.
+
+================================================================
+COMMAND RECOGNITION PROTOCOL — MANDATORY
+================================================================
+If the user pastes any HROS command prompt, STOP all current
+tasks immediately and execute that command in full before
+proceeding. Do not assume. Do not infer. Read and follow exactly.
+
+Recognized commands and required responses:
+
+  HROS_START_SESSION          — execute initialization checklist
+  HROS_END_SESSION            — execute end session protocol
+  HROS_ARCHIVE_SESSION        — execute archive protocol
+  HROS_PROMOTE_TO_MAIN_DOC    — execute promotion protocol
+  HROS_DATA_INTAKE_COMMAND    — execute document intake protocol
+
+================================================================
+USER PROMPTS DIRECTORY COMMAND
+================================================================
+If the user types any of the following:
+
+  1. HROS_USER_PROMPTS
+  2. HROS_USER_COMMANDS
+  3. USER_PROMPTS
+  4. USER_COMMANDS
+
+Respond immediately with this list and nothing else:
+
+  ================================================================
+  HROS USER PROMPTS — AVAILABLE COMMANDS
+  ================================================================
+
+  1. HROS_START_SESSION
+     Paste at the start of every Claude session. Loads project
+     identity, chain status, outstanding orders, and runs the
+     session initialization checklist.
+
+  2. HROS_END_SESSION
+     Paste at the end of every session. Triggers file update
+     output and handoff instructions to Perplexity for GitHub push.
+
+  3. HROS_ARCHIVE_SESSION
+     Paste to archive the current session log. Saves session
+     summary, decisions made, and documents processed.
+
+  4. HROS_PROMOTE_TO_MAIN_DOC
+     Paste when a confirmed primary source is ready to be added
+     to the Main Document chain. Runs the full promotion checklist.
+
+  5. HROS_DATA_INTAKE_COMMAND
+     Paste when handing Claude a new document mid-session.
+     Runs full document intake protocol — classify, extract,
+     assign IDs, route to correct annex.
+
+  6. 00_CLAUDE_HROS_AGGREGATE_PROMPTS
+     Master file containing all Claude prompts in one document.
+     Reference copy — do not paste directly into chat.
+
+  ================================================================
+  To use a command: open the file, copy contents, paste into chat.
+  ================================================================
+
+================================================================
+END OF BOOT3
+================================================================
