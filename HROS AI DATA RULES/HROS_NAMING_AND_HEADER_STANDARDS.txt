@@ -1,0 +1,177 @@
+================================================================
+HROS FILE NAMING & HEADER STANDARDS | HROS AI DATA RULES
+Version:        1.0
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+File Name:      HROS_NAMING_AND_HEADER_STANDARDS.txt
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 19 2026
+================================================================
+Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\HROS AI DATA RULES\HROS_NAMING_AND_HEADER_STANDARDS.txt
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20DATA%20RULES/HROS_NAMING_AND_HEADER_STANDARDS.txt
+================================================================
+Contains:       Official file naming conventions and header standards for all HROS files.
+Description:    Defines the mandatory header format, file naming rules, version control
+                protocol, and folder structure for all files in the HROS system. Applies
+                to all three GitHub folders: HROS AI DATA RULES, HROS AI SOURCE DATA,
+                and HROS AI USER PROMPTS. All new and revised files must conform to
+                these standards before commit.
+================================================================
+
+
+================================================================
+SECTION 1 — OFFICIAL PROJECT NAME
+================================================================
+
+  HARPUR HERALDRY & FAMILY RESEARCH
+
+  This is the only permitted form. No variations. No abbreviations.
+  Use this exact string in every header, document, and file reference.
+
+
+================================================================
+SECTION 2 — SYSTEM NAME
+================================================================
+
+  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+
+  This is the only permitted form. No variations.
+  Previous incorrect form "HROS (Harper Research Operations System)"
+  is retired and must be replaced wherever found.
+
+
+================================================================
+SECTION 3 — FILE NAMING CONVENTION
+================================================================
+
+  FORMAT:   HROS_[CATEGORY][NUMBER]_[DESCRIPTOR].ext
+
+  CATEGORIES:
+    BOOT      Boot protocol files — loaded at session start
+    PROTO     Protocol and rules files
+    SOURCE    AI source data files (the research content)
+
+  RULES:
+    - All caps for the HROS prefix and category
+    - Number is zero-padded where sequence matters (e.g. BOOT2, SOURCE11)
+    - Descriptor uses underscores, no spaces, all caps
+    - No version numbers in file names — version lives in header only
+    - File names never change after creation
+      (archived versions may have _ARCHIVE or date suffix)
+
+  EXAMPLES:
+    HROS_BOOT2_SESSION_INITIALIZATION_RULE_MANDATORY.txt
+    HROS_PROTO_RESEARCH_DISCIPLINE_RULES.txt
+    HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
+    HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
+
+  FILE EXTENSIONS:
+    .txt    Protocol, boot, and rules files (HROS AI DATA RULES folder)
+    .md     Source data and research content files (HROS AI SOURCE DATA folder)
+
+
+================================================================
+SECTION 4 — FOLDER STRUCTURE
+================================================================
+
+  00. GITHUB REPOSITORY\
+  |
+  |-- HROS AI DATA RULES\
+  |     Protocol files, boot files, naming standards
+  |     File type: .txt
+  |
+  |-- HROS AI SOURCE DATA\
+  |     Research content — Annexes A through E, registers, narrative
+  |     File type: .md
+  |
+  |-- HROS AI USER PROMPTS\
+        Session prompts and user-facing instruction files
+        File type: .txt
+
+
+================================================================
+SECTION 5 — MANDATORY HEADER FORMAT
+================================================================
+
+  Every file in the HROS system must begin with this header.
+  No exceptions. No omissions.
+
+  ================================================================
+  [DOCUMENT TITLE] | [FOLDER TAG]
+  Version:        [X.X]
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  File Name:      [FILENAME.ext]
+  Project:        HARPUR HERALDRY & FAMILY RESEARCH
+  Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+  Updated:        [Month DD YYYY]
+  ================================================================
+  Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\[FOLDER]\[FILENAME.ext]
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/[FOLDER]/[FILENAME.ext]
+  ================================================================
+  Contains:       [One line — what this file contains]
+  Description:    [2-3 sentences — scope and use of this file]
+  ================================================================
+
+  FOLDER TAGS (use exact string in document title):
+    HROS AI DATA RULES    — for protocol and boot files
+    HROS SOURCE DATA      — for research content files
+    HROS AI USER PROMPTS  — for session prompt files
+
+
+================================================================
+SECTION 6 — VERSION CONTROL
+================================================================
+
+  - Version number lives in the header ONLY
+  - File names never include version numbers
+  - Version increments:
+      Minor edit (content addition, correction):   X.0 → X.1
+      Major revision (restructure, new section):   X.1 → Y.0
+  - Updated: field must be changed every time the file is saved
+  - Archived versions may be renamed with suffix _ARCHIVE_[YYYYMMDD]
+    and stored outside the active GitHub repository
+
+
+================================================================
+SECTION 7 — PROHIBITED NAMING FORMS
+================================================================
+
+  The following are retired and must not appear in any active file:
+
+  RETIRED PROJECT NAMES:
+    Harper Heraldry & Family Research
+    Harper Heraldry and Family Research
+    Harpur Heraldry and Family Research
+    Harper / Harberd Family Research
+    HARPUR/HARPER HERALDRY & FAMILY RESEARCH
+    HARPUR-HARPER HERALDRY & FAMILY RESEARCH
+
+  RETIRED SYSTEM NAMES:
+    HROS (Harper Research Operations System)
+
+  If any of the above are found in a file body during editing,
+  replace with the correct form before saving.
+
+
+================================================================
+SECTION 8 — GLOBAL FIND & REPLACE REFERENCE
+================================================================
+
+  Run these replacements across all files whenever updating:
+
+  FIND                                    REPLACE WITH
+  ----------------------------------------------------------------
+  Harper Heraldry & Family Research    -> HARPUR HERALDRY & FAMILY RESEARCH
+  Harper Heraldry and Family Research  -> HARPUR HERALDRY & FAMILY RESEARCH
+  Harpur Heraldry and Family Research  -> HARPUR HERALDRY & FAMILY RESEARCH
+  HARPUR/HARPER HERALDRY &             -> HARPUR HERALDRY &
+  FAMILY RESEARCH
+  HROS (Harper Research Operations     -> HROS (HARPUR RESEARCH OPERATIONS
+  System)                                 SYSTEM)
+
+
+================================================================
+END OF DOCUMENT
+================================================================
