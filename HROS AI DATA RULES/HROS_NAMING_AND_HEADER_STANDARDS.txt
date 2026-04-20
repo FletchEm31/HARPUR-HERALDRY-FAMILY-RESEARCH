@@ -1,28 +1,26 @@
-================================================================
+================================
 HROS FILE NAMING & HEADER STANDARDS | HROS AI DATA RULES
-Version:        1.0
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Version:        1.1
+================================
+- - - - - - - - - - - - - - - -
 File Name:      HROS_NAMING_AND_HEADER_STANDARDS.txt
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
 Updated:        April 19 2026
-================================================================
-Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\HROS AI DATA RULES\HROS_NAMING_AND_HEADER_STANDARDS.txt
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20DATA%20RULES/HROS_NAMING_AND_HEADER_STANDARDS.txt
-================================================================
+================================
 Contains:       Official file naming conventions and header standards for all HROS files.
 Description:    Defines the mandatory header format, file naming rules, version control
                 protocol, and folder structure for all files in the HROS system. Applies
                 to all three GitHub folders: HROS AI DATA RULES, HROS AI SOURCE DATA,
                 and HROS AI USER PROMPTS. All new and revised files must conform to
                 these standards before commit.
-================================================================
+================================
 
 
-================================================================
+================================
 SECTION 1 — OFFICIAL PROJECT NAME
-================================================================
+================================
 
   HARPUR HERALDRY & FAMILY RESEARCH
 
@@ -30,9 +28,9 @@ SECTION 1 — OFFICIAL PROJECT NAME
   Use this exact string in every header, document, and file reference.
 
 
-================================================================
+================================
 SECTION 2 — SYSTEM NAME
-================================================================
+================================
 
   HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
 
@@ -41,9 +39,9 @@ SECTION 2 — SYSTEM NAME
   is retired and must be replaced wherever found.
 
 
-================================================================
+================================
 SECTION 3 — FILE NAMING CONVENTION
-================================================================
+================================
 
   FORMAT:   HROS_[CATEGORY][NUMBER]_[DESCRIPTOR].ext
 
@@ -71,9 +69,9 @@ SECTION 3 — FILE NAMING CONVENTION
     .md     Source data and research content files (HROS AI SOURCE DATA folder)
 
 
-================================================================
+================================
 SECTION 4 — FOLDER STRUCTURE
-================================================================
+================================
 
   00. GITHUB REPOSITORY\
   |
@@ -90,39 +88,49 @@ SECTION 4 — FOLDER STRUCTURE
         File type: .txt
 
 
-================================================================
+================================
 SECTION 5 — MANDATORY HEADER FORMAT
-================================================================
+================================
 
   Every file in the HROS system must begin with this header.
   No exceptions. No omissions.
+  Dividers use 32-character width (================================)
+  for mobile and desktop compatibility.
 
-  ================================================================
+  ================================
   [DOCUMENT TITLE] | [FOLDER TAG]
   Version:        [X.X]
-  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  ================================
+  - - - - - - - - - - - - - - - -
   File Name:      [FILENAME.ext]
   Project:        HARPUR HERALDRY & FAMILY RESEARCH
+  Location:       GitHub & Proton Drive paths — see end of document
   Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
   Updated:        [Month DD YYYY]
-  ================================================================
-  Drive Location:  R:\AA. FAMILY RESEARCH\HARPUR HERALDRY & FAMILY RESEARCH\00. GITHUB REPOSITORY\[FOLDER]\[FILENAME.ext]
-  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-  GitHub Location: https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/[FOLDER]/[FILENAME.ext]
-  ================================================================
+  ================================
   Contains:       [One line — what this file contains]
   Description:    [2-3 sentences — scope and use of this file]
-  ================================================================
+  ================================
 
-  FOLDER TAGS (use exact string in document title):
+  At the END of every file, add the DOCUMENT LOCATIONS block:
+
+  ================================
+  DOCUMENT LOCATIONS — [DOCUMENT TITLE SHORT FORM]
+  ================================
+  GitHub Path:            [full GitHub URL]
+  - - - - - - - - - - - - - - - -
+  Proton (Shared) Drive:  [full Proton Drive path]
+  ================================
+
+  FOLDER TAGS (use exact string in document title line):
     HROS AI DATA RULES    — for protocol and boot files
     HROS SOURCE DATA      — for research content files
     HROS AI USER PROMPTS  — for session prompt files
 
 
-================================================================
+================================
 SECTION 6 — VERSION CONTROL
-================================================================
+================================
 
   - Version number lives in the header ONLY
   - File names never include version numbers
@@ -134,9 +142,9 @@ SECTION 6 — VERSION CONTROL
     and stored outside the active GitHub repository
 
 
-================================================================
+================================
 SECTION 7 — PROHIBITED NAMING FORMS
-================================================================
+================================
 
   The following are retired and must not appear in any active file:
 
@@ -155,23 +163,30 @@ SECTION 7 — PROHIBITED NAMING FORMS
   replace with the correct form before saving.
 
 
-================================================================
+================================
 SECTION 8 — GLOBAL FIND & REPLACE REFERENCE
-================================================================
+================================
 
   Run these replacements across all files whenever updating:
 
-  FIND                                    REPLACE WITH
-  ----------------------------------------------------------------
-  Harper Heraldry & Family Research    -> HARPUR HERALDRY & FAMILY RESEARCH
-  Harper Heraldry and Family Research  -> HARPUR HERALDRY & FAMILY RESEARCH
-  Harpur Heraldry and Family Research  -> HARPUR HERALDRY & FAMILY RESEARCH
-  HARPUR/HARPER HERALDRY &             -> HARPUR HERALDRY &
-  FAMILY RESEARCH
-  HROS (Harper Research Operations     -> HROS (HARPUR RESEARCH OPERATIONS
-  System)                                 SYSTEM)
+  FIND                               REPLACE WITH
+  -------------------------------------------------------
+  Harper Heraldry & Family Research  HARPUR HERALDRY & FAMILY RESEARCH
+  Harper Heraldry and Family Research  HARPUR HERALDRY & FAMILY RESEARCH
+  Harpur Heraldry and Family Research  HARPUR HERALDRY & FAMILY RESEARCH
+  HARPUR/HARPER HERALDRY &           HARPUR HERALDRY &
+  HROS (Harper Research Operations   HROS (HARPUR RESEARCH OPERATIONS
+  System)                            SYSTEM)
 
 
-================================================================
+================================
 END OF DOCUMENT
-================================================================
+================================
+
+================================
+DOCUMENT LOCATIONS — HROS FILE NAMING & HEADER STANDARDS
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20DATA%20RULES/HROS_NAMING_AND_HEADER_STANDARDS.txt
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_NAMING_AND_HEADER_STANDARDS.txt
+================================
