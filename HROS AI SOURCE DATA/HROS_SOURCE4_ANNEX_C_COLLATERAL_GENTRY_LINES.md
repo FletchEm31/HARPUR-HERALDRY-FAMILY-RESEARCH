@@ -1,6 +1,6 @@
 ================================
 ANNEX C — COLLATERAL GENTRY LINES | HROS SOURCE DATA
-Version:        1.2
+Version:        1.3.0
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
@@ -12,6 +12,7 @@ Updated:        April 22 2026
 Contains:       Collateral family lines, heraldic data, and bulk Harper/Harpur network data.
 Description:    Documents collateral individuals and families who are NOT direct ancestors of Hayden F. Harper but form part of the wider Harper/Harberd/Harpur gentry network. Includes heraldry register and baronetcy collateral line.
 ================================
+
 
 ANNEX C — Collateral Gentry Lines \& Bulk Harper/Harpur Data
 Harper / Harberd Family Research | Updated April 2026
@@ -29,14 +30,27 @@ C 2/ChasI/H110/58 | Chancery — bill only | Harberd v Hall kt — Harberd as pl
 
 1. Baronetcy Line — Confirmed Collateral
 The Harpur Baronets of Calke Abbey descend from John of Rushall through a separate Derbyshire branch. Now confirmed at primary source level through PROB 11/59/108 and PROB 11/89/461.
-Person | Location | Period | Notes
-Richard Harpur alias Harper, Justice of Common Pleas | Swarkeston, Derbyshire | d.1577 | PROB 11/59/108 — uses Harpur alias Harper. Names son John.
-Jane Harpur — widow of Justice | Swarkeston, Derbyshire | d.1597 | PROB 11/89/461 — names sons John and Richard. John = father of 1st Baronet.
-John Harpur of Swarkeston | Swarkeston, Derbyshire | fl.1580s-1620s | Father of Sir Henry Harpur 1st Baronet. Confirmed in Jane's will.
-Sir Henry Harpur, 1st Baronet | Calke Abbey, Derbyshire | 1579-1638 | Created Baronet 1626. Third of twelve children.
-Sir John Harpur, Baronet | Calke Abbey, Derbyshire | will dated 2 Oct 1668 | PROB 11/332/342 — PRIMARY IMAGE CONFIRMED April 2026. Names wife Susan Harpur, younger children, Calke household goods. 2nd or 3rd Baronet. Annex C only.
-Sir Vauncey Harpur Crewe, 10th Baronet | Calke Abbey, Derbyshire | d.1924 | Last holder. Title lapsed — never declared extinct. Status: DORMANT.
-Andrew Johnson / Harpur Crewe LLC | Vermont USA / Calke Abbey | d.2014 | FEMALE LINE ONLY — cannot support baronetcy claim.
+Source: G.E.C. [Cokayne], Complete Baronetage, Vol. II (1625–1649), 1902, p. 3 — WP-PUB-008
+Baronetcy heading reads "HARPUR, or HARPER" — confirms alias usage at point of creation.
+NOTE: 1st Baronet formally styled "Henry Harper" at creation — corroborates PROB 11/59/108 alias usage.
+NOTE: Entry VIII (8th Baronet) death date incomplete — awaiting photograph to confirm. DO NOT CLOSE.
+
+HARPUR BARONETCY SUCCESSION — CALKE ABBEY
+No. | Baronet | Key Dates | Notes
+Pre-baronetcy | Richard Harpur alias Harper, Justice of Common Pleas | d. 29 Jan 1573 | PROB 11/59/108. Father of John of Swarkeston.
+Pre-baronetcy | Jane Harpur — widow of Justice | d.1597 | PROB 11/89/461. Names sons John and Richard.
+Pre-baronetcy | John Harpur of Swarkeston | fl.1580s–1620s | Father of 1st Baronet. Confirmed in Jane's will.
+I | Sir Henry Harper, 1st Baronet | b. c.1585; cr. 8 Dec 1626; d. 1638 | 3rd son of John Harpur of Swarkeston. Styled "Henry Harper" at creation.
+II | Sir John Harpur, 2nd Baronet | b. c.1616; suc. 1638; d. 1669 | PROB 11/332/342 confirmed April 2026.
+III | Sir John Harpur, 3rd Baronet | b. c.1645; suc. 1669; d. 1681 | Inherited Swarkeston under cousin's will (d. s.p. 1677).
+IV | Sir John Harpur, 4th Baronet | b. 23 Mar 1678/9; suc. 1681 | m. Catherine, coheir of 2nd Baron Crewe of Stene — origin of Crewe name.
+V | Sir Henry Harpur, 5th Baronet | b. c.1709; suc. 24 Jun 1741 |
+VI | Sir Henry Harpur, 6th Baronet | suc. 7 Jun 1748 | PROB 11/1175/248. MP Worcestershire 1744–47, Tamworth 1747–death.
+VII | Sir Henry Harpur-Crewe, 7th Baronet | b. 13 May 1763; suc. 10 Feb 1789; d. 7 Feb 1819 | Took name Crewe by royal lic. 11 Apr 1808.
+VIII | Sir George Harpur-Crewe, 8th Baronet | b. 1 Feb 1795; suc. 7 Feb 1819; d. [DATE INCOMPLETE]; bur. 9 Jan 1844 | OPEN ITEM — death date to confirm.
+IX | Sir John Harpur-Crewe, 9th Baronet | b. 18 Nov 1824; suc. 1 Jan 1844; d. 1 Mar 1886 |
+X | Sir Vauncey Harpur-Crewe, 10th Baronet | b. 14 Oct 1846; suc. 1 Mar 1886; d. 1924 | Title DORMANT — never declared extinct.
+— | Andrew Johnson / Harpur Crewe LLC | d.2014 | FEMALE LINE ONLY — cannot support baronetcy claim.
 
 
 
@@ -44,6 +58,15 @@ Andrew Johnson / Harpur Crewe LLC | Vermont USA / Calke Abbey | d.2014 | FEMALE 
 Person | Location | Period | Notes
 Hugh Harbertt x Agnes Eldergate | Boxford, Suffolk | 1562-1570 | Brother of John Harbarde. Son of John Harbertt patriarch. Widow Dorothy Harper — IC/500/5/1/4/4f confirmed.
 John Harberd of Hollesley | Hollesley, Suffolk | fl.c.1570-1612 | Suffolk Visitation 1612 p.119. Married Kithenoe Burwell. Armigerous.
+
+
+================================
+DOCUMENT LOCATIONS — ANNEX C: COLLATERAL GENTRY LINES
+================================
+GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+================================
 Christopher Harper of Bury St Edmunds | Bury St Edmunds | d.c.1614 | Will IC/500/1/71/76. Brothers Thomas, William, Andrew. One generation before John Harbar 1623.
 Sir William Harpur | London/Bedford/Bury St Edmunds | 1496-1573 | Lord Mayor 1561. Knighted 1562. Died no children. Founded Harpur Trust.
 Francis Harberd | Long Melford/Ufford/Bredfield, Suffolk | fl.1558-1603 | 200 acres Suffolk per TNA C 2/Eliz/M7/4. Probable extended family.
@@ -72,49 +95,3 @@ Certainty: UNCONFIRMED — index entry only | Annex C
 
 ANNEX C — Collateral Gentry Lines | Harper/Harberd Research | Updated April 2026 | Internal Use Only
 
-
-================================================================
-UPDATES — 22 APRIL 2026 SESSION
-================================================================
-
-HUGH HARBERTT'S FAMILY — CONFIRMED COLLATERAL — April 22 2026
-All confirmed by FreeREG (Helen Barrell transcription) + primary image verification
-Father: Hughe HARBERTT (d. 30 Nov 1570, buried Boxford St Mary)
-Mother: Agnes ELDERGATE (married 7 Jul 1562, Boxford FB77/D1/1)
-
-Children confirmed:
-Name | Event | Date | Source | Status
-Infant John HARBARDE | Baptism | 28 Oct 1563 | FB77/D1/1 | CONFIRMED COLLATERAL
-Jeffraye HARBERTT | Baptism | 20 Apr 1568 | FB77/D1/1 | CONFIRMED COLLATERAL
-James HARBERTT | Baptism | 25 Jun 1570 | FB77/D1/1 | CONFIRMED COLLATERAL
-
-After Hugh's death November 1570:
-Agnes HARBERTT x Justinian CHURCHE — Marriage 8 Jun 1572 — Boxford
-Agnes is Hugh's widow (or possibly daughter) remarrying.
-
-NOTE: These children are definitively Hugh's line — NOT children of John Harbarde
-x Rose Smythe. Confirmed by father name shown in FreeREG entries.
-
-----------------------------------------------------------------
-
-COMPLETE BARONETAGE SUCCESSION — CONFIRMED COLLATERAL LINE
-Confirmed April 22 2026 from Complete Baronetage Vol. II.
-See Annex A Section 5 for full succession table.
-
-Key collateral note: The 3rd Baronet (1669) succeeded through a cousin's will —
-NOT direct male line. Collateral succession within this family already accepted
-by the College of Arms and Standing Council.
-
-25-quarter Harpur Crewe arms (MDCCCXII, 1812, Calke Abbey) — these belong
-exclusively to the baronetcy line accumulated through marriages. Do NOT
-attribute any quarters to Richard Harper of Epping without primary source.
-
-ANNEX C — Collateral Gentry Lines | Harper/Harberd Research | Updated April 22 2026 | Internal Use Only
-
-================================
-DOCUMENT LOCATIONS — ANNEX C: COLLATERAL GENTRY LINES
-================================
-GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
-- - - - - - - - - - - - - - - -
-Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
-================================
