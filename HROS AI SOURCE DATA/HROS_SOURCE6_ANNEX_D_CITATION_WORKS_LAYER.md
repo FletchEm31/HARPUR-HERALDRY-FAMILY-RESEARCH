@@ -1,13 +1,13 @@
 ================================
 ANNEX D — CITATION & WORKS CITED REGISTER | HROS SOURCE DATA
-Version:        1.1
+Version:        1.2
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
 Location:       GitHub & Local Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
+Updated:        April 22 2026
 ================================
 Contains:       WP-ID citation index for all sources used across the entire project.
 Description:    Every archive document, secondary source, and published reference used anywhere in the research is registered here with a unique WP-ID. Index only — no interpretation or conclusions. Primary maintainer: Perplexity. Cross-referenced by all other SOURCE files.

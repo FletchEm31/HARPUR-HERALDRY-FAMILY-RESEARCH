@@ -1,0 +1,130 @@
+================================
+MAIN LINEAGE FILE & BOOT RULES | HROS AI DATA RULES
+Version:        1.2
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_BOOT8_MAIN_LINEAGE_FILE.txt
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Local Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 22 2026
+================================
+Contains:       Current confirmed lineage chain and main document rules.
+Description:    The submission-grade primary source lineage chain from P-01 to P-XX. Every entry requires a primary source citation. Also contains main document edit rules and outstanding chain gaps. Updated when new confirmed links are established.
+================================
+
+MAIN LINEAGE FILE — RULES AND STATUS
+Harper Heraldry & Family Research | Boot Protocol V1.0
+
+================================================================
+THE MAIN DOC IS THE COURTROOM. EVERYTHING ELSE IS THE LAB.
+================================================================
+
+WHAT THE MAIN DOC IS:
+  The submission-grade primary source lineage chain.
+  Every entry has a primary source citation.
+  Every generation is individually verified.
+  It is what you hand to the College of Arms.
+
+WHAT THE MAIN DOC IS NOT:
+  A working document. A draft. A theory document.
+  A place for "probable" or "likely" ancestors.
+
+================================================================
+CURRENT CONFIRMED CHAIN — LAST VERIFIED APRIL 2026
+================================================================
+
+  GEN  | INDIVIDUAL                        | PRIMARY SOURCE
+  -----|-----------------------------------|---------------------------
+  P-01 | John Harbertt (patriarch, Boxford)| Inferred from children
+  P-02 | John Harbarde × Rose Smythe       | FB77/D1/1 (marriage 1563)
+  P-03 | Josephe Harberd × Marye Pulley    | FB77/D1/1 (marriage 1598)
+  P-04 | John Harberd                      | FB77/D1/1 (bapt. 1600)
+  P-05 | John Harbar × Mary Bathorne       | FL541/4/1 (marriage 1623)
+  P-06 | Joseph Harbor                     | FamilySearch (bapt. 1630)
+  P-07 | Joseph Harbor × Susan Elmy        | Marriage 1652, Stockton
+  P-08 | Joseph Harboe                     | 109/D2/11 (bapt. 1661)
+  P-09 | James Harbar                      | 109/D2/11 (bapt. 1705)
+         [primary image needed to confirm spelling]
+  P-10 | James Harper × Sarah Osborne      | FB80/D1/3 (marriage 1733)
+  P-11 | James Harper                      | FB64/D1/1 (bapt. 1748)
+  P-12 | Joseph Harper                     | New York 1765 (confirmed)
+  ...  | [American line to Hayden]         |
+  P-XX | Hayden F. Harper                  | b.1992, California
+
+CHAIN GAP — UNRESOLVED (ANNEX B):
+  Pre-P-02: John Harbertt patriarch → no primary source yet
+  Pre-chain: Essex to Suffolk bridge → TNA C1 Bundle 326 (ordered)
+
+================================================================
+NEXT GENERATION STRONGEST UNPROVEN LEAD
+================================================================
+[Per MAIN DOC protocol — only 1-2 unproven leads shown here]
+
+LEAD 1 (strongest):
+  John Harper Esq, younger son of Sir Richard Harpur of Epping
+  (PROB 11/9/246) → migrated to Suffolk → became John Harbertt
+  of Boxford. Evidence: MEDIUM. Linchpin doc ordered.
+
+LEAD 2:
+  William Harbard of Sutton, Gent. (PROB 11/132/106, 1571) as
+  connecting figure between Essex gentry and Boxford Harberds.
+  Evidence: LOW.
+
+================================================================
+MAIN DOC EDIT RULES
+================================================================
+1. NEVER edit MAIN DOC directly during a research session
+2. All additions must pass PROMOTE_TO_MAIN_DOC protocol first
+3. MAIN DOC is rebuilt (not incrementally edited) when promoted
+4. Both DOCX and MD versions updated simultaneously
+5. PDF version only for human consumption/sharing — not editable
+6. Version number increments with every confirmed addition
+
+================================================================
+UPDATES — 22 APRIL 2026 SESSION
+================================================================
+
+PRE-CHAIN CONFIRMED FRAMEWORK — Updated April 22 2026
+
+CONFIRMED:
+Sir John le Harpur of Rushall (d. 3 Jul 1464) — MP Stafford 1419-1431
+  Sources: SC8/248/12368; History of Parliament HC 1386-1421;
+  Glover Staffordshire Visitation 1583 pp.101-106
+  LEFT TWO SONS ONLY — William and Richard.
+  Henry as third son: DISPROVEN April 22 2026.
+
+CONFIRMED:
+Richard Harpur of Epping (d.1492/3) — SECOND SON of Sir John of Rushall
+  Source: PROB 11/9/246 — primary image confirmed
+  Brother William confirmed. Rushall church bequest confirmed.
+  Your line descends through Richard.
+
+CONFIRMED — RUSHALL COMMON ORIGIN OF BARONETCY LINE:
+History of Parliament HC 1604-1629 (Sir John Harpur of Swarkeston, father
+of 1st Baronet) states: "Harpur came from a medieval Staffordshire family
+that produced a knight of the shire in 1419." = Sir John of Rushall.
+Baronetcy line runs through William (1st son of Rushall) → Derbyshire.
+Calke Abbey crescent cadency mark = junior branch within William's line
+in a later generation. Glover 1583 needed to confirm exact generational
+point of separation within William's descendants.
+
+OUTSTANDING CHAIN GAP:
+P-01 John Harbertt patriarch → connection to John Harper Esq (younger son
+of Richard of Epping) = UNCONFIRMED. Linchpin document C1/326/40 due
+approximately 30 April 2026.
+
+JOSEPHE HARBERD BAPTISM — OUTSTANDING:
+P-02 → P-03 link (John Harbarde x Rose Smythe → Josephe Harberd) not yet
+confirmed by baptism record. FB77/D1/1 searched manually 1564-1568 —
+no entry found. Continue search from 1569 through 1580.
+
+MAIN LINEAGE FILE | Harper/Harberd Research | Updated April 22 2026
+
+================================
+DOCUMENT LOCATIONS — MAIN LINEAGE FILE
+================================
+GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20DATA%20RULES/HROS_BOOT8_MAIN_LINEAGE_FILE.txt
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_BOOT8_MAIN_LINEAGE_FILE.txt
+================================

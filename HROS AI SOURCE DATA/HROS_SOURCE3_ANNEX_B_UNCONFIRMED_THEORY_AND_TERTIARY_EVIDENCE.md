@@ -1,17 +1,21 @@
 ================================
-ANNEX B — THEORY, HYPOTHESIS & UNCONFIRMED RESEARCH | HROS SOURCE DATA
-Version:        1.1
+ANNEX B — UNCONFIRMED THEORY & TERTIARY EVIDENCE | HROS SOURCE DATA
+Version:        1.2
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
 Location:       GitHub & Local Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
+Updated:        April 22 2026
 ================================
-Contains:       All unconfirmed leads, working hypotheses, and tertiary evidence.
-Description:    Strictly isolated from the Main Document and Annex A. All entries labeled UNCONFIRMED, HYPOTHESIS, or DISPROVEN. Disproven leads are never deleted — they prevent re-investigation of dead ends. NOT FOR COLLEGE OF ARMS SUBMISSION under any circumstances.
+Contains:       Working hypotheses, unconfirmed leads, disproven leads, and tertiary evidence.
+Description:    Theory and hypothesis layer only. NOT for College of Arms submission. Contains active leads, disproven leads (retained permanently), and speculative material strictly separated from confirmed evidence.
 ================================
+
+ANNEX B — Theory, Hypothesis \& Unconfirmed Research
+Harper / Harberd Family Lineage | Active Research Leads | April 2026
+INTERNAL RESEARCH DOCUMENT — NOT FOR COLLEGE OF ARMS SUBMISSION. Updated April 2026.
 
 1. THE MASTER HYPOTHESIS — Status April 2026
 The following narrative represents the working theory connecting the confirmed Suffolk Harberd chain to the Harpur Baronets of Calke Abbey. As of April 2026 this hypothesis is supported by five confirmed primary source TNA documents, three independent Herald's Visitations, and a cluster of corroborating parish register evidence. The critical remaining gap is a single document directly linking John Harper Esq to John Harbertt of Boxford.
@@ -168,8 +172,59 @@ Constance was first married to Richard Harper III of Latton Essex — John Harpe
 
 CERTAINTY: INFERENCE ONLY — no primary source directly links John Harper Esq to this geography.
 
+
+
+ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Internal only | Updated April 2026.
+
+
+================================================================
+UPDATES — 22 APRIL 2026 SESSION
+================================================================
+
+DISPROVEN LEAD — HENRY HARPUR AS THIRD SON OF RUSHALL
+Date disproven: 22 April 2026
+Source: History of Parliament HC 1386-1421
+Reason: Explicitly states Sir John of Rushall left only two sons — William and Richard.
+Henry as a third son is not supported by any primary source.
+Probable cause: Aggregator error — confusion with Henry Harpur, third son of
+Sir John Harpur of SWARKESTON (named in PROB 11/59/108) — a different John
+Harpur entirely, separated by several generations.
+STATUS: PERMANENTLY DISPROVEN. Do not re-investigate without new primary source evidence.
+
+----------------------------------------------------------------
+
+CORRECTED BARONETCY LINE FRAMEWORK — April 22 2026
+
+The baronetcy line now confirmed as running through William — eldest son of
+Sir John of Rushall — not through a non-existent third son Henry.
+
+The crescent cadency mark on Calke Abbey arms indicates a junior branch WITHIN
+William's senior Staffordshire line — most likely a younger son of William's
+descendants in a later generation. This is NOT William himself (who as eldest
+son would carry plain arms). The Glover 1583 Staffordshire Visitation is
+required to identify exactly which generation within William's line the
+Derbyshire branch separates from.
+
+CONFIRMED by baronetcy's own History of Parliament entry — Rushall common origin
+no longer a working hypothesis. See Annex A for full confirmation record.
+
+----------------------------------------------------------------
+
+CAVEAT DOCUMENT — JOHNSON FAMILY ESTATE — STATUS
+Status: UNCONFIRMED — document not yet located — HIGH PRIORITY
+Notes: Hayden recalls reading that the Johnson family's rights over the Calke
+Abbey settled estate (established Ministry of Justice 2000) contain caveats
+that would be superseded if a male-line baronet were recognised. This document
+has not yet been located or read in primary source. It may be in:
+- The Ministry of Justice 2000 ruling documentation
+- The Letters Patent creating the baronetcy (TNA C 66 — Patent Rolls, 1626)
+- Calke Abbey / National Trust correspondence
+STATUS: FIND THIS DOCUMENT BEFORE CONTACTING DR FOX OR ANY AUTHORITY.
+
+ANNEX B — Theory/Hypothesis | Harper/Harberd Research | Updated April 22 2026 | Internal Use Only
+
 ================================
-DOCUMENT LOCATIONS — ANNEX B: THEORY, HYPOTHESIS & UNCONFIRMED RESEARCH
+DOCUMENT LOCATIONS — ANNEX B: UNCONFIRMED THEORY & TERTIARY EVIDENCE
 ================================
 GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
 - - - - - - - - - - - - - - - -

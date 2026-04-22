@@ -1,17 +1,21 @@
 ================================
 ANNEX C — COLLATERAL GENTRY LINES | HROS SOURCE DATA
-Version:        1.1
+Version:        1.2
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
 Location:       GitHub & Local Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
+Updated:        April 22 2026
 ================================
-Contains:       Collateral Harper/Harpur/Harberd gentry lines not on the direct patrilineal chain.
-Description:    Documents individuals and branches confirmed as collateral — including Sir Charles Harberd kt, the Baronetcy line at Swarkeston, and the Hollesley Harberd network. No entry is a direct ancestor unless explicitly noted. Provides corroborating context for armigerous standing of the wider family network.
+Contains:       Collateral family lines, heraldic data, and bulk Harper/Harpur network data.
+Description:    Documents collateral individuals and families who are NOT direct ancestors of Hayden F. Harper but form part of the wider Harper/Harberd/Harpur gentry network. Includes heraldry register and baronetcy collateral line.
 ================================
+
+ANNEX C — Collateral Gentry Lines \& Bulk Harper/Harpur Data
+Harper / Harberd Family Research | Updated April 2026
+INTERNAL RESEARCH DOCUMENT — Collateral lines and bulk data. Not direct ancestors unless noted.
 
 1. Sir Charles Harberd kt — HM Surveyor General under Charles II
 Appears in four TNA Chancery and probate cases 1625-1679. Almost certainly collateral to Josephe Harberd of Boxford. NOT confirmed direct ancestor.
@@ -65,6 +69,47 @@ Source: Will of Dame Constance Colepepur (PROB 11/29/217), proved 13 November 15
 Reference: "a bay colte, the dam of yt I bought of Luce Harpur"
 Notes: A woman named Harpur conducting horse trade with Constance — close enough for direct personal transactions. Could be sister-in-law (widow of a Harpur brother), or collateral Harpur family member in Kent/Essex. Not yet identified. Given Constance's first marriage was to a Harper, Luce Harpur is almost certainly connected to that Harper family. FLAGGED FOR FOLLOW-UP.
 Certainty: UNCONFIRMED — index entry only | Annex C
+
+ANNEX C — Collateral Gentry Lines | Harper/Harberd Research | Updated April 2026 | Internal Use Only
+
+
+================================================================
+UPDATES — 22 APRIL 2026 SESSION
+================================================================
+
+HUGH HARBERTT'S FAMILY — CONFIRMED COLLATERAL — April 22 2026
+All confirmed by FreeREG (Helen Barrell transcription) + primary image verification
+Father: Hughe HARBERTT (d. 30 Nov 1570, buried Boxford St Mary)
+Mother: Agnes ELDERGATE (married 7 Jul 1562, Boxford FB77/D1/1)
+
+Children confirmed:
+Name | Event | Date | Source | Status
+Infant John HARBARDE | Baptism | 28 Oct 1563 | FB77/D1/1 | CONFIRMED COLLATERAL
+Jeffraye HARBERTT | Baptism | 20 Apr 1568 | FB77/D1/1 | CONFIRMED COLLATERAL
+James HARBERTT | Baptism | 25 Jun 1570 | FB77/D1/1 | CONFIRMED COLLATERAL
+
+After Hugh's death November 1570:
+Agnes HARBERTT x Justinian CHURCHE — Marriage 8 Jun 1572 — Boxford
+Agnes is Hugh's widow (or possibly daughter) remarrying.
+
+NOTE: These children are definitively Hugh's line — NOT children of John Harbarde
+x Rose Smythe. Confirmed by father name shown in FreeREG entries.
+
+----------------------------------------------------------------
+
+COMPLETE BARONETAGE SUCCESSION — CONFIRMED COLLATERAL LINE
+Confirmed April 22 2026 from Complete Baronetage Vol. II.
+See Annex A Section 5 for full succession table.
+
+Key collateral note: The 3rd Baronet (1669) succeeded through a cousin's will —
+NOT direct male line. Collateral succession within this family already accepted
+by the College of Arms and Standing Council.
+
+25-quarter Harpur Crewe arms (MDCCCXII, 1812, Calke Abbey) — these belong
+exclusively to the baronetcy line accumulated through marriages. Do NOT
+attribute any quarters to Richard Harper of Epping without primary source.
+
+ANNEX C — Collateral Gentry Lines | Harper/Harberd Research | Updated April 22 2026 | Internal Use Only
 
 ================================
 DOCUMENT LOCATIONS — ANNEX C: COLLATERAL GENTRY LINES

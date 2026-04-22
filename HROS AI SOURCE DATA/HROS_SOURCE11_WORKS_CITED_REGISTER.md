@@ -1,21 +1,30 @@
 ================================
 WORKS CITED REGISTER | HROS SOURCE DATA
-Version:        1.1
+Version:        1.2
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE11_WORKS_CITED_REGISTER.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
 Location:       GitHub & Local Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
+Updated:        April 22 2026
 ================================
-Contains:       Formal works cited register with full bibliographic citations.
-Description:    Complete bibliography for all primary and secondary sources used in the research. Formatted to academic citation standard. Primary maintainer: Perplexity. Cross-referenced with SOURCE6 WP-ID index. For use in formal submission documents.
+Contains:       Full works cited register for all sources used across the research project.
+Description:    Formal citation register in College of Arms submission format. All primary and secondary sources assigned WP-IDs. Updated each session with new confirmed sources. Primary maintainer: Perplexity for citation formatting.
 ================================
 
-================================
+================================================================
+WORKS CITED REGISTER
+Harper / Harberd Family Research
+Harpur Heraldry and Family Research
+Updated: April 17 2026
+Maintained by: HROS (Harper Research Operations System)
+================================================================
+
+
+================================================================
 PRIMARY SOURCES — THE NATIONAL ARCHIVES (TNA), KEW
-================================
+================================================================
 
 WP-TNA-001
 Harpur, Richard, of Epping, Essex. Will. Prerogative Court of
@@ -116,9 +125,9 @@ Kew, UK. Dated 8 November 1558; proved December 1558.
 [STATUS: TO ORDER — search TNA Discovery "George Harper 1558"]
 
 
-================================
+================================================================
 PRIMARY SOURCES — SUFFOLK ARCHIVES, IPSWICH
-================================
+================================================================
 
 WP-SFK-001
 Boxford Parish Register. FB77/D1/1. Suffolk Archives, Ipswich.
@@ -162,9 +171,9 @@ Doreti Harpeth [Dorothy Harper], relict. Primary image
 confirmed April 2026.
 
 
-================================
+================================================================
 SECONDARY SOURCES — PEER REVIEWED
-================================
+================================================================
 
 WP-PUB-001
 Harper, Sir George (1503-58), of Sutton Valence, Kent and
@@ -211,6 +220,84 @@ WP-PUB-007
 Hervey, S.H.A., ed. Suffolk in 1674: Being the Hearth Tax
 Returns. Woodbridge: Suffolk Green Books, 1905.
 Archive.org digital edition.
+
+
+================================================================
+WORKS CITED REGISTER | Harper / Harberd Family Research
+HROS | Updated April 17 2026 | Internal Use Only
+================================================================
+
+================================================================
+NEW SOURCES CONFIRMED — 22 APRIL 2026 SESSION
+================================================================
+
+WP-PUB-008
+Harpur, Sir John, of Swarkeston, Derbyshire. The History of
+Parliament: the House of Commons 1604-1629, ed. Andrew Thrush
+and John P. Ferris. London: History of Parliament Trust, 2010.
+Available online at: https://www.historyofparliamentonline.org
+KEY FINDING: "Harpur came from a medieval Staffordshire family
+that produced a knight of the shire in 1419." — confirms Rushall
+common origin of baronetcy line by baronetcy's own peer-reviewed
+record. Confirmed April 22 2026.
+
+----------------------------------------------------------------
+
+WP-PUB-009
+Harper [Harpur], John, of Rushall, Staffordshire. The History of
+Parliament: the House of Commons 1386-1421, ed. J.S. Roskell,
+Linda Clark and Carole Rawcliffe. London: History of Parliament
+Trust, 1993.
+KEY FINDING: "He left two sons, William and Richard." — confirms
+only two sons; Henry as third son DISPROVEN. Also confirms death
+date 3 July 1464 and burial at Grey Friars, Lichfield.
+Confirmed April 22 2026.
+
+----------------------------------------------------------------
+
+WP-PUB-010
+Complete Baronetage, Vol. II: Creations by Charles I, 27 March
+1625 to 30 Jan. 1648/9. Ed. G.E. Cokayne. Exeter: William
+Pollard & Co., 1902.
+Entry: "HARPUR, or HARPER: cr. 8 Dec. 1626; afterwards, since
+1808, HARPUR-CREWE."
+KEY FINDINGS: (1) Official title "HARPUR, or HARPER" confirms
+both names as one family in authoritative published reference.
+(2) 3rd Baronet (1669) succeeded through cousin's will —
+collateral succession precedent confirmed. (3) Full succession
+I-X confirmed. (4) 10th Baronet Sir Vauncey Harpur-Crewe
+succeeded 1 March 1886, died 1924 — title dormant.
+Confirmed April 22 2026.
+
+----------------------------------------------------------------
+
+WP-PUB-011
+Kökeritz, Helge. The Phonology of the Suffolk Dialect:
+Descriptive and Historical. Uppsala: A.-B. Lundequistska
+Bokhandeln, 1932. Uppsala universitets årsskrift 1932. Filosofi.
+xxiii, 328 pages. Digitized copy available via Google Books.
+Stanford and Berkeley library catalog entries confirm
+bibliographic identity.
+STATUS: Located — not yet read. Pending consultation for
+independent linguistic confirmation of Essex arrival signature
+argument (Part 9). To be read and cited formally when accessed.
+
+----------------------------------------------------------------
+
+WP-FREE-001
+Barrell, Helen (transcriber). Parish Register St Mary Boxford
+Suffolk. FreeREG database. Available at:
+https://www.freereg.org.uk/freereg_contents/54081a50eca9eb1ee0ad58f4
+NOTE: Transcription from microfiche of FB77/D1/1. Entry numbers
+in FreeREG do not correspond to physical register page entry
+numbers. Primary image verification required for all entries.
+Used April 22 2026 for baptism search 1555-1580. No Josephe
+Harberd entry found. Hugh Harbertt family confirmed collateral.
+
+================================================================
+WORKS CITED REGISTER | Harper / Harberd Family Research
+HROS | Updated April 22 2026 | Internal Use Only
+================================================================
 
 ================================
 DOCUMENT LOCATIONS — WORKS CITED REGISTER

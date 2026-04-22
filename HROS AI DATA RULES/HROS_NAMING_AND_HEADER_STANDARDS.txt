@@ -1,6 +1,6 @@
 ================================
 HROS FILE NAMING & HEADER STANDARDS | HROS AI DATA RULES
-Version:        1.1
+Version:        1.2
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_NAMING_AND_HEADER_STANDARDS.txt

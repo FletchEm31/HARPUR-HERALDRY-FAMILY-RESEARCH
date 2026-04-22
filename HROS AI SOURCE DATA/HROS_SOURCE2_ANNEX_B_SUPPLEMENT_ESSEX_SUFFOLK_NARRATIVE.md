@@ -1,13 +1,13 @@
 ================================
 ANNEX B SUPPLEMENT — ESSEX/SUFFOLK NARRATIVE | HROS SOURCE DATA
-Version:        1.1
+Version:        1.2
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
 Location:       GitHub & Local Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
+Updated:        April 22 2026
 ================================
 Contains:       Narrative supplement tracing the Essex-to-Suffolk migration hypothesis.
 Description:    Supporting narrative for Annex B covering the proposed Essex bridge — migration of a junior Harper branch from Latton/Epping, Essex into Boxford, Suffolk c.1507-1530. NOT FOR COLLEGE OF ARMS SUBMISSION. All conclusions are working hypothesis only. Cross-references Annex B (SOURCE3) for tabular evidence.

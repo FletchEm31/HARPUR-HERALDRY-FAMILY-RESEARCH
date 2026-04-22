@@ -1,13 +1,13 @@
 ================================
 DOCUMENT ANALYSIS REGISTER | HROS SOURCE DATA
-Version:        1.1
+Version:        1.2
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
 Location:       GitHub & Local Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
+Updated:        April 22 2026
 ================================
 Contains:       Verbatim transcriptions and analysis of primary source documents.
 Description:    Primary image reads and literal transcriptions conducted by Claude. Latin documents include translation in brackets. Ambiguous handwriting flagged with a note. Each entry cross-references the Works Cited Register by WP-ID. Prepared for Dr. Fox reference and College of Arms submission preparation.

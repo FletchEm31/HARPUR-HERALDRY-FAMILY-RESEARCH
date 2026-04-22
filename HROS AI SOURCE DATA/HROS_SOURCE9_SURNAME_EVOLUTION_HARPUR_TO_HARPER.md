@@ -1,13 +1,13 @@
 ================================
 SURNAME EVOLUTION: HARPUR TO HARPER — FORENSIC LINGUISTIC ARGUMENT | HROS SOURCE DATA
-Version:        1.1
+Version:        1.2
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE9_SURNAME_EVOLUTION_HARPUR_TO_HARPER.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
 Location:       GitHub & Local Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
+Updated:        April 22 2026
 ================================
 Contains:       Forensic linguistic argument tracing surname spelling evolution c.1308-1765.
 Description:    Documents the phonetic and orthographic progression from Harpur (Norman French, Staffordshire) through Harbor, Harber, Harberd, Harbar to Harper (New York, 1765). Establishes spelling variants as evidence of geographic migration, not separate families. Structured for College of Arms submission as a standalone linguistic argument.
