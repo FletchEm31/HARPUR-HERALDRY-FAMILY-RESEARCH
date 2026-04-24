@@ -1,13 +1,13 @@
 ================================
 HROS FILE NAMING & HEADER STANDARDS | HROS AI DATA RULES
 Version:        1.2
+Updated:        [DATE OF UPDATE]
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_NAMING_AND_HEADER_STANDARDS.txt
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
 Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
 ================================
 Contains:       Official file naming conventions and header standards for all HROS files.
 Description:    Defines the mandatory header format, file naming rules, version control
@@ -16,7 +16,6 @@ Description:    Defines the mandatory header format, file naming rules, version 
                 and HROS AI USER PROMPTS. All new and revised files must conform to
                 these standards before commit.
 ================================
-
 
 ================================
 SECTION 1 — OFFICIAL PROJECT NAME

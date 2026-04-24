@@ -1,21 +1,20 @@
 ================================
-ANNEX C — COLLATERAL GENTRY LINES | HROS SOURCE DATA
-Version:        1.3.0
+ANNEX C — COLLATERAL GENTRY LINES AND BULK DATA | HROS SOURCE DATA
+Version:        1.3
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Local Drive paths — see end of document
+Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 22 2026
+Updated:        April 23 2026
 ================================
-Contains:       Collateral family lines, heraldic data, and bulk Harper/Harpur network data.
-Description:    Documents collateral individuals and families who are NOT direct ancestors of Hayden F. Harper but form part of the wider Harper/Harberd/Harpur gentry network. Includes heraldry register and baronetcy collateral line.
+Contains:       Collateral gentry lines and bulk Harper/Harpur data. Not direct ancestors unless noted.
+Description:    Documents all confirmed or probable collateral relatives of the direct Harper/Harberd line. Updated April 23 2026 with Felice Harper, William Isley, Dame Audrey Harper, Lucy Peckham contamination flag, Erasmus Gainsford, Daniel Wellard, and Richard Lynton from PROB 11/42A/75.
 ================================
-
 
 ANNEX C — Collateral Gentry Lines \& Bulk Harper/Harpur Data
-Harper / Harberd Family Research | Updated April 2026
+HARPUR HERALDRY & FAMILY RESEARCH | Updated April 2026
 INTERNAL RESEARCH DOCUMENT — Collateral lines and bulk data. Not direct ancestors unless noted.
 
 1. Sir Charles Harberd kt — HM Surveyor General under Charles II
@@ -30,27 +29,14 @@ C 2/ChasI/H110/58 | Chancery — bill only | Harberd v Hall kt — Harberd as pl
 
 1. Baronetcy Line — Confirmed Collateral
 The Harpur Baronets of Calke Abbey descend from John of Rushall through a separate Derbyshire branch. Now confirmed at primary source level through PROB 11/59/108 and PROB 11/89/461.
-Source: G.E.C. [Cokayne], Complete Baronetage, Vol. II (1625–1649), 1902, p. 3 — WP-PUB-008
-Baronetcy heading reads "HARPUR, or HARPER" — confirms alias usage at point of creation.
-NOTE: 1st Baronet formally styled "Henry Harper" at creation — corroborates PROB 11/59/108 alias usage.
-NOTE: Entry VIII (8th Baronet) death date incomplete — awaiting photograph to confirm. DO NOT CLOSE.
-
-HARPUR BARONETCY SUCCESSION — CALKE ABBEY
-No. | Baronet | Key Dates | Notes
-Pre-baronetcy | Richard Harpur alias Harper, Justice of Common Pleas | d. 29 Jan 1573 | PROB 11/59/108. Father of John of Swarkeston.
-Pre-baronetcy | Jane Harpur — widow of Justice | d.1597 | PROB 11/89/461. Names sons John and Richard.
-Pre-baronetcy | John Harpur of Swarkeston | fl.1580s–1620s | Father of 1st Baronet. Confirmed in Jane's will.
-I | Sir Henry Harper, 1st Baronet | b. c.1585; cr. 8 Dec 1626; d. 1638 | 3rd son of John Harpur of Swarkeston. Styled "Henry Harper" at creation.
-II | Sir John Harpur, 2nd Baronet | b. c.1616; suc. 1638; d. 1669 | PROB 11/332/342 confirmed April 2026.
-III | Sir John Harpur, 3rd Baronet | b. c.1645; suc. 1669; d. 1681 | Inherited Swarkeston under cousin's will (d. s.p. 1677).
-IV | Sir John Harpur, 4th Baronet | b. 23 Mar 1678/9; suc. 1681 | m. Catherine, coheir of 2nd Baron Crewe of Stene — origin of Crewe name.
-V | Sir Henry Harpur, 5th Baronet | b. c.1709; suc. 24 Jun 1741 |
-VI | Sir Henry Harpur, 6th Baronet | suc. 7 Jun 1748 | PROB 11/1175/248. MP Worcestershire 1744–47, Tamworth 1747–death.
-VII | Sir Henry Harpur-Crewe, 7th Baronet | b. 13 May 1763; suc. 10 Feb 1789; d. 7 Feb 1819 | Took name Crewe by royal lic. 11 Apr 1808.
-VIII | Sir George Harpur-Crewe, 8th Baronet | b. 1 Feb 1795; suc. 7 Feb 1819; d. [DATE INCOMPLETE]; bur. 9 Jan 1844 | OPEN ITEM — death date to confirm.
-IX | Sir John Harpur-Crewe, 9th Baronet | b. 18 Nov 1824; suc. 1 Jan 1844; d. 1 Mar 1886 |
-X | Sir Vauncey Harpur-Crewe, 10th Baronet | b. 14 Oct 1846; suc. 1 Mar 1886; d. 1924 | Title DORMANT — never declared extinct.
-— | Andrew Johnson / Harpur Crewe LLC | d.2014 | FEMALE LINE ONLY — cannot support baronetcy claim.
+Person | Location | Period | Notes
+Richard Harpur alias Harper, Justice of Common Pleas | Swarkeston, Derbyshire | d.1577 | PROB 11/59/108 — uses Harpur alias Harper. Names son John.
+Jane Harpur — widow of Justice | Swarkeston, Derbyshire | d.1597 | PROB 11/89/461 — names sons John and Richard. John = father of 1st Baronet.
+John Harpur of Swarkeston | Swarkeston, Derbyshire | fl.1580s-1620s | Father of Sir Henry Harpur 1st Baronet. Confirmed in Jane's will.
+Sir Henry Harpur, 1st Baronet | Calke Abbey, Derbyshire | 1579-1638 | Created Baronet 1626. Third of twelve children.
+Sir John Harpur, Baronet | Calke Abbey, Derbyshire | will dated 2 Oct 1668 | PROB 11/332/342 — PRIMARY IMAGE CONFIRMED April 2026. Names wife Susan Harpur, younger children, Calke household goods. 2nd or 3rd Baronet. Annex C only.
+Sir Vauncey Harpur Crewe, 10th Baronet | Calke Abbey, Derbyshire | d.1924 | Last holder. Title lapsed — never declared extinct. Status: DORMANT.
+Andrew Johnson / Harpur Crewe LLC | Vermont USA / Calke Abbey | d.2014 | FEMALE LINE ONLY — cannot support baronetcy claim.
 
 
 
@@ -58,15 +44,6 @@ X | Sir Vauncey Harpur-Crewe, 10th Baronet | b. 14 Oct 1846; suc. 1 Mar 1886; d.
 Person | Location | Period | Notes
 Hugh Harbertt x Agnes Eldergate | Boxford, Suffolk | 1562-1570 | Brother of John Harbarde. Son of John Harbertt patriarch. Widow Dorothy Harper — IC/500/5/1/4/4f confirmed.
 John Harberd of Hollesley | Hollesley, Suffolk | fl.c.1570-1612 | Suffolk Visitation 1612 p.119. Married Kithenoe Burwell. Armigerous.
-
-
-================================
-DOCUMENT LOCATIONS — ANNEX C: COLLATERAL GENTRY LINES
-================================
-GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
-- - - - - - - - - - - - - - - -
-Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
-================================
 Christopher Harper of Bury St Edmunds | Bury St Edmunds | d.c.1614 | Will IC/500/1/71/76. Brothers Thomas, William, Andrew. One generation before John Harbar 1623.
 Sir William Harpur | London/Bedford/Bury St Edmunds | 1496-1573 | Lord Mayor 1561. Knighted 1562. Died no children. Founded Harpur Trust.
 Francis Harberd | Long Melford/Ufford/Bredfield, Suffolk | fl.1558-1603 | 200 acres Suffolk per TNA C 2/Eliz/M7/4. Probable extended family.
@@ -95,3 +72,101 @@ Certainty: UNCONFIRMED — index entry only | Annex C
 
 ANNEX C — Collateral Gentry Lines | Harper/Harberd Research | Updated April 2026 | Internal Use Only
 
+
+================================================================
+NEW COLLATERAL INDIVIDUALS — APRIL 23 2026
+Source: PROB 11/42A/75 — Will of Sir George Harper Knight
+Read in full April 23 2026
+================================================================
+
+FELICE HARPER — George's Sister
+Previously unidentified. Now confirmed in primary source.
+Source: Marginal administration note in PROB 11/42A/75
+Administration granted to Felice in connection with Thomas
+Colepeper estate following George's death December 1558.
+Connection: George's sister. Her son-in-law William Isley
+inherited Sutton Valence per prior arrangement before George's
+death. She is the unnamed sister referenced in HoP entry.
+Status: CONFIRMED IN PRIMARY SOURCE — April 23 2026
+Routing: ANNEX C — collateral, not direct ancestor
+
+----------------------------------------------------------------
+
+WILLIAM ISLEY — Inherited Sutton Valence
+George Harper's chief Kent residence — Sutton Valence — passed
+to William Isley, husband of Ursula Clifford, described in HoP
+as George's "sister's son-in-law." Felice Harper's line.
+By prior arrangement made before George's death. Not named in
+the will itself — arrangement made separately.
+Status: CONFIRMED — HoP entry + PROB 11/42A/75 context
+Routing: ANNEX C — collateral inheritance line
+
+----------------------------------------------------------------
+
+DAME AUDREY HARPER (née Gainsford)
+Second wife of Sir George Harper. Daughter of Sir John Gainsford
+of Crowhurst, Surrey. Previously widow of George Taylor of
+Lingfield, Surrey. Named sole executrix and residuary legatee
+in PROB 11/42A/75. Died January 1560. Subsequently married
+George Carleton. Her property administration granted to Margaret,
+wife of Thomas Culpeper, after her death.
+Status: CONFIRMED — PROB 11/42A/75 primary read April 2026
+Routing: ANNEX C — collateral
+
+----------------------------------------------------------------
+
+LUCY PECKHAM'S FIVE CHILDREN — CONTAMINATION RISK FLAG
+Two sons and three daughters born to Lucy Peckham during her
+marriage to Sir George Harper. Confirmed as biological children
+of Sir Richard Morison (c.1510-1557), not George Harper.
+George made no provision for them in his will PROB 11/42A/75.
+They were provided for by Morison — confirmed HoP entry and
+PROB 11/42A/75.
+WARNING: These five individuals carried the Harper surname but
+are NOT Harper blood. Any genealogical line purporting to
+descend from George Harper through Lucy Peckham's children is
+a Morison line, not a Harper line. Active contamination risk
+for anyone tracing "Harper descendants of Sir George Harper."
+Morison will: PROB 11/39/330 — TO ORDER as contamination
+control document.
+Status: CONFIRMED — HoP entry + PROB 11/42A/75 April 2026
+Routing: ANNEX C — contamination risk flag
+
+----------------------------------------------------------------
+
+ERASMUS GAINSFORD
+Audrey's family member. Named in schedule to PROB 11/42A/75
+as recipient of £20 annual charge on Crowhurst estate during
+Audrey's interest. Audrey's connection to the Gainsford family
+of Crowhurst, Surrey confirmed.
+Status: NOTED — PROB 11/42A/75 April 2026
+Routing: ANNEX C — peripheral
+
+----------------------------------------------------------------
+
+DANIEL WELLARD
+Third party named in joint lease between George Harper and
+Thomas Colepeper for Sutton Valence mansion house. Unknown
+individual. Worth checking Surrey/Kent records for Wellard
+family connections.
+Status: NOTED — PROB 11/42A/75 April 2026
+Routing: ANNEX C — peripheral
+
+----------------------------------------------------------------
+
+RICHARD LYNTON — Executor
+Named as executor in PROB 11/42A/75. Described as "of counsel."
+Previously unknown to research. Possible connection to legal
+networks around George Harper in Kent/London.
+Status: NOTED — PROB 11/42A/75 April 2026
+Routing: ANNEX C — peripheral
+
+
+
+================================
+DOCUMENT LOCATIONS — ANNEX C — COLLATERAL GENTRY LINES AND BULK DATA
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+================================

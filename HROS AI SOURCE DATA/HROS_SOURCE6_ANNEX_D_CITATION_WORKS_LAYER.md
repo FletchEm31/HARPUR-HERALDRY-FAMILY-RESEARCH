@@ -1,17 +1,21 @@
 ================================
-ANNEX D — CITATION & WORKS CITED REGISTER | HROS SOURCE DATA
-Version:        1.3.0
+ANNEX D — CITATION AND WORKS CITED LAYER | HROS SOURCE DATA
+Version:        1.3
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Local Drive paths — see end of document
+Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 22 2026
+Updated:        April 23 2026
 ================================
-Contains:       WP-ID citation index for all sources used across the entire project.
-Description:    Every archive document, secondary source, and published reference used anywhere in the research is registered here with a unique WP-ID. Index only — no interpretation or conclusions. Primary maintainer: Perplexity. Cross-referenced by all other SOURCE files.
+Contains:       Source index for the entire project. Every document registered with a unique WP-ID.
+Description:    The citation and works cited layer. Every document, archive reference, and secondary source used anywhere in the research is registered here. Updated April 23 2026 with WP-TNA-018, WP-TNA-009 correction, WP-TNA-NEW-01, WP-TNA-NEW-02, WP-SFK-008, and WP-PUB-008.
 ================================
+
+ANNEX D — CITATION & WORKS CITED REGISTER
+HARPUR HERALDRY & FAMILY RESEARCH | Operating Protocol V2.0
+
 ================================================================
 PURPOSE
 ================================================================
@@ -191,12 +195,6 @@ WP-PUB-001  History of Parliament Online — Sir George Harper MP
 WP-PUB-002  Victoria County History, Essex Vol.8 pp.186-195
             British History Online | TIER 2 | Used in: ANNEX A
 
-WP-PUB-001  History of Parliament Online — Sir George Harper MP
-            Peer-reviewed | TIER 2 | Used in: ANNEX A
-
-WP-PUB-002  Victoria County History, Essex Vol.8 pp.186-195
-            British History Online | TIER 2 | Used in: ANNEX A
-
 WP-PUB-003  Suffolk Visitation 1612, p.119
             Harleian Society | TIER 2 | Used in: ANNEX C
 
@@ -212,50 +210,88 @@ WP-PUB-006  Burke's General Armory (1884)
 WP-PUB-007  Suffolk in 1674 (ed. Hervey, 1905)
             Archive.org | TIER 2 | Used in: ANNEX A
 
+================================================================
+NEW ENTRIES — APRIL 23 2026
+Perplexity patch confirmed by Claude/Hayden
+================================================================
 
-================================
-DOCUMENT LOCATIONS — ANNEX D: CITATION & WORKS CITED REGISTER
-================================
-GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
-- - - - - - - - - - - - - - - -
-Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
-================================
+WP-TNA-018
+  WP-TITLE:   Will of Sir George Harper Knight, Blackfriars London
+  ARCHIVE:    The National Archives, Kew
+  FULL REF:   PROB 11/42A/75
+  DATE:       8 November 1558; proved December 1558
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED READ — April 23 2026
+  USED IN:    ANNEX A, ANNEX C, ANNEX E
+  NOTES:      Autograph signature confirmed. Zero Harper male
+              relatives named. Felice Harper (sister) identified
+              in marginal note. Thomas Colepeper confirmed as
+              "my brother." Lucy Peckham's children excluded.
 
-WP-PUB-003  Suffolk Visitation 1612, p.119
-            Harleian Society | TIER 2 | Used in: ANNEX C
+WP-TNA-009
+  WP-TITLE:   Inquisition Post Mortem — Sir Robert Chamberlayne
+  ARCHIVE:    The National Archives, Kew
+  FULL REF:   E150/303/7
+  DATE:       c.1518
+  TYPE:       PRIMARY
+  STATUS:     STILL TO ORDER — HIGH PRIORITY
+  USED IN:    ANNEX A
+  NOTES:      Sir Robert Chamberlayne's IPM — NOT Richard Harper
+              III's. Contains George Harper birth date 11 March
+              1503. Reference corrected: E150/303/7.
 
-WP-PUB-004  The House of Harper (J. Henry Harper, 1912)
-            Archive.org | TIER 2 | Used in: ANNEX A
+WP-TNA-NEW-01
+  WP-TITLE:   Inquisition Post Mortem — George Harper, Kent
+  ARCHIVE:    The National Archives, Kew
+  FULL REF:   C142/133/102
+  DATE:       1561/62 (4 Elizabeth I)
+  TYPE:       PRIMARY
+  STATUS:     TO ORDER | MEDIUM PENDING RECEIPT
+  USED IN:    ANNEX E
+  NOTES:      Cited in HoP footnotes 1 and 3. Will list Kent
+              estates and valuations at death. HIGH PRIORITY.
 
-WP-PUB-005  Willmore's Records of Rushall (1892)
-            Archive.org | TIER 2 | Used in: ANNEX B
+WP-TNA-NEW-02
+  WP-TITLE:   Will of Sir Richard Morison
+  ARCHIVE:    The National Archives, Kew
+  FULL REF:   PROB 11/39/330
+  DATE:       c.1556
+  TYPE:       PRIMARY
+  STATUS:     TO ORDER — CONTAMINATION CONTROL
+  USED IN:    ANNEX B (contamination control)
+  NOTES:      Confirms Morison as biological father of Lucy
+              Peckham's five children. Not a positive lineage
+              document — contamination control only.
 
-WP-PUB-006  Burke's General Armory (1884)
-            Archive.org | TIER 2 | Used in: ANNEX C
-
-WP-PUB-007  Suffolk in 1674 (ed. Hervey, 1905)
-            Archive.org | TIER 2 | Used in: ANNEX A
+WP-SFK-008
+  WP-TITLE:   Wingfield Parish Register
+  ARCHIVE:    Suffolk Archives
+  FULL REF:   FC84/D1/1
+  DATE:       c.1538 onwards
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED READ — April 23 2026
+  USED IN:    ANNEX A, ANNEX E
+  NOTES:      Three Harper burials confirmed — 1546, 1566
+              (explicit father/son), c.1580. Most significant
+              new primary source April 23 2026.
 
 WP-PUB-008
-  WP-TITLE:   Complete Baronetage Vol. II — Harpur/Harper of Calke Abbey, Baronets I–X
-  ARCHIVE:    Published — William Pollard & Co. Ltd., Exeter
-  FULL REF:   G.E.C. [Cokayne], Complete Baronetage, Vol. II (1625–1649), 1902, p. 3
-  DATE:       Published 1902
+  WP-TITLE:   Private Act of Parliament 32 Hen. VIII c.72
+  ARCHIVE:    Parliamentary Archives
+  FULL REF:   32 Hen. VIII c.72
+  DATE:       1540
   TYPE:       SECONDARY
-  SUBJECT:    Harpur/Harper Baronets of Calke Abbey, I–X, cr. 8 Dec 1626; dormant 1924
-  CERTAINTY:  HIGH
-  STATUS:     FILED — one open item (Entry VIII death date incomplete, photograph pending)
-  DIGITAL:    Internet Archive — freely available online; physical copy photographed April 2026
-  KEY FACTS:
-    - Baronetcy heading: "HARPUR, or HARPER" — confirms alias usage at point of creation
-    - 1st Baronet formally styled "Henry Harper" at creation — corroborates PROB 11/59/108
-    - 1st Baronet: 3rd son of Sir John Harpur of Swarkeston (not first son)
-    - 3rd Baronet inherited Swarkeston via cousin's will (d. s.p. 1677)
-    - Cousin Sir John m. Frances Willoughby (Lic. Fac. 3 Jun 1661); Frances held Swarkeston estates for life, d. s.p. 25 May 1714, bur. Swarkeston
-    - 4th Baronet m. Catherine, coheir of 2nd Baron Crewe of Stene — origin of Crewe name addition
-    - 7th Baronet took name Crewe by royal licence 11 April 1808
-    - 10th Baronet d. 1924 — title DORMANT, never declared extinct
-    - Entry VIII death date INCOMPLETE — awaiting closeup photograph. DO NOT CLOSE.
-  ROUTING:    ANNEX C (baronetcy succession table); ANNEX D (citation register)
-  RELEVANCE:  Establishes complete authoritative baronet succession; confirms Harper/Harpur
-              alias usage; directly supports dormant baronetcy claim structure.
+  STATUS:     TO LOCATE
+  USED IN:    ANNEX C
+  NOTES:      George Harper v Lucy Peckham. Horne Place manor
+              Kent. Collateral legal context only.
+
+
+
+================================
+DOCUMENT LOCATIONS — ANNEX D — CITATION AND WORKS CITED LAYER
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
+================================

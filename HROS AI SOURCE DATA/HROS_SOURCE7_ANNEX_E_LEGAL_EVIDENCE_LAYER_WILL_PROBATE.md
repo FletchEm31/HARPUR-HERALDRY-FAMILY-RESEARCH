@@ -1,38 +1,41 @@
 ================================
-ANNEX E — LEGAL EVIDENCE LAYER: WILLS & PROBATE REGISTER | HROS SOURCE DATA
-Version:        1.1
+ANNEX E — LEGAL EVIDENCE LAYER: WILLS AND PROBATE | HROS SOURCE DATA
+Version:        1.3
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Local Drive paths — see end of document
+Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 19 2026
+Updated:        April 23 2026
 ================================
-Contains:       Register of all wills, probate records, IPMs, and Chancery inheritance cases.
-Description:    Dedicated legal evidence index. Every probate document assigned a WP-ID and importance score (1-10). Index layer only — genealogical interpretation goes in Annex A or B. Covers TNA PROB, C1, C2, C9, E150, and STAC series relevant to the Harper/Harberd/Harpur line.
+Contains:       Dedicated register for all wills, probate records, IPMs, and Chancery inheritance cases.
+Description:    Index of all legal evidence documents with WP-IDs and importance scores. Updated April 23 2026 with WP-TNA-018 (George Harper will confirmed read), WP-TNA-009 corrected, WP-TNA-NEW-01 (George Harper IPM), WP-TNA-NEW-02 (Morison will), WP-SFK-008 (Wingfield burials), WP-PUB-008 (private Act).
 ================================
 
-================================
+ANNEX E — LEGAL EVIDENCE LAYER: WILLS & PROBATE REGISTER
+HARPUR HERALDRY & FAMILY RESEARCH | Operating Protocol V2.0
+
+================================================================
 PURPOSE
-================================
+================================================================
 Dedicated register for all wills, probate records, IPMs, and
 Chancery inheritance cases. Every probate document gets a WP-ID
 and an importance score. This file is an index layer only —
 interpretation and genealogical conclusions go in ANNEX A or B.
 
-================================
+================================================================
 IMPORTANCE SCORE GUIDE
-================================
+================================================================
   10  — Direct proof of lineage link (names parent-child)
   8-9 — Strong supporting evidence (names siblings, property)
   6-7 — Useful context (names witnesses, neighbors, associates)
   4-5 — Peripheral (same surname, same area, no direct link)
   1-3 — Background only (collateral, different line)
 
-================================
+================================================================
 ENTRY FORMAT
-================================
+================================================================
   WP-ID:          [ID]
   Document:       [Type — Will / Admin / IPM / Chancery]
   Individual:     [Full name as in document]
@@ -45,9 +48,9 @@ ENTRY FORMAT
   Lineage Impact: [What this document tells us]
   Named persons:  [All individuals named in document]
 
-================================
+================================================================
 REGISTER — CONFIRMED READ
-================================
+================================================================
 
 WP-TNA-001
   Document:       Will (PCC)
@@ -128,9 +131,9 @@ WP-TNA-005
   Named persons:  Alice Harbert (daughter), Roberto & Elizabethe
                   Moninge (admin grantees, daughter of Alice)
 
-================================
+================================================================
 REGISTER — ORDERED, AWAITING RECEIPT
-================================
+================================================================
 
 WP-TNA-009
   Document:       IPM (Inquisition Post Mortem)
@@ -189,9 +192,9 @@ WP-SFK-005
                   Johannes Howell (surrogate);
                   Barnabas Borge (notary)
 
-================================
+================================================================
 REGISTER — OUTSTANDING ARCHIVE SEARCHES
-================================
+================================================================
 
 SUFFOLK — BURY ST EDMUNDS BRANCH
   Search:     Probate, Archdeaconry of Sudbury
@@ -206,10 +209,125 @@ ESSEX RECORD OFFICE
   Status:     AWAITING RESPONSE (sent April 11 2026)
   Priority:   HIGHEST ESSEX PRIORITY
 
+================================================================
+NEW ENTRIES — APRIL 23 2026
+Source: Perplexity patch confirmed by Claude/Hayden
+================================================================
+
+WP-TNA-018
+  Document:       Will (PCC)
+  Individual:     Sir George Harper, Knight, Blackfriars, London
+  Court:          Prerogative Court of Canterbury
+  Archive Ref:    PROB 11/42A/75
+  Date:           Dated 8 November 1558; proved December 1558
+  Status:         CONFIRMED READ — April 23 2026
+  Importance:     9
+  Lineage Impact: Confirms absolute extinction of Essex Harper
+                  male line by December 1558. Zero Harper male
+                  relatives named. Felice Harper (sister) named
+                  in marginal note. Thomas Colepeper confirmed as
+                  "my brother" — half-brother relationship primary
+                  source confirmed. Lucy Peckham's five children
+                  excluded entirely — Morison's biological issue,
+                  not Harper blood. Autograph signature confirmed.
+  Named persons:  Dame Audrey Harper (wife/sole executrix);
+                  Thomas Colepeper of Bedgebery ("my brother");
+                  Felice Harper (sister — marginal admin note);
+                  Alexander Colepeper (beneficiary);
+                  Richard Lynton (executor); Richard Mer
+                  (executor); Erasmus Gainsford (beneficiary);
+                  Daniel Wellard (lease party); George Jones
+                  (beneficiary); Edward Wadgatt (beneficiary);
+                  John Gainsford (schedule)
+
+WP-TNA-009
+  Document:       Inquisition Post Mortem
+  Individual:     Sir Robert Chamberlayne, of Capel and Gedding,
+                  Suffolk
+  Archive Ref:    E150/303/7
+  Date:           c.1518
+  Status:         STILL TO ORDER — HIGH PRIORITY
+  Importance:     8
+  Lineage Impact: Contains George Harper's birth date of
+                  11 March 1503. Confirms Sir Robert Chamberlayne
+                  as George's maternal grandfather. Wardship
+                  chronology — Chamberlayne died 22 October 1516
+                  meaning George spent 7 years in Suffolk
+                  household before Culpeper purchased wardship.
+                  Chamberlayne estates at Capel St Mary and
+                  Gedding, Suffolk — within 10 miles of Boxford.
+  NOTE:           This is Sir Robert Chamberlayne's IPM, NOT
+                  Richard Harper III's IPM. Corrected April 2026.
+
+WP-TNA-NEW-01
+  Document:       Inquisition Post Mortem
+  Individual:     George Harper, Knight, Kent
+  Archive Ref:    C142/133/102
+  Date:           4 Elizabeth I — 1561/62
+  Status:         TO ORDER — HIGH PRIORITY | MEDIUM PENDING RECEIPT
+  Importance:     8
+  Lineage Impact: Will list all Kent estates and valuations at
+                  death. Names heirs. Confirms no male issue.
+                  Cited in HoP HC 1509-1558 footnotes 1 and 3
+                  as confirmed existing document.
+
+WP-TNA-NEW-02
+  Document:       Will (PCC)
+  Individual:     Sir Richard Morison
+  Archive Ref:    PROB 11/39/330
+  Date:           c.1556
+  Status:         TO ORDER — CONTAMINATION CONTROL
+  Importance:     5
+  Lineage Impact: CONTAMINATION CONTROL DOCUMENT. Confirms
+                  Richard Morison as biological father of five
+                  children born to Lucy Peckham during her
+                  marriage to Sir George Harper. These children
+                  carried the Harper surname but are NOT Harper
+                  blood. Any line purporting to descend from
+                  George Harper through Lucy Peckham's children
+                  is a Morison line. To be ordered to formally
+                  document this contamination risk.
+  Routing:        ANNEX B — contamination control, not lineage
+
+WP-SFK-008
+  Document:       Parish Register — Burials
+  Individual:     Harper family, Wingfield, Suffolk
+  Archive Ref:    FC84/D1/1
+  Date:           c.1538 onwards
+  Status:         CONFIRMED READ — April 23 2026 | PRIMARY IMAGES
+  Importance:     10
+  Lineage Impact: THREE CONFIRMED HARPER BURIALS:
+                  1. John Harper buried 12 April 1546
+                  2. "John Harper sonne of John Harper" buried
+                     25 November 1566 — EXPLICIT FATHER/SON
+                     RELATIONSHIP IN PRIMARY SOURCE
+                  3. Third John Harper buried c.1580
+                  Combined with C1/326/40, C1/981/98-99 and
+                  C1/1358/21-23 — documented Harper family at
+                  Wingfield/Dennington across 60-year window
+                  1504-1580. Most significant new primary source
+                  confirmed April 23 2026.
+
+WP-PUB-008
+  Document:       Private Act of Parliament
+  Individual:     George Harper v Lucy Peckham
+  Archive Ref:    32 Hen. VIII c.72
+  Date:           1540
+  Status:         TO LOCATE — Parliamentary Archives
+  Importance:     4
+  Lineage Impact: Collateral legal context. George Harper secured
+                  private Act stripping manor of Horne Place, Kent
+                  from Lucy Peckham against her will. Confirms
+                  aggressive legal tactics and financial pressure
+                  on estate pre-1558.
+  Routing:        ANNEX C — collateral legal context
+
+
+
 ================================
-DOCUMENT LOCATIONS — ANNEX E: LEGAL EVIDENCE LAYER - WILLS & PROBATE
+DOCUMENT LOCATIONS — ANNEX E — LEGAL EVIDENCE LAYER: WILLS AND PROBATE
 ================================
-GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
 - - - - - - - - - - - - - - - -
-Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
 ================================

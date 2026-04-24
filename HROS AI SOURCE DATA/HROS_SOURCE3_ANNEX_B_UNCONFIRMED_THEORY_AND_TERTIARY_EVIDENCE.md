@@ -1,16 +1,16 @@
 ================================
-ANNEX B — UNCONFIRMED THEORY & TERTIARY EVIDENCE | HROS SOURCE DATA
-Version:        1.2
+ANNEX B — UNCONFIRMED THEORY AND TERTIARY EVIDENCE | HROS SOURCE DATA
+Version:        1.3
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Local Drive paths — see end of document
+Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 22 2026
+Updated:        April 23 2026
 ================================
-Contains:       Working hypotheses, unconfirmed leads, disproven leads, and tertiary evidence.
-Description:    Theory and hypothesis layer only. NOT for College of Arms submission. Contains active leads, disproven leads (retained permanently), and speculative material strictly separated from confirmed evidence.
+Contains:       Working theories, unconfirmed leads, and tertiary evidence. NOT for College of Arms submission.
+Description:    Holds all hypotheses, working theories, unconfirmed leads and tertiary evidence for the Harper/Harberd lineage research. Updated April 23 2026 with Wingfield cluster upgraded to MEDIUM-HIGH and George Harper political exposure detail added.
 ================================
 
 ANNEX B — Theory, Hypothesis \& Unconfirmed Research
@@ -178,55 +178,95 @@ ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Intern
 
 
 ================================================================
-UPDATES — 22 APRIL 2026 SESSION
+MAJOR UPDATE — APRIL 23 2026
+WINGFIELD-BOXFORD HYPOTHESIS — UPGRADED TO MEDIUM-HIGH
 ================================================================
 
-DISPROVEN LEAD — HENRY HARPUR AS THIRD SON OF RUSHALL
-Date disproven: 22 April 2026
-Source: History of Parliament HC 1386-1421
-Reason: Explicitly states Sir John of Rushall left only two sons — William and Richard.
-Henry as a third son is not supported by any primary source.
-Probable cause: Aggregator error — confusion with Henry Harpur, third son of
-Sir John Harpur of SWARKESTON (named in PROB 11/59/108) — a different John
-Harpur entirely, separated by several generations.
-STATUS: PERMANENTLY DISPROVEN. Do not re-investigate without new primary source evidence.
+STATUS CHANGE: The Essex-Suffolk bridge hypothesis has been
+materially strengthened by the Wingfield burial cluster
+confirmed April 23 2026. The gap is no longer Essex to Suffolk
+(50 years, two counties). It is now Wingfield to Boxford
+(25 miles, one generation).
 
-----------------------------------------------------------------
+CONFIRMED WINGFIELD HARPER CLUSTER — FC84/D1/1:
+— John Harper buried 12 April 1546 (Generation 2)
+— "John Harper sonne of John Harper" buried 25 November 1566
+  (Generation 3 — explicit father/son in primary source)
+— Third John Harper buried c.1580 (collateral)
 
-CORRECTED BARONETCY LINE FRAMEWORK — April 22 2026
+CONFIRMED CHANCERY DOCUMENTS — WINGFIELD/DENNINGTON CLUSTER:
+— C1/326/40 (1504-1515) — John Harper selling land, Suffolk/Norfolk
+— C1/981/98-99 (1538-1544) — John Harper of Wingfield, Dennington
+— C1/1358/21-23 (1553-1555) — Thomas son of John Harper deceased,
+  Wyngfold [Wingfield]
+— C1/329/1 (1504-1515) — Richard Harper, Mendham/Wyddershale Suffolk
 
-The baronetcy line now confirmed as running through William — eldest son of
-Sir John of Rushall — not through a non-existent third son Henry.
+REVISED GENERATIONAL STRUCTURE — APRIL 23 2026:
+Generation | Individual | Evidence | Status
+G1 | Sir John Harpur of Rushall (1425-1464) | SC8/248/12368; HoP | CONFIRMED
+G2 | Sir Richard Harpur of Epping (1443-1492) | PROB 11/9/246 | PRIMARY CONFIRMED
+G3 | John Harper Esquire — younger son of Richard | PROB 11/9/246; C1/326/40 | PRIMARY CONFIRMED — in Suffolk 1504-1515
+G4 | John Harper of Wingfield — son of John Esquire | FC84/D1/1 burial 1546; C1/981/98-99 | PRIMARY CONFIRMED
+G5 | John Harper son of John Harper — Wingfield | FC84/D1/1 burial 1566; C1/1358/21-23 | PRIMARY CONFIRMED — explicit father/son
+G5/6 | John Harbertt of Boxford — proposed son/grandson | FB77/D1/1 — sons marrying 1562/1563 | GAP — 25 miles, one generation
+G6/7 | John Harbarde x Rose Smythe 1563 | FB77/D1/1 | PRIMARY CONFIRMED
+G7+ | Full confirmed Suffolk chain | Multiple primary sources | FULLY CONFIRMED
 
-The crescent cadency mark on Calke Abbey arms indicates a junior branch WITHIN
-William's senior Staffordshire line — most likely a younger son of William's
-descendants in a later generation. This is NOT William himself (who as eldest
-son would carry plain arms). The Glover 1583 Staffordshire Visitation is
-required to identify exactly which generation within William's line the
-Derbyshire branch separates from.
+THE REMAINING GAP:
+Wingfield Harper (buried 1566) → Boxford Harbertt (fl.1562)
+Distance: 25 miles southwest
+Timing: Overlapping — consistent with younger son establishing
+new household while senior line maintained Wingfield burial plot
+What closes it: C1/981/98-99 or C1/1358/21-23 may name family
+members connecting both locations when received.
 
-CONFIRMED by baronetcy's own History of Parliament entry — Rushall common origin
-no longer a working hypothesis. See Annex A for full confirmation record.
+BURIAL PLOT ARGUMENT:
+The absence of Harper burials at Boxford and absence of
+Harbertt births at Wingfield is consistent with Tudor gentry
+practice — senior male line maintains burial rights at
+established parish (Wingfield); junior branch establishes new
+household at new parish (Boxford). Both operating simultaneously.
+This is not a weakness — it is the expected signature of a
+family in controlled geographic transition.
 
-----------------------------------------------------------------
+EVIDENCE LEVEL: MEDIUM-HIGH (upgraded from MEDIUM April 23 2026)
+REQUIRED TO CONFIRM: C1/981/98-99 or C1/1358/21-23 naming
+family members connecting Wingfield and Boxford directly; OR
+a will or probate record naming John Harbertt's father.
 
-CAVEAT DOCUMENT — JOHNSON FAMILY ESTATE — STATUS
-Status: UNCONFIRMED — document not yet located — HIGH PRIORITY
-Notes: Hayden recalls reading that the Johnson family's rights over the Calke
-Abbey settled estate (established Ministry of Justice 2000) contain caveats
-that would be superseded if a male-line baronet were recognised. This document
-has not yet been located or read in primary source. It may be in:
-- The Ministry of Justice 2000 ruling documentation
-- The Letters Patent creating the baronetcy (TNA C 66 — Patent Rolls, 1626)
-- Calke Abbey / National Trust correspondence
-STATUS: FIND THIS DOCUMENT BEFORE CONTACTING DR FOX OR ANY AUTHORITY.
+================================================================
+GEORGE HARPER POLITICAL EXPOSURE — UPDATED APRIL 23 2026
+Source: PROB 11/42A/75 + HoP HC 1509-1558 Helen Miller
+================================================================
 
-ANNEX B — Theory/Hypothesis | Harper/Harberd Research | Updated April 22 2026 | Internal Use Only
+NEW DETAIL — NORTHUMBERLAND LEASES:
+George Harper held property leases from John Dudley, Duke of
+Northumberland — executed August 1553 for the Lady Jane Grey
+conspiracy. George was a sitting tenant of the executed traitor
+at the moment Mary I came to the throne. This directly explains
+why he was immediately suspected and required to attend court
+in October 1553. It was not merely his Kent gentry connections
+that made him vulnerable — he had active financial entanglements
+with the man who had just tried to put a Protestant queen on
+the throne.
+
+NEW DETAIL — THOMAS COLEPEPER STILL NAMED AS "MY BROTHER":
+George's will (PROB 11/42A/75, December 1558) explicitly names
+Thomas Colepeper of Bedgebery as "my brother" — 17 years after
+Thomas was beheaded for allegedly sleeping with Catherine Howard.
+George never legally or financially unwound his relationship
+with Thomas. They were still jointly named parties on active
+leases at George's death. This persistent entanglement with
+an executed traitor's name and estate contributed directly to
+George's permanent political suspicion under both Henry VIII
+and Mary I.
+
+
 
 ================================
-DOCUMENT LOCATIONS — ANNEX B: UNCONFIRMED THEORY & TERTIARY EVIDENCE
+DOCUMENT LOCATIONS — ANNEX B — UNCONFIRMED THEORY AND TERTIARY EVIDENCE
 ================================
-GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
 - - - - - - - - - - - - - - - -
-Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
 ================================

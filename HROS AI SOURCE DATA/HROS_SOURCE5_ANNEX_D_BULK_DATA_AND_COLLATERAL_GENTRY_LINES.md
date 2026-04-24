@@ -1,17 +1,24 @@
 ================================
-ANNEX D — BULK DATA & COLLATERAL GENTRY LINES | HROS SOURCE DATA
-Version:        1.2
+ANNEX D — BULK DATA AND COLLATERAL GENTRY LINES | HROS SOURCE DATA
+Version:        1.3
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Local Drive paths — see end of document
+Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 22 2026
+Updated:        April 23 2026
 ================================
-Contains:       Extended bulk data — heraldry, collateral lines, Suffolk/Essex/Derbyshire network.
-Description:    Expanded version of Annex C covering the full extended family network across Suffolk, Norfolk, Essex and Derbyshire. Includes heraldic arms data, TNA document significance ratings, and bulk Harper/Harpur name data. Background context only — no direct chain evidence.
+Contains:       Bulk data layer — extended collateral network, Harberd gentry cluster, heraldry data.
+Description:    Extended bulk data supporting the primary research. Contains Harberd gentry network detail, heraldic data, collateral family clusters, and supporting bulk records not held in the main annexes.
 ================================
+
+ANNEX C
+Collateral Gentry Lines \& Bulk Harper/Harpur Data
+HARPUR HERALDRY & FAMILY RESEARCH
+Extended Family Network | Heraldry | Suffolk, Norfolk, Essex \& Derbyshire | Updated April 2026
+INTERNAL RESEARCH DOCUMENT — This annex documents collateral gentry lines, bulk Harper/Harpur data, heraldry, and family members who are NOT on the direct patrilineal chain. Records here provide context, corroboration, and background for the main petition but are not themselves primary chain evidence. None of the individuals below are direct ancestors of Hayden F. Harper unless specifically noted.
+
 
 
 1. Sir Charles Harberd kt — HM Surveyor General under Charles II
@@ -73,10 +80,16 @@ A separate family tree prepared by Hayden's uncle (retired engineer) documents a
 Key figures in the uncle's chart include: Pepin of Herstal, Charles Martel, Pepin III, and Charlemagne — the standard Carolingian descent. The left-side lines include Ferreolus, Tonantius Ferreolus, Agricola, and Afrianus Syagrius — Roman senatorial families of late antiquity. The right-side lines connect through Merovingian and Frankish royal houses.
 NOTE: Charlemagne descent is extremely common among people of European ancestry — it has been estimated that virtually all Europeans of western European descent are descended from Charlemagne through some line. The genealogical value for the College of Arms petition is limited unless the specific female-line connection to a named armigerous ancestor can be documented. The uncle's research should be reviewed and the female-line link identified before this is incorporated into any formal submission.
 
+
+
+ANNEX C — Collateral Gentry Lines \& Bulk Harper/Harpur Data | Harper/Harberd Family Research | Updated April 2026 | Internal Use Only
+
+
+
 ================================
-DOCUMENT LOCATIONS — ANNEX D: BULK DATA & COLLATERAL GENTRY LINES
+DOCUMENT LOCATIONS — ANNEX D — BULK DATA AND COLLATERAL GENTRY LINES
 ================================
-GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
 - - - - - - - - - - - - - - - -
-Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
 ================================

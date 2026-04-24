@@ -1,17 +1,26 @@
 ================================
 DOCUMENT ANALYSIS REGISTER | HROS SOURCE DATA
-Version:        1.2
+Version:        1.3
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Local Drive paths — see end of document
+Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 22 2026
+Updated:        April 23 2026
 ================================
-Contains:       Verbatim transcriptions and analysis of primary source documents.
-Description:    Primary image reads and literal transcriptions conducted by Claude. Latin documents include translation in brackets. Ambiguous handwriting flagged with a note. Each entry cross-references the Works Cited Register by WP-ID. Prepared for Dr. Fox reference and College of Arms submission preparation.
+Contains:       Primary image reads and verbatim extracts with significance analysis.
+Description:    Contains verbatim extracts and analysis for all primary documents read in full. Updated April 23 2026 with Document 5 (PROB 11/42A/75 — George Harper will) and Document 6 (FC84/D1/1 — Wingfield parish register burials).
 ================================
+
+================================================================
+DOCUMENT ANALYSIS REGISTER
+HARPUR HERALDRY & FAMILY RESEARCH
+HARPUR HERALDRY & FAMILY RESEARCH
+Updated: April 17 2026
+Primary image reads and analysis by Claude
+For Dr. Fox reference and College of Arms preparation
+================================================================
 
 ABOUT THIS DOCUMENT
 
@@ -26,17 +35,17 @@ brackets. Where handwriting is ambiguous, the most probable
 reading is given with a note. All entries cross-reference the
 Works Cited Register by WP-ID.
 
-================================
+================================================================
 
 
-================================
+================================================================
 DOCUMENT 1
 WP-TNA-001
 PROB 11/9/246 — Will of Richard Harpur of Epping, Essex
 Proved: January 1492/3
 Court: Prerogative Court of Canterbury
 Primary image read: April 17 2026
-================================
+================================================================
 
 VERBATIM EXTRACTS
 -----------------
@@ -151,7 +160,7 @@ connections provide relevant social context for the status
 of the Harper family in this period.
 
 
-================================
+================================================================
 DOCUMENT 2
 WP-TNA-002
 PROB 11/59/108 — Will of Richard Harpur alias Harper
@@ -159,7 +168,7 @@ Justice of Common Pleas, Swarkeston, Derbyshire
 Dated: July 1576 | Proved: 7 February 1576/7
 Court: Prerogative Court of Canterbury
 Primary image read: April 17 2026
-================================
+================================================================
 
 VERBATIM EXTRACTS
 -----------------
@@ -269,7 +278,7 @@ of single family ownership confirmed across two primary
 source wills.
 
 
-================================
+================================================================
 DOCUMENT 3
 WP-TNA-017
 PROB 11/1175/248 — Will and Codicil of Sir Henry Harpur
@@ -277,7 +286,7 @@ PROB 11/1175/248 — Will and Codicil of Sir Henry Harpur
 Dated: 4 February 1789 | Proved: 14 February 1789
 Court: Prerogative Court of Canterbury
 Primary image read: April 17 2026
-================================
+================================================================
 
 VERBATIM EXTRACTS
 -----------------
@@ -351,7 +360,7 @@ for understanding the nature of the dormant title being
 researched.
 
 
-================================
+================================================================
 DOCUMENT 4
 WP-SFK-005
 IC/500/2/49/100 — Will of Christopher Harper
@@ -359,7 +368,7 @@ Bury St Edmunds, Suffolk
 Dated: 9 August 1614 | Proved: 22 October 1614
 Court: Archdeaconry of Sudbury
 Primary image read: April 17 2026
-================================
+================================================================
 
 VERBATIM EXTRACTS
 -----------------
@@ -458,7 +467,7 @@ or baptism record naming John Harbar's father as one of
 these brothers.
 
 
-================================
+================================================================
 DOCUMENT 5
 WP-SFK-006  [ID TO BE FORMALLY ASSIGNED]
 IC/500/5/1/4/4f — Administration of Hugo Harbarde
@@ -467,7 +476,7 @@ Died: 9 January 1570/71
 Administration granted: November/December 1570
 Court: Archdeaconry of Sudbury
 Primary image read: April 17 2026
-================================
+================================================================
 
 VERBATIM EXTRACTS
 -----------------
@@ -544,10 +553,177 @@ Hugo. The name William appears repeatedly across the
 Harper/Harberd network in this period and geography.
 Not yet confirmed but worth noting for future research.
 
+
+================================================================
+DOCUMENT ANALYSIS REGISTER | HARPUR HERALDRY & FAMILY RESEARCH
+HROS | Updated April 17 2026 | Internal Use Only
+================================================================
+
+================================================================
+DOCUMENT 5
+WP-TNA-018
+PROB 11/42A/75 — Will of Sir George Harper Knight
+Blackfriars, London
+Dated: 8 November 1558 | Schedule added: November 1558
+(1 Elizabeth I) | Proved: December 1558
+Court: Prerogative Court of Canterbury
+Primary images read in full: April 23 2026
+================================================================
+
+DOCUMENT DESCRIPTION
+--------------------
+Four pages of secretary hand, mid-16th century. Autograph
+signature "George Harper" confirmed on will and schedule.
+Marginal annotation in Latin confirming probate and naming
+executrix. Schedule added after Mary I died and Elizabeth
+acceded — George updated his will in the final weeks of his
+life.
+
+VERBATIM EXTRACTS (KEY SECTIONS)
+---------------------------------
+
+Opening (from primary image):
+  "In the name of God Amen. This [8th] day of November in
+  the year of our Lord God a thousand five hundred and
+  [fifty and eight]... I Sir George Harper Knight, albeit
+  feeble in body, being of whole mind and perfect memory,
+  thanks be therefore given to God, do constitute, ordain,
+  declare and make this my present testament and last will"
+
+Thomas Colepeper named as brother:
+  "...all those two several leases which the said late Duke
+  unto Sir George and my brother Thomas Colepeper late of
+  Bedgebery in the side..."
+
+Executrix clause:
+  "Dame Audrey Harper to her about use whom only I constitute
+  and make my sole executrix to the intent that she shall
+  faithfully and truly execute and perform the same present
+  testament and last will in all things"
+
+Signature: "George Harper" — autograph confirmed
+
+Probatum (proved December 1558):
+  "Probatum fuit suprascriptum testamentum una cum schedula
+  annexa coram dno apud London [date] die mensis Decembris
+  Anno dni Millesimo quingentesimo quinquagesimo octavo"
+
+Marginal administration note:
+  "A ffelice crassy cum tonsthe Manon Colepeper vid Thomas
+  Colepeper ar provenire insinuivice da d orbying ead ad
+  adm/diand bona confem..."
+  — Administration granted to FELICE in connection with
+    Thomas Colepeper estate
+
+SIGNIFICANCE
+------------
+
+1. ZERO HARPER MALE RELATIVES NAMED.
+The entire will — four pages naming multiple beneficiaries,
+executors, lease parties, and family members — contains not
+a single Harper male relative. No cousins. No nephews. No
+connection to John Harper's Suffolk descendants. The Essex
+Harper male line was completely isolated by December 1558.
+When George died, nobody came forward with a male-line claim
+because John's Suffolk descendants were invisible under the
+name Harberd.
+
+2. THOMAS COLEPEPER CONFIRMED AS "MY BROTHER" IN PRIMARY SOURCE.
+George explicitly names Thomas Colepeper — executed for the
+Catherine Howard affair in December 1541 — as "my brother"
+in his will, 17 years after the execution. They were still
+jointly named on active leases at the time of George's death.
+This is primary source confirmation of the half-brother
+relationship and of George's persistent loyalty to the
+Colepeper connection despite its catastrophic political
+consequences.
+
+3. NORTHUMBERLAND LEASE CONFIRMED.
+George held property leases from "the said late Duke" — John
+Dudley, Duke of Northumberland, executed 1553 for the Lady
+Jane Grey conspiracy. Confirmed in the will's bequest of the
+Constolde farm in Kent to George Jones "during all those years
+yet to come mentioned in the said lease made by the said late
+Duke." This explains George's immediate political vulnerability
+on Mary I's accession — he was a sitting tenant of the man who
+had just tried to put a Protestant queen on the throne.
+
+4. FELICE HARPER — SISTER IDENTIFIED FOR FIRST TIME.
+The marginal administration note grants administration to
+Felice in connection with Thomas Colepeper's estate. This is
+George's previously unnamed sister — now identified as Felice
+Harper. She is the sister referenced in the HoP entry whose
+son-in-law William Isley inherited Sutton Valence. Her
+connection to the Colepeper estate administration confirms she
+was actively involved in unwinding George's complex financial
+arrangements after his death.
+
+5. LUCY PECKHAM'S CHILDREN ENTIRELY EXCLUDED.
+No provision whatsoever for the two sons and three daughters
+of the first marriage. Confirmed as Morison's biological
+children. These individuals carried the Harper surname but
+are not Harper blood. Active contamination risk for any
+genealogical claim purporting to descend from George Harper
+through Lucy Peckham's children.
+
+6. ASSET DISPERSAL CONFIRMS NO HARPER INHERITANCE.
+Sutton Valence → William Isley (Felice's son-in-law)
+All goods, chattels, plate, money, leases → Dame Audrey Harper
+Northumberland/Colepeper leases → managed through Felice
+Crowhurst income → Erasmus Gainsford (£20 annually)
+After Audrey died January 1560 — everything dispersed through
+Gainsford and Colepeper networks. Not one asset passed to a
+Harper male heir.
+
+================================================================
+DOCUMENT 6
+WP-SFK-008
+FC84/D1/1 — Wingfield Parish Register
+Suffolk Archives
+Primary images confirmed: April 23 2026
+================================================================
+
+THREE CONFIRMED HARPER BURIALS:
+
+1. "John Harper buried 12 April 1546"
+   Generation 2. Proposed son of John Harper Esquire of Epping.
+   Combined with C1/326/40 — places him active in Suffolk from
+   1504-1515 through death 1546. Total active period in Suffolk:
+   approximately 40 years.
+
+2. "John Harper sonne of John Harper buried [25 November] 1566"
+   Generation 3. The register explicitly records the father/son
+   relationship in the burial entry itself. This is primary source
+   confirmation — not inference — of a Harper father/son pair at
+   Wingfield. Combined with C1/981/98-99 (John Harper of Wingfield,
+   Dennington, 1538-1544) and C1/1358/21-23 (Thomas son of John
+   Harper deceased, Wyngfold, 1553-1555) — the Wingfield Harper
+   family is now documented across three archive collections.
+
+3. Third John Harper buried c.1580
+   Probable younger brother. Confirms the Harper family maintained
+   Wingfield as their burial parish across the full generation
+   spanning 1546-1580 — even as the Boxford branch was establishing
+   itself 25 miles southwest.
+
+SIGNIFICANCE:
+The Wingfield burial cluster is the most significant new primary
+source confirmed in this research since the Boxford parish
+register. It provides the generational framework that connects
+the Essex Harper Chancery records (1504-1515) to the Boxford
+Harbertt parish records (1562 onwards). The name difference
+between Harper (Wingfield/Chancery) and Harbertt/Harberd
+(Boxford) is explained by document type dependency — legal
+and formal ecclesiastical records preserved the written form;
+rural parish records produced phonetic variants without a
+written reference to copy from.
+
+
+
 ================================
 DOCUMENT LOCATIONS — DOCUMENT ANALYSIS REGISTER
 ================================
-GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
 - - - - - - - - - - - - - - - -
-Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
 ================================

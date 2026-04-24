@@ -1,18 +1,17 @@
 ================================
-ANNEX B SUPPLEMENT — ESSEX/SUFFOLK NARRATIVE | HROS SOURCE DATA
-Version:        1.2
+ANNEX B SUPPLEMENT — ESSEX-SUFFOLK NARRATIVE | HROS SOURCE DATA
+Version:        1.3
 ================================
 - - - - - - - - - - - - - - - -
 File Name:      HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
 Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Local Drive paths — see end of document
+Location:       GitHub & Proton Drive paths — see end of document
 Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 22 2026
+Updated:        April 23 2026
 ================================
-Contains:       Narrative supplement tracing the Essex-to-Suffolk migration hypothesis.
-Description:    Supporting narrative for Annex B covering the proposed Essex bridge — migration of a junior Harper branch from Latton/Epping, Essex into Boxford, Suffolk c.1507-1530. NOT FOR COLLEGE OF ARMS SUBMISSION. All conclusions are working hypothesis only. Cross-references Annex B (SOURCE3) for tabular evidence.
+Contains:       Supplementary narrative connecting the Essex Harper line to the Suffolk Harberd chain.
+Description:    Extended narrative argument supporting the Essex-to-Suffolk migration hypothesis. Sets out the geographic, chronological and documentary case for John Harper Esquire's relocation to Suffolk after 1509. Annex B status — not for College of Arms submission without primary source confirmation.
 ================================
-
 
 The Story of Harpur
 From Rushall to Suffolk: The Harper Family and the Essex Connection | Harper Family Archive | April
@@ -185,10 +184,12 @@ Suffolk Archives FB77/D1/1
 ✓
 The Story of Harpur | Harper Family Archive | Prepared April 2026 | For private family distribution
 
+
+
 ================================
-DOCUMENT LOCATIONS — ANNEX B SUPPLEMENT: ESSEX/SUFFOLK NARRATIVE
+DOCUMENT LOCATIONS — ANNEX B SUPPLEMENT — ESSEX-SUFFOLK NARRATIVE
 ================================
-GitHub Path:    https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
 - - - - - - - - - - - - - - - -
-Proton (Shared) Drive:   C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
 ================================
