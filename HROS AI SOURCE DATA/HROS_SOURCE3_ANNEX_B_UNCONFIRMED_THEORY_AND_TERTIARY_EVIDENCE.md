@@ -1,18 +1,3 @@
-================================
-ANNEX B — UNCONFIRMED THEORY AND TERTIARY EVIDENCE | HROS SOURCE DATA
-Version:        1.3
-================================
-- - - - - - - - - - - - - - - -
-File Name:      HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
-Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Proton Drive paths — see end of document
-Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 23 2026
-================================
-Contains:       Working theories, unconfirmed leads, and tertiary evidence. NOT for College of Arms submission.
-Description:    Holds all hypotheses, working theories, unconfirmed leads and tertiary evidence for the Harper/Harberd lineage research. Updated April 23 2026 with Wingfield cluster upgraded to MEDIUM-HIGH and George Harper political exposure detail added.
-================================
-
 ANNEX B — Theory, Hypothesis \& Unconfirmed Research
 Harper / Harberd Family Lineage | Active Research Leads | April 2026
 INTERNAL RESEARCH DOCUMENT — NOT FOR COLLEGE OF ARMS SUBMISSION. Updated April 2026.
@@ -174,99 +159,73 @@ CERTAINTY: INFERENCE ONLY — no primary source directly links John Harper Esq t
 
 
 
-ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Internal only | Updated April 2026.
-
-
-================================================================
-MAJOR UPDATE — APRIL 23 2026
-WINGFIELD-BOXFORD HYPOTHESIS — UPGRADED TO MEDIUM-HIGH
-================================================================
-
-STATUS CHANGE: The Essex-Suffolk bridge hypothesis has been
-materially strengthened by the Wingfield burial cluster
-confirmed April 23 2026. The gap is no longer Essex to Suffolk
-(50 years, two counties). It is now Wingfield to Boxford
-(25 miles, one generation).
-
-CONFIRMED WINGFIELD HARPER CLUSTER — FC84/D1/1:
-— John Harper buried 12 April 1546 (Generation 2)
-— "John Harper sonne of John Harper" buried 25 November 1566
-  (Generation 3 — explicit father/son in primary source)
-— Third John Harper buried c.1580 (collateral)
-
-CONFIRMED CHANCERY DOCUMENTS — WINGFIELD/DENNINGTON CLUSTER:
-— C1/326/40 (1504-1515) — John Harper selling land, Suffolk/Norfolk
-— C1/981/98-99 (1538-1544) — John Harper of Wingfield, Dennington
-— C1/1358/21-23 (1553-1555) — Thomas son of John Harper deceased,
-  Wyngfold [Wingfield]
-— C1/329/1 (1504-1515) — Richard Harper, Mendham/Wyddershale Suffolk
-
-REVISED GENERATIONAL STRUCTURE — APRIL 23 2026:
-Generation | Individual | Evidence | Status
-G1 | Sir John Harpur of Rushall (1425-1464) | SC8/248/12368; HoP | CONFIRMED
-G2 | Sir Richard Harpur of Epping (1443-1492) | PROB 11/9/246 | PRIMARY CONFIRMED
-G3 | John Harper Esquire — younger son of Richard | PROB 11/9/246; C1/326/40 | PRIMARY CONFIRMED — in Suffolk 1504-1515
-G4 | John Harper of Wingfield — son of John Esquire | FC84/D1/1 burial 1546; C1/981/98-99 | PRIMARY CONFIRMED
-G5 | John Harper son of John Harper — Wingfield | FC84/D1/1 burial 1566; C1/1358/21-23 | PRIMARY CONFIRMED — explicit father/son
-G5/6 | John Harbertt of Boxford — proposed son/grandson | FB77/D1/1 — sons marrying 1562/1563 | GAP — 25 miles, one generation
-G6/7 | John Harbarde x Rose Smythe 1563 | FB77/D1/1 | PRIMARY CONFIRMED
-G7+ | Full confirmed Suffolk chain | Multiple primary sources | FULLY CONFIRMED
-
-THE REMAINING GAP:
-Wingfield Harper (buried 1566) → Boxford Harbertt (fl.1562)
-Distance: 25 miles southwest
-Timing: Overlapping — consistent with younger son establishing
-new household while senior line maintained Wingfield burial plot
-What closes it: C1/981/98-99 or C1/1358/21-23 may name family
-members connecting both locations when received.
-
-BURIAL PLOT ARGUMENT:
-The absence of Harper burials at Boxford and absence of
-Harbertt births at Wingfield is consistent with Tudor gentry
-practice — senior male line maintains burial rights at
-established parish (Wingfield); junior branch establishes new
-household at new parish (Boxford). Both operating simultaneously.
-This is not a weakness — it is the expected signature of a
-family in controlled geographic transition.
-
-EVIDENCE LEVEL: MEDIUM-HIGH (upgraded from MEDIUM April 23 2026)
-REQUIRED TO CONFIRM: C1/981/98-99 or C1/1358/21-23 naming
-family members connecting Wingfield and Boxford directly; OR
-a will or probate record naming John Harbertt's father.
+ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Internal only | Updated April 23 2026.
 
 ================================================================
-GEORGE HARPER POLITICAL EXPOSURE — UPDATED APRIL 23 2026
-Source: PROB 11/42A/75 + HoP HC 1509-1558 Helen Miller
+NEW HYPOTHESIS — April 23 2026
+WINGFIELD → BECCLES → SYLEHAM MIGRATION CORRIDOR
+Status: WORKING HYPOTHESIS | Evidence level: MEDIUM-HIGH
 ================================================================
 
-NEW DETAIL — NORTHUMBERLAND LEASES:
-George Harper held property leases from John Dudley, Duke of
-Northumberland — executed August 1553 for the Lady Jane Grey
-conspiracy. George was a sitting tenant of the executed traitor
-at the moment Mary I came to the throne. This directly explains
-why he was immediately suspected and required to attend court
-in October 1553. It was not merely his Kent gentry connections
-that made him vulnerable — he had active financial entanglements
-with the man who had just tried to put a Protestant queen on
-the throne.
+This hypothesis proposes that the direct line runs through Wingfield
+and Beccles — NOT through Boxford. The Boxford Harberd family may
+be a collateral branch rather than the direct ancestors.
 
-NEW DETAIL — THOMAS COLEPEPER STILL NAMED AS "MY BROTHER":
-George's will (PROB 11/42A/75, December 1558) explicitly names
-Thomas Colepeper of Bedgebery as "my brother" — 17 years after
-Thomas was beheaded for allegedly sleeping with Catherine Howard.
-George never legally or financially unwound his relationship
-with Thomas. They were still jointly named parties on active
-leases at George's death. This persistent entanglement with
-an executed traitor's name and estate contributed directly to
-George's permanent political suspicion under both Henry VIII
-and Mary I.
+PROPOSED DIRECT LINE:
+Richard of Epping (1492) → John Harper Esq migrates to Suffolk
+c.1509 → establishes at Wingfield (Chancery cases 1504-1544) →
+buried Wingfield 12 Apr 1546 → son John × Jone Goldinge 1552 →
+son John buried Wingfield 1566 → John Harper buried Wingfield
+1580 (spouse Jone) → son moves toward Beccles c.1585-1600 →
+John Harper buried Beccles April 1620 (109/D2/11) → Joseph
+Harbor 1630/1661 Beccles → James Harbar 1705 → James Harper
+× Sarah Osborn 1733 → James Harper 1737 → Joseph Harper New
+York 1765 → Hayden F. Harper 1992.
 
+EVIDENCE SUPPORTING:
+1. FC84/D1/1 — Wingfield Harper cluster — 8 primary records
+   confirmed 1546-1584 including father-son explicit confirmation
+2. 109/D2/11 — John Harper buried Beccles April 1620 — PRIMARY
+   CONFIRMED — same register as confirmed chain
+3. C1/981/98-99 — John Harper of Wingfield defendant 1538-1544
+4. C1/1358/21-23 — Thomas son of John Harper deceased 1553-1555
+5. C2/JasI/H30/61 — Harper lands in Syleham 1603-1625 — NOT YET READ
+6. John Harper baptism Syleham 1673 father John Harper — TIER 3 ONLY
+7. Name spelling Harbor/Harboe phonetically closer to Harper than
+   Harberd/Harbarde — consistent with shorter dialect corruption
+8. Geographic logic — Wingfield to Beccles is 18 miles northeast,
+   direct route. Wingfield to Boxford is 25 miles southwest,
+   opposite direction.
 
+SYLEHAM AS INTERMEDIATE STOP:
+- Syleham is 4 miles from Wingfield, same Hoxne Hundred
+- Harper Chancery case C2/JasI/H30/61 names Syleham lands 1603-1625
+- John Harper resident Syleham 1673 (Tier 3)
+- Proposed: family moves Wingfield → Syleham c.1585-1620 →
+  one member dies Beccles 1620, others remain Syleham
 
-================================
-DOCUMENT LOCATIONS — ANNEX B — UNCONFIRMED THEORY AND TERTIARY EVIDENCE
-================================
-GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
-- - - - - - - - - - - - - - - -
-Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
-================================
+WHAT WOULD CONFIRM:
+- Primary image Syleham register showing Harper entries 1585-1650
+- C2/JasI/H30/61 read — naming Harper plaintiff and Syleham lands
+- Any record connecting John Harper buried Beccles 1620 to Wingfield
+- Marriage or baptism record for Joseph Harbor naming father John
+
+WHAT WOULD DISPROVE:
+- Syleham register showing no Harpers before 1673
+- C2/JasI/H30/61 naming unrelated Harper
+- Primary document placing John Harbertt of Boxford as son of
+  John Harper Esq directly
+
+IMPLICATION FOR BOXFORD:
+If this hypothesis is confirmed, the Boxford Harberd family
+(John Harbarde × Rose Smythe 1563 onward) may be a collateral
+branch — cousins descended from a sibling of John Harper Esq
+who settled in southwest Suffolk while John went northeast.
+The William Harper of Wingfield branch (children 1550-1584)
+is the most likely source of the Boxford line if this is correct.
+
+CERTAINTY: WORKING HYPOTHESIS — strong circumstantial support
+but not yet confirmed by primary source connection document.
+ROUTING: Annex B. Promote to Annex A when primary image of
+Syleham register or C2/JasI/H30/61 confirms.
+

@@ -1,18 +1,3 @@
-================================
-THE HARPER LEGACY — FULL NARRATIVE | HROS SOURCE DATA
-Version:        1.3
-================================
-- - - - - - - - - - - - - - - -
-File Name:      HROS_SOURCE10_THE_HARPER_LEGACY_FULL_NARRATIVE.md
-Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Proton Drive paths — see end of document
-Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 23 2026
-================================
-Contains:       Full narrative account of the Harper/Harpur dynasty from Rushall to HarperCollins.
-Description:    The complete narrative document covering the Harper/Harpur family history from Sir John le Harpur of Rushall to Hayden F. Harper. Written for human consumption and Dr. Fox reference. Research conducted to College of Arms evidentiary standards.
-================================
-
 THE HARPER LEGACY
 From Rushall to Calke Abbey, Essex to Suffolk,
 and New York to HarperCollins
@@ -505,12 +490,3 @@ Research conducted to College of Arms evidentiary standards. All confirmed recor
 source register images or peer-reviewed secondary sources. Updated April 2026. Internal research document —
 active gaps noted.
 
-
-
-================================
-DOCUMENT LOCATIONS — THE HARPER LEGACY — FULL NARRATIVE
-================================
-GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE10_THE_HARPER_LEGACY_FULL_NARRATIVE.md
-- - - - - - - - - - - - - - - -
-Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE10_THE_HARPER_LEGACY_FULL_NARRATIVE.md
-================================

@@ -1,20 +1,5 @@
-================================
-ANNEX A — VERIFIED SUPPORTING EVIDENCE | HROS SOURCE DATA
-Version:        1.3
-================================
-- - - - - - - - - - - - - - - -
-File Name:      HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
-Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Proton Drive paths — see end of document
-Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 23 2026
-================================
-Contains:       Verified supporting evidence for the Main Document primary chain.
-Description:    All primary source documents confirmed read and filed as supporting evidence for the Harper/Harberd lineage claim. Updated April 23 2026 with PROB 11/42A/75 (George Harper will), FC84/D1/1 (Wingfield burials), and HoP George Harper entry.
-================================
-
 ANNEX A — Verified Supporting Evidence
-HARPUR HERALDRY & FAMILY RESEARCH | Suffolk, Norfolk \& Essex, England | 1490-1765
+Harper / Harberd Family Research | Suffolk, Norfolk \& Essex, England | 1490-1765
 INTERNAL RESEARCH DOCUMENT — Supporting evidence for the Main Document primary chain. Updated: April 2026.
 
 1. CRITICAL CORRECTION — John Harper Generational Position
@@ -96,6 +81,96 @@ Suffolk Archives Ipswich. Primary image received April 2026. Hugo Harbarde of Bo
 IC/500/1/71/76 — Christopher Harper of Bury St Edmunds, Will, proved October 1614
 Suffolk Archives Ipswich. Primary image received April 2026. Sons Christopher and Francis. Brothers Thomas, William, Andrew Harper — all active at Bury St Edmunds one generation before John Harbar's 1623 marriage at the same parish.
 
+WINGFIELD HARPER CLUSTER — FC84/D1/1 — COMPLETE PRIMARY RECORD SET
+Wingfield parish register, Suffolk. Suffolk Archives FC84/D1/1. Primary images confirmed April 2026.
+
+ALL RECORDS — PRIMARY CONFIRMED:
+
+Individual | Date | Record Type | Entry as recorded | Notes
+Margery Harper | 10 Apr 1546 | Burial | "Margery Harper was buryed the xth daye of Aprill" | NEW FIND — wife of John Harper Esq? Buried 2 days before John.
+John Harper | 12 Apr 1546 | Burial | "John Harper was buried the xij th daye of Aprill" | John Harper Esquire — patriarch
+Margaret Harper | Feb 1550 | Baptism | "Margaret Harper the daughter of William Harper was baptised the second daye of ffebruary" | Daughter of William Harper — collateral branch
+John Harper | 21 Dec 1556 | Baptism | "John Harper was baptised the xxj th daye of December" | No father named in entry
+John Harper son of William Harper | Nov 1555 | Baptism | Edward Harper son of William Harper — see index | William Harper collateral branch
+John Harper son of John Harper | 25 Nov 1566 | Burial | "John Harper sonne of John Harper buried in November 1566" | Father-son relationship EXPLICITLY CONFIRMED in primary source
+John Harper | 21 Apr 1580 | Burial | Buried Wingfield — spouse: Jone Harper | Ancestry detail confirms spouse Jone Harper = married Jul 1552
+John Harper son of William Harper | 20 Aug 1584 | Burial | "John Harper the sonne of William Harper was buryed ye xxth daye of August" | William Harper collateral branch
+
+MARRIAGE RECORD (from index — primary image pending):
+John Harper × Jone Goldinge — 25 Jul 1552 — Wingfield FC84/D1/1
+
+TWO DISTINCT WINGFIELD HARPER BRANCHES:
+
+BRANCH 1 — John Harper line (proposed direct ancestors):
+- John Harper (patriarch) + Margery Harper — both buried April 1546
+- John Harper son of John Harper — buried 25 Nov 1566 (father-son CONFIRMED)
+- John Harper — married Jone Goldinge 1552, buried 21 Apr 1580
+
+BRANCH 2 — William Harper line (collateral):
+- William Harper — father of Margaret (bapt. Feb 1550), Edward (bapt. Nov 1555), John (buried 20 Aug 1584)
+- William Harper is likely a brother of John Harper Esquire (d.1546)
+- Consistent with PROB 11/9/246 naming William Harper as brother of Richard of Epping
+
+SIGNIFICANCE — CRITICAL:
+1. Margery Harper buried 10 April 1546 — two days before John Harper buried 12 April 1546. Almost certainly his wife. This is a new finding not previously in the files.
+2. "John Harper sonne of John Harper" — 1566 burial explicitly confirms father-son relationship in primary source. This is the clearest generational link in the entire pre-chain.
+3. William Harper at Wingfield with children 1550-1584 — matches William Harper named as brother of Richard of Epping in PROB 11/9/246. If this is the same William Harper, Wingfield was the family's Suffolk base for both brothers.
+4. John Harper × Jone Goldinge marriage 1552 — places a John Harper (probably son of John Esq.) marrying in Wingfield during the exact window when John Harbarde should be establishing himself before the 1563 Boxford marriage.
+
+Geographic context:
+- Wingfield is 6.3 miles from Metfield (John Jermy plaintiff in C1/326/40)
+- Wingfield is 6 miles from Mendham (Richard Harper, C1/329/1)
+- Wingfield is 25 miles northeast of Boxford
+- Wingfield is 15 miles from Beccles
+
+Chancery correlation:
+- C1/326/40 (1504-1515) — John Harper Suffolk — John Esq. c.30-45 ✓
+- C1/981/98-99 (1538-1544) — John Harper of Wingfield defendant ✓
+- C1/1358/21-23 (1553-1555) — Thomas son of John Harper deceased ✓
+- Burial 12 Apr 1546 — John Harper Esquire — exactly consistent ✓
+- Burial 25 Nov 1566 — John Harper son of John Harper ✓
+- Boxford 1563 — John Harbarde × Rose Smythe — same generation ✓
+
+BECCLES JOHN HARPER BURIAL 1620 — 109/D2/11 — PRIMARY CONFIRMED
+Beccles parish register, Suffolk. Suffolk Archives 109/D2/11. Primary image confirmed April 2026.
+
+Entry: "John Harper m [of?] Gardinder maun was buried the 22 day [April 1620]"
+Archive: Suffolk Archives 109/D2/11 — same register as Joseph Harboe 1661 and James Harbar 1705.
+
+SIGNIFICANCE — CRITICAL:
+This places a John Harper in Beccles in April 1620 — one generation before Joseph Harbor first appears in the same register. This is the strongest candidate yet for the missing link between the Wingfield Harper cluster (last burial 1584) and the Beccles Harbor/Harboe line (first confirmed entry 1661).
+
+Timeline now reads:
+- Wingfield — John Harper son of William Harper buried 1584 — last Wingfield Harper entry
+- Beccles — John Harper buried April 1620 — same register as confirmed chain
+- Beccles — Joseph Harbor × Susan → Joseph Harbor bapt. 1661 — confirmed chain
+
+Gap between 1584 and 1620 remains open but the Beccles 1620 burial dramatically narrows it.
+
+SYLEHAM HARPER CLUSTER — UNCONFIRMED LEADS (Tier 3 transcription only)
+Source: Boyd's Marriage Index / IGI transcriptions. Primary images not yet confirmed.
+Location: Syleham St Mary, Hoxne Hundred, Suffolk — 4 miles from Wingfield.
+
+Transcription entries:
+- John Harper — baptism 9 Sep 1673 — Syleham St Mary — father: John Harper
+- John Harper × Rebecca Gooch — marriage 10 Oct 1695 — Syleham St Mary
+
+SIGNIFICANCE:
+A John Harper resident in Syleham 1673-1695 with a son John.
+Father John Harper born c.1640-1650 — one generation after Beccles John Harper burial 1620.
+Chancery case C2/JasI/H30/61 (1603-1625) names Harper lands in Syleham —
+same parish, same family network, exactly the right time window.
+
+PROPOSED CORRIDOR: Wingfield → Beccles (1620) → Syleham (1673) → onward
+
+ACTION REQUIRED:
+- Obtain primary image from Suffolk Archives — Syleham St Mary register
+- Confirm father John Harper's identity and origins
+- Search Syleham register for earlier Harper entries 1585-1650
+
+CERTAINTY: UNCONFIRMED — Tier 3 transcription only. Do not use in argument until primary image confirmed.
+ROUTING: Annex B — working hypothesis pending primary image confirmation.
+
 3. HERALD'S VISITATIONS — Three Independent Sources
 Source | Date | Reference | Key Confirmation
 Visitation of Cambridgeshire | 1575/1619 | Harl. Soc. xli, p.41 | Constance 1 m. to .... Harper, 2 to Alexander Culpeper. Harper first husband confirmed.
@@ -171,209 +246,108 @@ Calke Abbey National Trust | GM reply expected — call scheduled
 
 
 
-ANNEX A — Verified Supporting Evidence | Harper/Harberd Family Research | Updated April 2026 | Internal Use Only
-
-
-================================================================
-NEW PRIMARY SOURCE — APRIL 23 2026
-================================================================
-
-PROB 11/42A/75 — Will of Sir George Harper Knight, Blackfriars, London
-Prerogative Court of Canterbury. Dated 8 November 1558; schedule added
-November 1558 (1 Elizabeth I); proved December 1558.
-Primary images read in full April 23 2026. Autograph signature confirmed.
-
-KEY PERSONS NAMED:
-Person | Role | Notes
-Dame Audrey Harper | Wife and sole executrix | Residuary legatee of all goods, chattels, plate, money, debts and leases
-Thomas Colepeper "late of Bedgebery" | Named as "my brother" | Executed 1541. George still holding joint leases with his estate 17 years after execution. Primary source confirmation of half-brother relationship.
-Felice Harper | George's sister | Named in marginal administration note — administration granted to Felice in connection with Thomas Colepeper estate. Previously unnamed sister now identified.
-Alexander Colepeper | Beneficiary | Stepfather's family. Named in bequests.
-Richard Lynton | Executor | Of counsel. Previously unknown to research.
-Richard Mer | Executor | Previously unknown to research.
-Erasmus Gainsford | Beneficiary | £20 annual charge on Crowhurst estate. Audrey's family member.
-Daniel Wellard | Third party | Named in joint lease between George and Thomas Colepeper.
-George Jones | Beneficiary | Farm/tenement in Kent called Constolde — held under Northumberland lease.
-Edward Wadgatt | Beneficiary | Lands in Kent.
-John Gainsford | Named in schedule | Son and heir of Thomas Gainsford of Crowhurst, Surrey. Audrey's family.
-
-CRITICAL FINDINGS:
-1. ZERO HARPER MALE RELATIVES NAMED — confirmed absolute. No cousins,
-   no nephews, no Suffolk connection whatsoever. Essex Harper male line
-   completely isolated and extinct by December 1558.
-2. THOMAS COLEPEPER CONFIRMED AS "MY BROTHER" — primary source
-   confirmation of half-brother relationship. George still holding joint
-   leases with Thomas Colepeper's estate 17 years after his execution.
-3. NORTHUMBERLAND LEASES — George held property leases from John Dudley,
-   Duke of Northumberland, executed 1553 for the Lady Jane Grey conspiracy.
-   Explains George's immediate political vulnerability on Mary's accession
-   in 1553 — he was a sitting tenant of the executed traitor.
-4. FELICE HARPER — George's sister, previously unidentified. Named in
-   marginal administration note. Connected to Thomas Colepeper estate
-   administration. Her son-in-law William Isley inherited Sutton Valence.
-5. NO PROVISION FOR LUCY PECKHAM'S CHILDREN — confirmed. Two sons and
-   three daughters of first marriage entirely excluded. Confirmed as
-   Richard Morison's biological children, not Harper blood.
-6. PROVED DECEMBER 1558 — confirmed. Schedule dated 1 Elizabeth I —
-   George updated his will in the final weeks of his life after Mary died.
-7. AUTOGRAPH SIGNATURE — "George Harper" confirmed in primary image.
-
-ASSET DISPERSAL AT DEATH:
-Asset | Destination | Route
-Sutton Valence mansion house, Kent | William Isley (sister Felice's son-in-law) | Prior arrangement before death
-Joint Northumberland leases | Dame Audrey Harper | As executrix and residuary legatee
-Joint Colepeper leases | Felice Harper (administration) | Connected to Thomas Colepeper estate
-Crowhurst estate income | Erasmus Gainsford (£20 annually) | Charged on estate during Audrey's interest
-Residue — all goods, chattels, plate, money | Dame Audrey Harper | Sole executrix and residuary legatee
-After Audrey died Jan 1560: Audrey's property | Margaret, wife of Thomas Culpeper | Administration granted
-After Audrey died Jan 1560: Lucy's estate | Mary, wife of Bartholomew Hales | Lucy's daughter by Morison
-
-ROUTING: ANNEX A — confirmed primary source read April 2026
-CERTAINTY: HIGH
-SOURCE: PROB 11/42A/75 — primary images read in full
-
-----------------------------------------------------------------
-
-FC84/D1/1 — Wingfield Parish Register, Suffolk
-Suffolk Archives. Primary images confirmed April 2026.
-
-THREE CONFIRMED HARPER BURIALS — WINGFIELD, SUFFOLK:
-
-1. John Harper buried 12 April 1546
-   — Proposed: Son of John Harper Esquire of Epping (Generation 2)
-   — Aged approximately 66-76 at death if born c.1470-1480
-   — Combined with C1/326/40 (1504-1515) places him active in
-     Suffolk from the critical migration window
-
-2. "John Harper sonne of John Harper" buried 25 November 1566
-   — Verbatim primary source entry — explicit father/son
-     relationship confirmed in the burial register itself
-   — Father = John Harper buried 1546
-   — Son = this John Harper, Generation 3
-   — Combined with C1/981/98-99 (1538-1544) — John Harper of
-     Wingfield holding deeds at Dennington — confirms active
-     presence in Suffolk across his lifetime
-
-3. Third John Harper buried c.1580
-   — Probable younger brother — collateral
-   — Confirms Harper family maintaining Wingfield burial rights
-     across multiple generations
-
-SIGNIFICANCE:
-The Wingfield burial cluster — three generations of Harpers
-buried at Wingfield, Suffolk, spanning 1546-1580 — combined
-with three Chancery cases (C1/326/40, C1/981/98-99,
-C1/1358/21-23) creates a documented Harper family presence
-at Wingfield and Dennington across a 60-year window 1504-1580.
-
-The same individuals recorded as Harper in London Chancery
-documents and the Wingfield burial register are the proposed
-direct ancestors of the Harbertt/Harberd family at Boxford,
-25 miles southwest. The name difference is entirely explained
-by document type dependency:
-— Legal documents (Chancery, burial register) copied from
-  existing written sources — preserved Harper spelling
-— Parish records (Boxford FB77/D1/1) written fresh by rural
-  clergy with no written reference — produced Harbertt/Harberd
-  through clerk-dependent transcription
-
-The geographic distance is 25 miles. The generational timing
-is exact. John Harbertt's sons are marrying at Boxford in
-1562-1563, one generation after John Harper of Wingfield
-is buried in 1546.
-
-FAMILY BURIAL PLOT ARGUMENT:
-The absence of Harper burials at Boxford and absence of
-Harbertt births at Wingfield is consistent with a family
-maintaining two separate parish identities simultaneously —
-senior male line buried at Wingfield (the established legal
-and landed base); junior branch born and married at Boxford
-(the new settlement). The burial plot at Wingfield reflects
-established gentry practice — a family with legal standing
-at a parish maintains burial rights there even as younger
-sons establish new households elsewhere.
-
-ROUTING: ANNEX A — confirmed primary source read April 2026
-CERTAINTY: HIGH
-SOURCE: FC84/D1/1 — Wingfield Parish Register — primary images confirmed
-
-----------------------------------------------------------------
-
-HoP HC 1509-1558 — George Harper entry, author Helen Miller
-History of Parliament Online. Peer-reviewed. TIER 2 SOURCE.
-Confirmed read April 23 2026.
-
-KEY FACTS CONFIRMED:
-- Born 11 March 1503 (from E150/303/7 — Sir Robert Chamberlayne's IPM)
-- Grandfather Sir Robert Chamberlayne died 22 October 1516
-  → George spent 7 years in Chamberlayne household in Suffolk
-    before Culpeper purchased wardship for £180
-  → Chamberlayne estates: Capel St Mary and Gedding, Suffolk —
-    both within 10 miles of Boxford
-- Lucy Peckham marriage November 1524
-- 1533 — Esquire of the Body to Henry VIII confirmed
-- 1536 — Lincolnshire Rising — trusted by Henry VIII to carry
-  letters between King and Duke of Suffolk
-- 1540 — Private Act 32 Hen.VIII c.72 — Horne Place manor Kent
-  stripped from Lucy Peckham against her will
-- 1541 — Keeper of Penshurst manor — Crown keepership not ownership
-- 1544 — Shot at Boulogne, survived. Duke of Norfolk commended him.
-- July 1553 — licensed to retain 30 armed men (Lady Jane Grey)
-- October 1553 — general pardon from Mary I
-- January 1554 — joined Wyatt's Rebellion
-- Released from Tower on recognizances of £4,000
-- April 1554 — fined lands worth £100 or £2,000 cash
-- November 1555 — pardoned
-- August 1555 — possibly returned to Tower
-- Died December 1558, Blackfriars, London
-- Buried 12 December, St Martin's Ludgate
-- Sutton Valence to William Isley by prior arrangement
-- Lucy's five children confirmed as Morison's biological issue
-  — no provision made for them in will
-
-PRIMARY SOURCES CITED IN HoP FOOTNOTES (to order/verify):
-Ref | Document | Priority
-E150/303/7 | Sir Robert Chamberlayne IPM — George's birth date | HIGH — TO ORDER
-C142/133/102 | George Harper IPM Kent 1561/62 | HIGH — TO ORDER
-PROB 11/42A/75 | George Harper will | CONFIRMED READ April 2026
-C1/524/49 | Chancery — Harper | TO INVESTIGATE
-PROB 11/39/330 | Sir Richard Morison will | TO ORDER — contamination control
-
-ROUTING: ANNEX A — supporting evidence, George Harper biography
-CERTAINTY: HIGH (Tier 2 peer-reviewed source)
-SOURCE: History of Parliament Online HC 1509-1558, Helen Miller
+ANNEX A — Verified Supporting Evidence | Harper/Harberd Family Research | Updated April 24 2026 | Internal Use Only
 
 ================================================================
-UPDATED TNA PRIMARY DOCUMENTS STATUS TABLE — April 23 2026
+NEW SECTION — April 24 2026
+SUFFOLK HARPER/HARBORNE NETWORK — COMPLETE RECORD SET
+All entries Tier 3 unless marked PRIMARY CONFIRMED
 ================================================================
 
-TNA Ref | Subject | Date | Status | Key Evidence
-PROB 11/9/246 | Richard Harper of Epping, Essex | Proved 18 Jan 1492/3 | READ IN FULL April 2026 | Names son John as younger son. Names brother William. Rushall church bequest.
-PROB 11/132/106 | William Harbard, Gentleman, Sutton, Suffolk | Proved 1571 | READ IN FULL April 2026 | Names brothers John and Daniel.
-PROB 11/29 | Dame Constance Colepepur, Goudhurst, Kent | Proved 13 Nov 1542 | PRIMARY IMAGE CONFIRMED April 2026 | Names son George Harpur from Harper marriage.
-PROB 11/30 | Sir Alexander Culpeper of Bedgebury | Proved 21 Jun 1541 | PRIMARY IMAGE CONFIRMED April 2026 | Bequest to St Mary Bures Suffolk — 4 miles from Boxford.
-PROB 11/59/108 | Richard Harpur alias Harper, Justice of Common Pleas | 28 Jan 1577 | PRIMARY IMAGE CONFIRMED April 2026 | Harpur alias Harper. Names son John (father of 1st Baronet).
-PROB 11/89/461 | Jane Harpur, Widow of Swarkeston | Proved 9 May 1597 | PRIMARY IMAGE CONFIRMED April 2026 | Names sons John and Richard. John = father of 1st Baronet.
-PROB 11/22/277 | John Harbard, Mercer of London | Proved 1525 | READ | No geographic link to Suffolk chain.
-PROB 11/42A/75 | Sir George Harper Knight, Blackfriars London | Proved Dec 1558 | READ IN FULL April 23 2026 | Zero Harper male relatives. Felice Harper (sister). Thomas Colepeper "my brother". Autograph confirmed.
-IC/500/5/1/4/4f | Hugo Harbarde of Boxford — Administration | January 1570/71 | PRIMARY IMAGE CONFIRMED April 2026 | Widow Dorothy Harper. Boxford confirmed.
-IC/500/1/71/76 | Christopher Harper, Bury St Edmunds — Will | Proved Oct 1614 | PRIMARY IMAGE CONFIRMED April 2026 | Brothers Thomas, William, Andrew Harper at Bury St Edmunds.
-FC84/D1/1 | Wingfield Parish Register — Harper burials | 1546, 1566, c.1580 | PRIMARY IMAGES CONFIRMED April 23 2026 | Three Harper generations buried Wingfield. Father/son explicitly named 1566.
-E150/303/7 | Sir Robert Chamberlayne IPM Essex | c.1518 | TO ORDER — HIGH PRIORITY | Contains George Harper birth date. Not Richard Harper III's IPM.
-C142/133/102 | George Harper IPM Kent | 1561/62 | TO ORDER — HIGH PRIORITY | Will list all Kent estates at death. HoP footnote confirmed.
-PROB 18/11/62 | Sir Charles Harberd kt, probate | 1679 | STILL TO ORDER | Collateral Harberd network.
-C1/326/40 | Jermy v Throgmerton — John Harper Suffolk | 1504-1515 | ORDERED RC8271591 — DUE 30 APR 2026 | CRITICAL LINCHPIN DOCUMENT.
-C1/948/11 | Barley v Harper, Latton manor | 1538-1544 | ORDERED RC8274724 — DUE 1 MAY 2026 | George Harper/cousin — deeds detention.
-C1/329/1 | Kyngsey v Harper | 1504-1515 | ORDERED RC8276061 — DUE 1 MAY 2026 | Richard Harper Suffolk — deeds detention.
-C1/1358/21-23 | Harper v Lawes — Thomas son of John Harper | 1553-1555 | ORDERED RC8276060 — DUE 1 MAY 2026 | Thomas pursues Wingfield deeds after father's 1546 death.
-C1/981/98-99 | Ewen v Harper — John Harper of Wingfield | 1538-1544 | ORDERED RC8276062 — DUE 1 MAY 2026 | John Harper of Wingfield holding deeds, Dennington.
+WILLIAM HARPER BRANCH — Wingfield and Syleham
+Father: William Harper — probable brother of John Harper Esq.
+Consistent with William Harper named in PROB 11/9/246.
 
+Child | Date | Parish | Father | Source | Status
+Margaret Harper | 2 Feb 1550 | Wingfield St Andrew | William Harper | FC84/D1/1 | PRIMARY CONFIRMED ✓
+Alice Harper | 24 Oct 1552 | Wingfield St Andrew | William Harper | FreeReg/Julie Harold | TIER 3
+Edward Harper | 22 Nov 1555 | Wingfield St Andrew | William Harper | FC84/D1/1 | PRIMARY CONFIRMED ✓
+Robertus Harper | 6 Dec 1556 | Syleham St Mary | Willimi Harper | FreeReg/Julie Harold | TIER 3
+John Harper son of William | buried 20 Aug 1584 | Wingfield | William Harper | FC84/D1/1 | PRIMARY CONFIRMED ✓
 
+NOTE: William Harper operating across Wingfield AND Syleham simultaneously
+1550-1556. Syleham is 4 miles from Wingfield. Same man, two parishes.
 
-================================
-DOCUMENT LOCATIONS — ANNEX A — VERIFIED SUPPORTING EVIDENCE
-================================
-GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
-- - - - - - - - - - - - - - - -
-Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
-================================
+SYLEHAM JOHN HARPER SEQUENCE — Three generations confirmed
+Parish: Syleham St Mary — Hoxne Hundred — 4 miles from Wingfield
+
+Individual | Date | Father | Source | Status
+Robertus Harper | 6 Dec 1556 | William Harper | FreeReg/Julie Harold | TIER 3
+Jhon Harper | 14 Dec 1611 | Jhon Harper | FreeReg/Julie Harold | TIER 3
+Jhon Harper | 9 Sep 1673 | John Harper | FreeReg/Julie Harold | TIER 3
+John Harper × Rebecca Gooch | 10 Oct 1695 | — | FreeReg/Julie Harold | TIER 3
+
+NOTE: 139 years of continuous Harper presence in Syleham 1556-1695.
+Father John Harper naming son John in 1611 — same naming pattern
+as Wingfield "John Harper sonne of John Harper" 1566.
+All Tier 3 — primary images needed from Suffolk Archives.
+
+LOWESTOFT HARBORNE CLUSTER — Two families confirmed
+Parish: Lowestoft St Margaret — 22 miles northeast of Wingfield
+
+Individual | Date | Father | Source | Status
+John Harborne × Jone Parker (widow) | 29 Nov 1576 | — | FreeReg/Heather Lawn | TIER 3
+John Harborne × Marye Tompson (widow) | 15 Aug 1583 | — | FreeReg/Heather Lawn | TIER 3
+Richard Harborne | 19 Feb 1591/2 | Nicholas Harborne | FreeReg/Heather Lawn | TIER 3
+Joane Harborne | 4 Nov 1593 | Nicholas Harborne | FreeReg/Heather Lawn | TIER 3
+
+NOTE: Two Harborne households in Lowestoft simultaneously —
+John Harborne (married 1576 and 1583) and Nicholas Harborne
+(children 1591-1593). Almost certainly brothers.
+John Harborne's children NOT YET FOUND in register — priority search needed.
+Harborne spelling = exact match to Jos Harbone Beccles Hearth Tax 1669.
+
+HOXNE JOHN HARPER — PRIMARY CONFIRMED
+John Harper × Jane Morphew — married 22 Feb 1652 — Hoxne parish register
+PRIMARY CONFIRMED — primary image read April 24 2026.
+Hoxne is 5 miles from Wingfield.
+Father John Harper born c.1620-1630 — consistent with son of John Harper
+buried Beccles April 1620.
+
+LONG MELFORD HARPER FAMILY — Southwest branch (collateral)
+Parish: Long Melford Holy Trinity — 30 miles southwest — 8 miles from Boxford
+
+Individual | Date | Father | Source | Status
+John Harper × Margarett Groome | 22 Jul 1583 | — | FreeReg/Helen Barrell | TIER 3
+Note: "Surname abbreviated to Harp." in register
+Margret Harper | 20 May 1584 | Jo. Harper | FreeReg | TIER 3
+Jo. Harper | 24 Sep 1587 | Jo. Harper | FreeReg/Helen Barrell | TIER 3
+Note: "Surname abbreviated to Harp."
+Tho. Harper | 20 Aug 1592 | — | FreeReg | TIER 3
+Alexander Harper | 10 Dec 1598 | — | FreeReg | TIER 3
+Geo. Harper | 9 Jan 1602/3 | — | FreeReg | TIER 3
+Elizab. Harper | 20 Aug 1615 | — | FreeReg | TIER 3
+
+NOTE: Large Long Melford Harper family 1583-1615. Clerk abbreviates
+surname as "Harp." — confirms clerk knew the name was Harper.
+Long Melford is 8 miles from Boxford — consistent with collateral
+branch establishing itself in southwest Suffolk/Babergh Hundred
+while main line remains in northeast Suffolk/Hoxne Hundred.
+Supports two-branch hypothesis — Long Melford/Boxford = cousins,
+not direct ancestors.
+
+FRESSINGFIELD HARPER — In the Wingfield cluster
+John Harper × Frawncs Barbar — 16 Sep 1571 — Fressingfield St Peter and St Paul
+Fressingfield is 4 miles from Wingfield.
+Source: FreeReg/Pamela Vernon — TIER 3
+NOTE: Marrying in Fressingfield 1571 — 5 years after John Harper son
+of John Harper buried Wingfield 1566. Likely son of John × Jone
+Goldinge or William Harper collateral. Primary image needed.
+
+BOXFORD HARBERD CLUSTER — Confirmed collateral branch
+All previously confirmed — see existing Annex A entries.
+Now proposed as descendants of William Harper/Long Melford branch
+rather than direct ancestors of Hayden F. Harper.
+
+ACTION REQUIRED — ALL TIER 3 ENTRIES:
+Priority | Record | Archive | Action
+HIGH | John Harborne children Lowestoft 1577-1600 | Suffolk Archives | Search Lowestoft St Margaret register
+HIGH | Syleham Harper entries 1556-1695 | Suffolk Archives | Request primary images
+HIGH | Fressingfield Harper 1571 | Suffolk Archives | Request primary image
+HIGH | Hoxne John Harper × Jane Morphew 1652 | Suffolk Archives | Already primary confirmed — get certified copy
+MED | Long Melford Harper entries 1583-1615 | Suffolk Archives | Request primary images
+
+CERTAINTY: ALL NEW ENTRIES TIER 3 UNLESS MARKED PRIMARY CONFIRMED
+ROUTING: Annex A supporting evidence — promotes to Main Doc via
+PROMOTE_TO_MAIN_DOC protocol when primary images confirmed.
+

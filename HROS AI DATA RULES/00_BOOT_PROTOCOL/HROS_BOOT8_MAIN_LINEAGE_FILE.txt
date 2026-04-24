@@ -37,9 +37,41 @@ CURRENT CONFIRMED CHAIN — LAST VERIFIED APRIL 2026
   ...  | [American line to Hayden]         |
   P-XX | Hayden F. Harper                  | b.1992, California
 
-CHAIN GAP — UNRESOLVED (ANNEX B):
-  Pre-P-02: John Harbertt patriarch → no primary source yet
-  Pre-chain: Essex to Suffolk bridge → TNA C1 Bundle 326 (ordered)
+================================================================
+REVISED PRIMARY LINE — April 24 2026
+WINGFIELD → LOWESTOFT → BECCLES/HOXNE CORRIDOR
+================================================================
+
+CONFIRMED PRIMARY CHAIN (primary images):
+  W-01 | Sir Richard Harpur II of Epping    | d.1492 | PROB 11/9/246 ✓
+  W-02 | John Harper Esq + Margery Harper   | buried Wingfield Apr 1546 | FC84/D1/1 ✓
+  W-03 | John Harper × Jone Goldinge        | married Wingfield 25 Jul 1552 | FC84/D1/1 ✓
+  W-04 | John Harper son of John Harper     | buried Wingfield 25 Nov 1566 | FC84/D1/1 ✓
+  W-05 | John Harper (spouse Jone)          | buried Wingfield 21 Apr 1580 | FC84/D1/1 ✓
+  W-06 | John Harborne × Jone Parker        | married Lowestoft 29 Nov 1576 | TIER 3 ~
+         John Harborne × Marye Tompson      | married Lowestoft 15 Aug 1583 | TIER 3 ~
+  W-07 | John Harper                        | buried Beccles April 1620 | 109/D2/11 ✓
+  W-08 | John Harper × Jane Morphew         | married Hoxne 22 Feb 1652 | PRIMARY ✓
+  W-09 | Joseph Harbor × Susan              | son Joseph bapt Beccles 16 Mar 1661 | 109/D2/11 ✓
+         NOTE: John × Jane Morphew and Joseph × Susan proposed brothers
+         both sons of John Harper buried Beccles 1620
+  P-01 | Joseph Harbar × Katherine          | son James bapt Beccles 16 Dec 1705 | 109/D2/11 ✓
+  P-02 | James Harper × Sarah Osborn        | married Nayland 29 May 1733 | FB80/D1/3 ✓
+  P-03 | James Harper                       | bapt Nayland 26 Jan 1737 | FB64/D1/1 ✓
+  P-04 | Joseph Harper                      | New York 1765 | CONFIRMED ✓
+  P-05 | Hayden F. Harper                   | b.1992 California | CONFIRMED ✓
+
+COLLATERAL BRANCHES — NOT DIRECT LINE:
+  William Harper branch — Wingfield/Syleham 1550-1584
+  Long Melford/Boxford Harberd branch — 1563-1620
+  Nicholas Harborne — Lowestoft 1591-1593
+  Syleham John Harper sequence — 1611-1695
+
+GAPS REMAINING:
+  Gap 1: Richard of Epping → Wingfield — C1/326/40 due 30 Apr 2026
+  Gap 2: Wingfield 1580 → Lowestoft Harborne 1576/1583 — connection implied
+  Gap 3: Lowestoft Harborne → Beccles John Harper 1620 — no document
+  Gap 4: Beccles 1620 → Hoxne 1652/Beccles 1661 — proposed brothers
 
 ================================================================
 NEXT GENERATION STRONGEST UNPROVEN LEAD

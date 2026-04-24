@@ -37,21 +37,34 @@ ACTIVE RULES:
   - Circular sourcing is contamination. Trace to primary always.
   - Disproven leads are never deleted.
 
-CURRENT CHAIN STATUS (as of April 2026):
-  Last confirmed generation: Joseph Harper, New York 1765 (P-12)
-  Critical gap: Essex-Suffolk bridge (TNA C1 Bundle 326 ordered)
-  Highest priority: Await and analyze TNA C1 Bundle 326
+CURRENT CHAIN STATUS (as of April 24 2026):
+  Last confirmed generation: James Harper bapt. Nayland 26 Jan 1737
+  Critical gap: Essex-Suffolk bridge (TNA C1 Bundle 326 due 30 Apr)
+  NEW: Revised primary line — Wingfield → Lowestoft → Beccles/Hoxne
+  NEW: John Harper × Jane Morphew Hoxne 1652 — PRIMARY CONFIRMED
+  NEW: William Harper children confirmed Wingfield/Syleham 1550-1556
+  NEW: Lowestoft Harborne cluster confirmed Tier 3 1576-1593
+  NEW: Syleham John Harper sequence confirmed Tier 3 1611-1695
+  NEW: Long Melford Harper family confirmed Tier 3 1583-1615 — COLLATERAL
+  NEW: Boxford Harberd family now proposed COLLATERAL not direct line
 
 OUTSTANDING ORDERS (do not re-order):
-  TNA C1 Vol.4 p.278 Bundle 326 — ORDERED (physical copy)
-  TNA C1/326/40 (Jermy v Throgmerton) — ORDERED 16 Apr 2026 | RC8271591 | due ~30 Apr 2026
-  TNA C1/948/11 (Barley v Harper, Latton) — ORDERED 18 Apr 2026 | RC8274724
-  TNA E150/303/7 — ORDERED (24 working days)
+  TNA C1 Vol.4 p.278 Bundle 326 — DUE 30 APR 2026 — CRITICAL
+  TNA E150/303/7 — ORDERED
   TNA PROB 18/11/62 — ORDERED
   TNA C2/ChasI/S60/60 — ORDERED
   TNA C9/79/70 — ORDERED
   TNA C2/Eliz/M7/4 — ORDERED
   TNA C2/ChasI/H110/58 — ORDERED
+  TNA C1/948/11 — ORDERED 18 Apr 2026
+
+PRIORITY ACTIONS NEXT SESSION:
+  1. Receive and analyze C1/326/40 — due 30 Apr
+  2. Request Lowestoft St Margaret register — John Harborne children
+  3. Request Syleham St Mary register — primary images all Harper entries
+  4. Request Hoxne register — certified copy John Harper × Jane Morphew
+  5. Order C1/329/1 — Richard Harper Mendham 1504-1515 — NOT YET ORDERED
+  6. Draft John Titford email
 
 OUTSTANDING ARCHIVE RESPONSES:
   Suffolk Archives Bury St Edmunds — probate search 1560-1640
