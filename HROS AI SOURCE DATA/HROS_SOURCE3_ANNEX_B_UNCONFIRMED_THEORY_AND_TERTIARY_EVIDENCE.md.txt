@@ -1,5 +1,30 @@
-ANNEX B — Theory, Hypothesis \& Unconfirmed Research
-Harper / Harberd Family Lineage | Active Research Leads | April 2026
+================================
+ANNEX B — THEORY, HYPOTHESIS & UNCONFIRMED RESEARCH | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Working hypotheses, unconfirmed leads, and theory layer for the Harper/Harpur lineage research.
+Description:    Active research lab document. All entries are WORKING THEORY, INFERENCE ONLY,
+                UNCONFIRMED, DISPROVEN, or SUSPENDED. Nothing in this file enters the Main Document
+                without passing the PROMOTE_TO_MAIN_DOC protocol. Not for College of Arms submission.
+================================
+CORRECTION LOG:
+  27 Apr 2026 — Henry as third son of Sir John of Rushall DISPROVEN.
+                History of Parliament HC 1386-1421 confirms TWO SONS ONLY:
+                William (eldest) and Richard (younger). Baronetcy table corrected.
+                Henry repositioned as intermediary within William's line — not a
+                son of John of Rushall. Source: History of Parliament Online,
+                HC 1386-1421, ed. Roskell et al., 1993.
+================================
+
+ANNEX B — Theory, Hypothesis & Unconfirmed Research
+HARPUR HERALDRY & FAMILY RESEARCH | Active Research Leads | April 2026 | CORRECTION 27 Apr 2026: Henry as third son of John of Rushall DISPROVEN — two sons only: William and Richard (History of Parliament HC 1386-1421)
 INTERNAL RESEARCH DOCUMENT — NOT FOR COLLEGE OF ARMS SUBMISSION. Updated April 2026.
 
 1. THE MASTER HYPOTHESIS — Status April 2026
@@ -32,9 +57,9 @@ John moves to Suffolk c.1507-1530. He appears at Boxford as John Harbartt — th
 4. THE BARONETCY LINE — Now Confirmed by Primary Source
 The Derbyshire line is now confirmed at primary source level:
 Generation | Individual | Primary Source
-G1 | Sir John Harpur of Rushall (1425-1464) | SC8/248/12368; History of Parliament
-G2 | Sir William Harpur — son of John of Rushall | Kent Visitation 1574 p.62
-G? | Richard Harpur of Derbyshire — intermediate generation | Staffordshire Visitation (Glover 1583) — NOT YET ACCESSED
+G1 | Sir John Harpur of Rushall (1425-1464) | SC8/248/12368; History of Parliament — TWO SONS ONLY: William and Richard. Henry as third son DISPROVEN April 2026.
+G2 | Sir William Harpur — eldest son of John of Rushall. Baronetcy line descends from William through a cadet branch. | Kent Visitation 1574 p.62; History of Parliament HC 1386-1421
+G? | Henry — intermediary figure within William's line. Not a son of John of Rushall. | Stebbing's MS (Calke pedigree) — "father or grandfather" of Richard the Judge. UNCONFIRMED PRIMARY SOURCE.
 G? | Richard Harpur alias Harper, Justice of Common Pleas, Swarkeston (d.1577) | PROB 11/59/108 — PRIMARY CONFIRMED April 2026
 G? | Jane Harpur — wife of Justice; widow of Swarkeston (d.1597) | PROB 11/89/461 — PRIMARY CONFIRMED April 2026
 G? | John Harpur of Swarkeston — eldest son of Justice | PROB 11/89/461 — PRIMARY CONFIRMED April 2026
@@ -42,7 +67,7 @@ G? | Sir Henry Harpur, 1st Baronet of Calke Abbey (1579-1638) | Burke's Peerage 
 
 
 
-GAP: The connection between Sir William Harpur (son of John of Rushall, Kent Visitation 1574) and Richard Harpur alias Harper of Swarkeston (PROB 11/59/108) is not yet closed by primary source. The Staffordshire Visitation (Glover 1583) is the document most likely to close this gap. Access via British Library or Ancestry.
+GAP: The connection between Sir William Harpur (eldest son of John of Rushall) and Richard Harpur alias Harper of Swarkeston (PROB 11/59/108) runs through an intermediary named Henry — but Henry's exact position is unconfirmed. The Staffordshire Visitation (Glover 1583) is the document most likely to close this gap. Access via British Library or Ancestry. NOTE: Henry is within William's line, not a separate son of John of Rushall.
 
 5. THREE HERALD'S VISITATIONS — Constance Chamberlayne Framework
 Visitation | Date | Reference | Key Confirmation
@@ -159,73 +184,13 @@ CERTAINTY: INFERENCE ONLY — no primary source directly links John Harper Esq t
 
 
 
-ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Internal only | Updated April 23 2026.
+ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Internal only | Updated April 2026.
 
-================================================================
-NEW HYPOTHESIS — April 23 2026
-WINGFIELD → BECCLES → SYLEHAM MIGRATION CORRIDOR
-Status: WORKING HYPOTHESIS | Evidence level: MEDIUM-HIGH
-================================================================
 
-This hypothesis proposes that the direct line runs through Wingfield
-and Beccles — NOT through Boxford. The Boxford Harberd family may
-be a collateral branch rather than the direct ancestors.
-
-PROPOSED DIRECT LINE:
-Richard of Epping (1492) → John Harper Esq migrates to Suffolk
-c.1509 → establishes at Wingfield (Chancery cases 1504-1544) →
-buried Wingfield 12 Apr 1546 → son John × Jone Goldinge 1552 →
-son John buried Wingfield 1566 → John Harper buried Wingfield
-1580 (spouse Jone) → son moves toward Beccles c.1585-1600 →
-John Harper buried Beccles April 1620 (109/D2/11) → Joseph
-Harbor 1630/1661 Beccles → James Harbar 1705 → James Harper
-× Sarah Osborn 1733 → James Harper 1737 → Joseph Harper New
-York 1765 → Hayden F. Harper 1992.
-
-EVIDENCE SUPPORTING:
-1. FC84/D1/1 — Wingfield Harper cluster — 8 primary records
-   confirmed 1546-1584 including father-son explicit confirmation
-2. 109/D2/11 — John Harper buried Beccles April 1620 — PRIMARY
-   CONFIRMED — same register as confirmed chain
-3. C1/981/98-99 — John Harper of Wingfield defendant 1538-1544
-4. C1/1358/21-23 — Thomas son of John Harper deceased 1553-1555
-5. C2/JasI/H30/61 — Harper lands in Syleham 1603-1625 — NOT YET READ
-6. John Harper baptism Syleham 1673 father John Harper — TIER 3 ONLY
-7. Name spelling Harbor/Harboe phonetically closer to Harper than
-   Harberd/Harbarde — consistent with shorter dialect corruption
-8. Geographic logic — Wingfield to Beccles is 18 miles northeast,
-   direct route. Wingfield to Boxford is 25 miles southwest,
-   opposite direction.
-
-SYLEHAM AS INTERMEDIATE STOP:
-- Syleham is 4 miles from Wingfield, same Hoxne Hundred
-- Harper Chancery case C2/JasI/H30/61 names Syleham lands 1603-1625
-- John Harper resident Syleham 1673 (Tier 3)
-- Proposed: family moves Wingfield → Syleham c.1585-1620 →
-  one member dies Beccles 1620, others remain Syleham
-
-WHAT WOULD CONFIRM:
-- Primary image Syleham register showing Harper entries 1585-1650
-- C2/JasI/H30/61 read — naming Harper plaintiff and Syleham lands
-- Any record connecting John Harper buried Beccles 1620 to Wingfield
-- Marriage or baptism record for Joseph Harbor naming father John
-
-WHAT WOULD DISPROVE:
-- Syleham register showing no Harpers before 1673
-- C2/JasI/H30/61 naming unrelated Harper
-- Primary document placing John Harbertt of Boxford as son of
-  John Harper Esq directly
-
-IMPLICATION FOR BOXFORD:
-If this hypothesis is confirmed, the Boxford Harberd family
-(John Harbarde × Rose Smythe 1563 onward) may be a collateral
-branch — cousins descended from a sibling of John Harper Esq
-who settled in southwest Suffolk while John went northeast.
-The William Harper of Wingfield branch (children 1550-1584)
-is the most likely source of the Boxford line if this is correct.
-
-CERTAINTY: WORKING HYPOTHESIS — strong circumstantial support
-but not yet confirmed by primary source connection document.
-ROUTING: Annex B. Promote to Annex A when primary image of
-Syleham register or C2/JasI/H30/61 confirms.
-
+================================
+DOCUMENT LOCATIONS — ANNEX B THEORY & HYPOTHESIS
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE3_ANNEX_B_UNCONFIRMED_THEORY_AND_TERTIARY_EVIDENCE.md
+================================
