@@ -1,6 +1,17 @@
-ANNEX C — Collateral Gentry Lines \& Bulk Harper/Harpur Data
-Harper / Harberd Family Research | Updated April 2026
-INTERNAL RESEARCH DOCUMENT — Collateral lines and bulk data. Not direct ancestors unless noted.
+================================
+ANNEX C — COLLATERAL GENTRY LINES | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Collateral Harper/Harpur gentry lines, heraldry, and family network context.
+Description:    Documents collateral Harper/Harpur family members who are NOT on the direct patrilineal chain. Provides context and corroboration for the main petition but is not itself primary chain evidence. Internal use only.
+================================
 
 1. Sir Charles Harberd kt — HM Surveyor General under Charles II
 Appears in four TNA Chancery and probate cases 1625-1679. Almost certainly collateral to Josephe Harberd of Boxford. NOT confirmed direct ancestor.
@@ -57,3 +68,10 @@ Certainty: UNCONFIRMED — index entry only | Annex C
 
 ANNEX C — Collateral Gentry Lines | Harper/Harberd Research | Updated April 2026 | Internal Use Only
 
+================================
+DOCUMENT LOCATIONS — ANNEX C — COLLATERAL GENTRY LINES
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE4_ANNEX_C_COLLATERAL_GENTRY_LINES.md
+================================

@@ -1,7 +1,17 @@
-ANNEX C
-Collateral Gentry Lines \& Bulk Harper/Harpur Data
-Harper / Harberd Family Research
-Extended Family Network | Heraldry | Suffolk, Norfolk, Essex \& Derbyshire | Updated April 2026
+================================
+ANNEX D — BULK DATA AND COLLATERAL GENTRY LINES | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Extended bulk data: collateral gentry lines, heraldry, and background family network.
+Description:    Extended collateral data layer covering the wider Harper/Harpur gentry network across Suffolk, Norfolk, Essex and Derbyshire. None of the individuals here are direct ancestors of Hayden F. Harper unless specifically noted. Internal use only.
+================================
 INTERNAL RESEARCH DOCUMENT — This annex documents collateral gentry lines, bulk Harper/Harpur data, heraldry, and family members who are NOT on the direct patrilineal chain. Records here provide context, corroboration, and background for the main petition but are not themselves primary chain evidence. None of the individuals below are direct ancestors of Hayden F. Harper unless specifically noted.
 
 
@@ -69,3 +79,10 @@ NOTE: Charlemagne descent is extremely common among people of European ancestry 
 
 ANNEX C — Collateral Gentry Lines \& Bulk Harper/Harpur Data | Harper/Harberd Family Research | Updated April 2026 | Internal Use Only
 
+================================
+DOCUMENT LOCATIONS — ANNEX D — BULK DATA AND COLLATERAL GENTRY LINES
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE5_ANNEX_D_BULK_DATA_AND_COLLATERAL_GENTRY_LINES.md
+================================

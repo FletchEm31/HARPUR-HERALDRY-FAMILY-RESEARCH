@@ -1,10 +1,17 @@
-================================================================
-WORKS CITED REGISTER
-Harper / Harberd Family Research
-Harpur Heraldry and Family Research
-Updated: April 17 2026
-Maintained by: HROS (Harper Research Operations System)
-================================================================
+================================
+WORKS CITED REGISTER | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE11_WORKS_CITED_REGISTER.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Formally formatted works cited entries for all sources used in the research.
+Description:    Full citation register in submission-ready format. Companion to Annex D Citation layer. Updated April 2026. Maintained by HROS.
+================================
 
 
 ================================================================
@@ -315,8 +322,10 @@ Primary image confirmed April 24 2026.
 Also notes: Matthub Harborough × Dorothy Strangman, 18 Jul 1653
 — Harborough variant in same register.
 
-
-================================================================
-WORKS CITED REGISTER | Harper / Harberd Family Research
-HROS | Updated April 24 2026 | Internal Use Only
-================================================================
+================================
+DOCUMENT LOCATIONS — WORKS CITED REGISTER
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE11_WORKS_CITED_REGISTER.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE11_WORKS_CITED_REGISTER.md
+================================

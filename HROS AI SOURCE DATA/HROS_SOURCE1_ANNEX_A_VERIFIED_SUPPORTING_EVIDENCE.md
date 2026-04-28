@@ -1,6 +1,17 @@
-ANNEX A — Verified Supporting Evidence
-Harper / Harberd Family Research | Suffolk, Norfolk \& Essex, England | 1490-1765
-INTERNAL RESEARCH DOCUMENT — Supporting evidence for the Main Document primary chain. Updated: April 2026.
+================================
+ANNEX A — VERIFIED SUPPORTING EVIDENCE | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Verified supporting evidence for confirmed chain individuals in the Main Document.
+Description:    Primary and Tier 2 sources directly supporting confirmed chain individuals. All entries reference a Main Document entry. Updated April 2026. Not for College of Arms submission as standalone — supports Main Document only.
+================================
 
 1. CRITICAL CORRECTION — John Harper Generational Position
 CORRECTED April 2026: John Harper Esq is the YOUNGER SON of Sir Richard Harpur of Epping (PROB 11/9/246) — not the younger brother of Sir George Harper MP. George is the son of Richard III (grandson of Richard of Epping). John is Richard of Epping's second son — making John the UNCLE of George, one generation above him.
@@ -351,3 +362,10 @@ CERTAINTY: ALL NEW ENTRIES TIER 3 UNLESS MARKED PRIMARY CONFIRMED
 ROUTING: Annex A supporting evidence — promotes to Main Doc via
 PROMOTE_TO_MAIN_DOC protocol when primary images confirmed.
 
+================================
+DOCUMENT LOCATIONS — ANNEX A — VERIFIED SUPPORTING EVIDENCE
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE1_ANNEX_A_VERIFIED_SUPPORTING_EVIDENCE.md
+================================

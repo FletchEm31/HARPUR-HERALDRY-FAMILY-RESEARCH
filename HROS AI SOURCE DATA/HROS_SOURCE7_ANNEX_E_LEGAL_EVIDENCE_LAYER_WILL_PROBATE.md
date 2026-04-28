@@ -1,5 +1,17 @@
-ANNEX E — LEGAL EVIDENCE LAYER: WILLS & PROBATE REGISTER
-Harper Heraldry & Family Research | Operating Protocol V2.0
+================================
+ANNEX E — LEGAL EVIDENCE LAYER: WILLS AND PROBATE REGISTER | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Dedicated register for all wills, probate records, IPMs, and Chancery inheritance cases.
+Description:    Index layer for all legal/probate documents with WP-IDs and importance scores. Interpretation and genealogical conclusions go in Annex A or B — not here. Internal use only.
+================================
 
 ================================================================
 PURPOSE
@@ -193,3 +205,11 @@ ESSEX RECORD OFFICE
   Search:     Richard Harper III will, Essex probate 1505-1520
   Status:     AWAITING RESPONSE (sent April 11 2026)
   Priority:   HIGHEST ESSEX PRIORITY
+
+================================
+DOCUMENT LOCATIONS — ANNEX E — LEGAL EVIDENCE LAYER: WILLS AND PROBATE REGISTER
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE7_ANNEX_E_LEGAL_EVIDENCE_LAYER_WILL_PROBATE.md
+================================

@@ -1,5 +1,17 @@
-ANNEX D — CITATION & WORKS CITED REGISTER
-Harper Heraldry & Family Research | Operating Protocol V2.0
+================================
+ANNEX D — CITATION AND WORKS CITED REGISTER | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Source index: every document and archive reference used in the research, with WP-IDs.
+Description:    Index layer only — no interpretation or conclusions. Every document, archive reference, and secondary source receives a unique WP-ID. Primary maintainer: Perplexity. Claude assigns WP-IDs on intake.
+================================
 
 ================================================================
 PURPOSE
@@ -194,3 +206,11 @@ WP-PUB-006  Burke's General Armory (1884)
 
 WP-PUB-007  Suffolk in 1674 (ed. Hervey, 1905)
             Archive.org | TIER 2 | Used in: ANNEX A
+
+================================
+DOCUMENT LOCATIONS — ANNEX D — CITATION AND WORKS CITED REGISTER
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE6_ANNEX_D_CITATION_WORKS_LAYER.md
+================================

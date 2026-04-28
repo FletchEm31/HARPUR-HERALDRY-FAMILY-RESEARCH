@@ -1,11 +1,17 @@
-================================================================
-DOCUMENT ANALYSIS REGISTER
-Harper / Harberd Family Research
-Harpur Heraldry and Family Research
-Updated: April 17 2026
-Primary image reads and analysis by Claude
-For Dr. Fox reference and College of Arms preparation
-================================================================
+================================
+DOCUMENT ANALYSIS REGISTER | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Verbatim transcriptions and analysis of primary source documents reviewed in this research.
+Description:    Primary image reads, transcriptions, and analytical notes prepared for Dr. Fox reference and College of Arms preparation. Where documents are in Latin, translations are provided. Internal use only.
+================================
 
 ABOUT THIS DOCUMENT
 
@@ -840,8 +846,10 @@ LONG MELFORD — Southwest collateral branch:
 
 ALL FREEREG ENTRIES: Tier 3 — primary images needed from Suffolk Archives.
 
-
-================================================================
-DOCUMENT ANALYSIS REGISTER | Harper / Harberd Family Research
-HROS | Updated April 24 2026 | Internal Use Only
-================================================================
+================================
+DOCUMENT LOCATIONS — DOCUMENT ANALYSIS REGISTER
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE8_DOCUMENT_ANALYSIS_REGISTER.md
+================================

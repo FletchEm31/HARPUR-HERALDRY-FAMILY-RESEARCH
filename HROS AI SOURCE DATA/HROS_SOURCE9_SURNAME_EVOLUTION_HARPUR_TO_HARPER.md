@@ -1,8 +1,17 @@
-# SURNAME EVOLUTION: HARPUR → HARPER
-## A Forensic Linguistic Argument
-**Harper Heraldry & Family Research | AI SOURCE DATA**
-*Last updated: April 2026*
-
+================================
+SURNAME EVOLUTION: HARPUR TO HARPER | HROS SOURCE DATA
+Version:        2.1
+================================
+- - - - - - - - - - - - - - - -
+File Name:      HROS_SOURCE9_SURNAME_EVOLUTION_HARPUR_TO_HARPER.md
+Project:        HARPUR HERALDRY & FAMILY RESEARCH
+Location:       GitHub & Proton Drive paths — see end of document
+Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
+Updated:        April 27 2026
+================================
+Contains:       Forensic linguistic argument tracing the surname evolution from Harpur (1308) to Harper (1765).
+Description:    Structured forensic argument documenting 21 confirmed spelling variants across five independent record types spanning 450 years and three counties. Supporting argument document — cross-references The Harper Legacy full narrative.
+================================
 ---
 
 ## PURPOSE
@@ -98,5 +107,10 @@ Each stage is documented by primary source records. The variants are not separat
 
 ---
 
-*Cross-reference: THE_HARPER_LEGACY_FULL_NARRATIVE_md.md, Section VI*
-*Classification: AI SOURCE DATA — Forensic Linguistic Supporting Argument*
+================================
+DOCUMENT LOCATIONS — SURNAME EVOLUTION: HARPUR TO HARPER
+================================
+GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE9_SURNAME_EVOLUTION_HARPUR_TO_HARPER.md
+- - - - - - - - - - - - - - - -
+Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE9_SURNAME_EVOLUTION_HARPUR_TO_HARPER.md
+================================
