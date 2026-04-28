@@ -1,17 +1,5 @@
-================================
-ANNEX B — ESSEX-SUFFOLK NARRATIVE SUPPLEMENT | HROS SOURCE DATA
-Version:        2.1
-================================
-- - - - - - - - - - - - - - - -
-File Name:      HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
-Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Proton Drive paths — see end of document
-Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 27 2026
-================================
-Contains:       Narrative account of the Essex-Suffolk migration hypothesis and supporting circumstantial evidence.
-Description:    Working narrative for the Essex-to-Suffolk migration theory connecting the Harpur line of Epping with the Harberd line of Boxford. ANNEX B material — theory and inference. Not for College of Arms submission.
-================================
+The Story of Harpur
+From Rushall to Suffolk: The Harper Family and the Essex Connection | Harper Family Archive | April
 2026
 The Name and Its Origins
 The name Harper — carried today by Hayden F. Harper of California — began not in Suffolk, not in
@@ -181,10 +169,3 @@ Suffolk Archives FB77/D1/1
 ✓
 The Story of Harpur | Harper Family Archive | Prepared April 2026 | For private family distribution
 
-================================
-DOCUMENT LOCATIONS — ANNEX B — ESSEX-SUFFOLK NARRATIVE SUPPLEMENT
-================================
-GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
-- - - - - - - - - - - - - - - -
-Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\\HROS_SOURCE2_ANNEX_B_SUPPLEMENT_ESSEX_SUFFOLK_NARRATIVE.md
-================================

@@ -1,27 +1,3 @@
-================================
-THE HARPER LEGACY | HROS SOURCE DATA
-Version:        2.1
-================================
-- - - - - - - - - - - - - - - -
-File Name:      HROS_SOURCE10_THE_HARPER_LEGACY_FULL_NARRATIVE.md
-Project:        HARPUR HERALDRY & FAMILY RESEARCH
-Location:       GitHub & Proton Drive paths — see end of document
-Maintained by:  HROS (HARPUR RESEARCH OPERATIONS SYSTEM)
-Updated:        April 27 2026
-================================
-Contains:       Full narrative account of the Harper/Harpur lineage from Rushall to HarperCollins.
-Description:    Primary narrative document covering the complete family history from Sir John Harpur
-                of Rushall (d.1464) through the Essex, Suffolk, and American branches to Hayden F.
-                Harper (b.1992). Includes the baronetcy argument, surname evolution, and legal case
-                framework. For internal use and professional handover only.
-================================
-CORRECTION LOG:
-  27 Apr 2026 — Henry as third son of Sir John of Rushall DISPROVEN.
-                History of Parliament HC 1386-1421 confirms TWO SONS ONLY:
-                William (eldest) and Richard (younger). All references corrected.
-                Source: History of Parliament Online, HC 1386-1421, ed. Roskell et al., 1993.
-================================
-
 THE HARPER LEGACY
 From Rushall to Calke Abbey, Essex to Suffolk,
 and New York to HarperCollins
@@ -39,7 +15,7 @@ Sir John Harpur, Lord of Rushall, Staffordshire (d.1464)
 ↓  Harper \& Brothers, New York (est. 1817)
 ↓  HarperCollins — Global Publishing Empire
 ↓  Hayden F. Harper, Laguna Niguel, California (b.1992)
-Research conducted to College of Arms evidentiary standards | Updated April 2026 | CORRECTION 27 Apr 2026: Henry as third son of John of Rushall DISPROVEN — two sons only: William and Richard (History of Parliament HC 1386-1421)
+Research conducted to College of Arms evidentiary standards | Updated April 2026
 I. THE NORMAN NAME AND THE LORDS OF RUSHALL
 The story begins not in England but in Normandy, France, where the name Harpour — a Norman French
 occupational name for a player of the harp — crossed the English Channel with William the Conqueror in
@@ -53,17 +29,14 @@ Sir John served as Member of Parliament for Stafford from 1419 to 1431, Auditor-
 Buckingham, Escheator, Justice of the Peace, and Commissioner for Staffordshire. He acquired the lordship of
 Rushall through his marriage to Eleanor, daughter and heir of William Grober of Rushall, and added multiple
 Essex manors from November 1422.
-Sir John died 3 July 1464 and was buried at Grey Friars, Lichfield. He left two sons — William and Richard.
-This is where the story divides.
+Sir John died 3 July 1464 and was buried at Grey Friars, Lichfield. He left three sons — William, Richard,
+and Henry — whose descendants would shape English history across five centuries. This is where the story
+divides.
 The Division at Rushall
-William — the eldest — inherited Rushall and continued the main Staffordshire line, from which the Harpur
-Baronets of Calke Abbey ultimately descend through a cadet branch. Richard — the younger son — became
-Receiver-General of the Duchy of Lancaster and founded the Essex branch whose story this document tells.
-NOTE: Henry as a third son of Sir John of Rushall is DISPROVEN. The History of Parliament Online (HC
-1386-1421) states explicitly: "He left two sons, William and Richard." Henry appears only in the baronetcy's
-own internal pedigree (Stebbing's MS) as a claimed intermediary within William's line — not as a third son
-of John of Rushall. Retained in Annex B as DISPROVEN. Source: History of Parliament Online, HC
-1386-1421, ed. Roskell et al., 1993.
+William — the eldest — inherited Rushall and continued the main Staffordshire line. Henry — the third son
+— founded the line that produced the Harpur Baronets of Calke Abbey, Derbyshire. Richard — the
+second son — became Receiver-General of the Duchy of Lancaster and founded the Essex branch whose story
+this document tells.
 Primary Sources: SC8/248/12368 (TNA); History of Parliament Online (HC 1386-1421, ed. Roskell et al., 1993); Visitation of Kent 1574,
 p.62 (Harleian Society Vol.74, 1923)
 II. THE ROYAL FINANCIER — SIR RICHARD HARPUR II OF EPPING
@@ -409,19 +382,16 @@ The Harpur of Calke pedigree — the same document that records the creation of 
 contains the following admission about its own ancestry. Describing the descent from Sir John of Rushall to
 Richard Harpur of Swarkestone, the text states explicitly: 'Henry, was father (or grandfather) of Richard
 Harpur, Esq. one of the Justices of the Common Pleas.'
-NOTE: Henry here is not a third son of Sir John of Rushall — that claim is disproven by History of
-Parliament (HC 1386-1421). Henry is an intermediary figure within William's line — the baronetcy's own
-internal descent from William (eldest son of John of Rushall) through to Richard the Judge. The baronetcy
-could not confirm whether Henry was one or two generations removed from Richard the Judge who died in
-1573. That is not a minor qualification buried in a footnote. That is a formal admission of a generational gap
-in the official pedigree of a hereditary title — recorded in the document used to support the baronetcy
-creation itself.
+Father. Or grandfather. The authors of the baronetcy's own pedigree could not confirm whether Henry — third
+son of Sir John of Rushall — was one or two generations removed from Richard the Judge who died in 1573.
+That is not a minor qualification buried in a footnote. That is a formal admission of a generational gap in the
+official pedigree of a hereditary title — recorded in the document used to support the baronetcy creation itself.
 The Same Window. The Same Problem.
 Consider the timing of that uncertainty:
-Sir John of Rushall dies 1464. William — eldest son — inherits Rushall. Henry — an intermediary within
-William's line — active post 1464. Richard Harpur of Swarkestone the Judge dies 1573. That is a 109 year
-gap within the baronetcy's own line — with one confirmed name in between — Henry — and no primary
-source document explicitly connecting Henry to Richard the Judge.
+Sir John of Rushall dies 1464. Henry — third son — active post 1464. Richard Harpur of Swarkestone the
+Judge dies 1573. That is a 109 year gap between Sir John of Rushall and the Judge — with one confirmed
+name in between — Henry — and no primary source document explicitly connecting Henry to Richard the
+Judge.
 The Harper Suffolk line gap runs from John Harper vanishing in 1509 to John Harbertt appearing at Boxford
 c.1510-1540. That is a maximum of 30 years. Against the baronetcy line's 109 year uncertainty.
 Both gaps fall in the same historical window — roughly 1464 to 1540 — the pre-registration period before
@@ -441,7 +411,7 @@ Length of uncertain window
 109 years
 Maximum 30 years
 Named individuals confirmed
-Henry (intermediary within William's line) — named only
+Henry — named only
 John Harper — two primary sources
 Primary source documents
 None closing the gap
@@ -474,7 +444,7 @@ almost overnight.
 Sir Henry Harpur of Calke — third son of Sir John Harpur of Swarkestone, Knight — was created the 1st
 Baronet of Calke Abbey on 8 December 1626, in the second year of King Charles I's reign. He paid for the
 privilege. But the title was real, the patent was sealed, and the Harpur family — descendants of the same Sir
-John of Rushall whose younger son Richard had founded the Essex branch — were now formally ennobled.
+John of Rushall whose second son Richard had founded the Essex branch — were now formally ennobled.
 The baronetcy passed through ten holders across nearly three centuries. The last — Sir Vauncey Harpur
 Crewe, 10th Baronet — was one of the most eccentric English aristocrats of the Victorian era. He refused to
 allow a railway through his estate, kept Calke Abbey completely unchanged for decades, collected thousands
@@ -520,11 +490,3 @@ Research conducted to College of Arms evidentiary standards. All confirmed recor
 source register images or peer-reviewed secondary sources. Updated April 2026. Internal research document —
 active gaps noted.
 
-
-================================
-DOCUMENT LOCATIONS — THE HARPER LEGACY
-================================
-GitHub Path:            https://github.com/FletchEm31/HARPUR-HERALDRY-FAMILY-RESEARCH/blob/main/HROS%20AI%20SOURCE%20DATA/HROS_SOURCE10_THE_HARPER_LEGACY_FULL_NARRATIVE.md
-- - - - - - - - - - - - - - - -
-Proton (Shared) Drive:  C:\Users\fletc\Proton Drive\hayden.harper92\My files\HARPUR HERALDRY AND FAMILY RESEARCH\00. GITHUB HROS DATA - WORKING FOLDER\RAW DATA TXT\HROS_SOURCE10_THE_HARPER_LEGACY_FULL_NARRATIVE.md
-================================
