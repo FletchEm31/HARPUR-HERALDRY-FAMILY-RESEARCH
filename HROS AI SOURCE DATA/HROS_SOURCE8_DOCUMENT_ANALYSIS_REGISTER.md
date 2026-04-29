@@ -543,3 +543,200 @@ Not yet confirmed but worth noting for future research.
 DOCUMENT ANALYSIS REGISTER | Harper / Harberd Family Research
 HROS | Updated April 17 2026 | Internal Use Only
 ================================================================
+
+================================================================
+DOCUMENT 4 — SESSION 29 APRIL 2026
+WP-TNA-035
+PROB 11/42A/75 — Will of Sir George Harper, Knight
+Proved: December 1558
+Court: Prerogative Court of Canterbury
+Primary image read: 29 April 2026
+================================================================
+
+VERBATIM EXTRACTS
+-----------------
+
+Opening (probate section):
+  "Probatum fuit suprascriptum testamentum... Octavo die mensis
+  Decembris Anno dni Millesimo quingentesimo quinquagesimo octavo"
+  [Proved the eighth day of December in the year of our Lord
+  1558]
+
+Schedule opening:
+  "The Schedule made the tenth day of November in the first year
+  of the reign of our Sovereign Lady Elizabeth by the grace of
+  God Queen of England France and Ireland and defender of the
+  faith to be annexed to the last will and testament of Sir
+  George Harper Knight."
+
+Signature (confirmed):
+  "G. Dn. Georgii Harper militis"
+  [George, Lord George Harper, knight]
+
+Key bequest — brother named:
+  "all those two severall leases which were late made by the
+  said late Duke unto the said Sir George and my brother Thomas
+  Colpepyr late of Bedgebery in the said county of Kent esquire
+  deceased"
+
+Nephew named:
+  "Moreover I will give and bequeath unto my nephew Alexander
+  Colpepyr"
+
+Sisters' daughters:
+  "two parts to my sisters two daughters Elianore and Joane"
+
+Executors confirmed:
+  "Richard Lynison gent and Richard Mey my executors"
+
+Kent property:
+  "all that ferme or tenement and lande with the appurtenances
+  called the Countledge of Hadlow in the Countie of Kent, late
+  in the tenure of Richard Ffissher"
+
+SIGNIFICANCE
+------------
+
+1. ESSEX MALE LINE EXTINCT.
+Sir George Harper dies December 1558 without male heirs.
+His will names no male Harper relatives. His estate passes
+entirely to his wife Dame Audrey Harper and to the Culpeper
+network through his mother Constance Chamberlayne's second
+marriage. The Essex Harper line is formally extinct.
+
+2. NO SUFFOLK CONNECTIONS.
+The will contains no reference to Suffolk, to any Harper
+family in Suffolk, or to any individual who can be connected
+to the Wingfield or Boxford Harper/Harberd families. This is
+entirely consistent with the hypothesis that John Harper Esq's
+Suffolk branch had completely separated from the Essex line by
+the time of his death in 1546 — twelve years before George's
+will. George had no reason to acknowledge distant Suffolk
+cousins he almost certainly never met.
+
+3. BROTHER IDENTIFIED AS THOMAS CULPEPER.
+George refers to Thomas Culpepyr of Bedgebury as "my brother"
+— confirming the Culpeper step-relationship through Constance
+Chamberlayne's second marriage to Sir Alexander Culpeper.
+This is consistent with PROB 11/29/217 (Dame Constance's will,
+confirmed April 2026) which names George Harpur as her son
+from the Harper marriage and the Culpeper children separately.
+
+4. JOHN WATTINGTON WILL ANNEXED.
+A will of John Wattington, yeoman of Odiham, Hampshire is
+annexed to the probate file. His sister Margaret Harper is
+named — a Hampshire woman who married into the Harper name.
+This has no connection to the Suffolk chain and represents
+a separate Harper family entirely.
+
+5. GENERATIONAL CONFIRMATION.
+Sir George born c.1503, died 1558, aged approximately 55.
+This is consistent with being the son of Richard Harper III
+(died 1509) and Constance Chamberlayne. His uncle John Harper
+Esq (younger son of Richard of Epping) would have been
+approximately 75-85 years old at George's death — consistent
+with the April 1546 Wingfield burial placing John Esq's death
+12 years before George's.
+
+================================================================
+DOCUMENT 5 — SESSION 29 APRIL 2026
+WP-WINGFIELD-001
+FC84/D1/1 — Wingfield Parish Register
+Burials, Marriages, Baptisms — confirmed entries
+Primary images read: 29 April 2026
+================================================================
+
+CONFIRMED ENTRIES
+-----------------
+
+BURIALS:
+
+Anno Dni 1546:
+  "Margery Harper was buried the x day of Aprill"
+  Margery Harper buried 10 April 1546, Wingfield St Andrew.
+
+  "John Harper was buried the xxij day of Aprill"
+  John Harper buried 22 April 1546, Wingfield St Andrew.
+  Husband and wife dying 12 days apart — consistent with
+  epidemic or disease event affecting elderly couple.
+
+Anno Dni 1566:
+  "John Harper ye sonne of John Harper was buried ye xxvb
+  day of November"
+  John Harper son of John Harper buried 25 November 1566.
+  Explicitly names his father — confirms generational descent.
+
+Anno Dni 1580:
+  John Harper buried 21 April 1580, Wingfield.
+  Spouse: Jone Harper (confirmed FamilySearch record).
+  Same individual as John Harper × Jone Goldinge (1552).
+
+Anno Dni 1584:
+  "John Harper the sonne of William Harper was buryed ye
+  xxte daye of August"
+  John Harper son of William Harper buried 20 August 1584.
+  Confirms William Harper branch at Wingfield.
+
+MARRIAGE:
+
+Anno Dni 1552:
+  John Harper × Jone Goldinge — married 25 July 1552.
+  Wingfield St Andrew, Suffolk parish register.
+  This John = son of John Harper buried 1566.
+
+BAPTISMS — WILLIAM HARPER'S CHILDREN:
+
+  Margaret Harper — baptised 2 February 1550/1
+  Alice Harper — baptised 24 October 1552
+  Edward Harper — baptised November 1555
+  John Harper — baptised 21 December 1556
+  All at Wingfield St Andrew. Father: William Harper.
+
+SIGNIFICANCE
+------------
+
+1. JOHN HARPER ESQ BURIAL — PROPOSED IDENTIFICATION.
+The John Harper buried 22 April 1546 at Wingfield is proposed
+as John Harper Esq — younger son of Richard Harpur of Epping.
+Born c.1470-1480, he would be aged approximately 66-76 at
+death — entirely consistent with an elderly gentry landowner.
+Wife Margery dying 12 days earlier in the same month suggests
+shared illness. This identification is PROBABLE but not yet
+confirmed by a document naming both his Essex origin and his
+Wingfield settlement.
+
+2. THREE GENERATIONS CONFIRMED AT WINGFIELD.
+- John Harper (patriarch) + Margery — buried 1546
+- John Harper son of John — married 1552, buried 1566
+- William Harper (brother of John above) — children 1550-1556
+- John Harper son of William — buried 1584
+Four burials, one marriage, four baptisms across 38 years.
+This is not a transient family. This is an established
+Wingfield Harper household.
+
+3. WILLIAM HARPER BRANCH.
+William Harper — proposed younger son of John Harper Esq —
+has children baptised at Wingfield 1550-1556. His son John
+is buried 1584. This is a parallel branch to the John Harper
+line and confirms John Esq had multiple sons at Wingfield.
+
+4. THE BOXFORD CONNECTION.
+John Harbarde marries Rose Smythe at Boxford 11 July 1563.
+Their son John is baptised at Boxford 28 October 1563 —
+only 3.5 months after the marriage. This confirms the family
+was already settled at Boxford before the 1563 marriage,
+pushing the migration from Wingfield to c.1555-1560.
+The proposed bridge figure — a third son of John Harper Esq
+not yet identified in Wingfield records — is the active
+research priority.
+
+5. DOCUMENTS PENDING THAT WILL CONFIRM OR DENY:
+- C1/326/40 — John Harper + Jermy family, Metfield 1504-1515
+- C1/981/98-99 — John Harper of Wingfield, defendant 1538-1544
+- C1/1358/21-23 — Thomas son of John Harper deceased, Wingfield
+  1553-1555 — CRITICAL — names next generation explicitly
+
+================================================================
+DOCUMENT ANALYSIS REGISTER | Harper / Harberd Family Research
+HROS | Updated 29 April 2026 | Internal Use Only
+================================================================

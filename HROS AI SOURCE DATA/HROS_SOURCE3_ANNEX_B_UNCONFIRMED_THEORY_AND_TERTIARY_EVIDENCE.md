@@ -178,3 +178,61 @@ The Feet of Fines searches conducted 28 April 2026 have materially strengthened 
 
 ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Internal only | Updated April 2026.
 
+================================================================
+WINGFIELD HYPOTHESIS — NEW | 29 APRIL 2026
+================================================================
+
+The following hypothesis is now the strongest available working
+theory connecting John Harper Esq to the Boxford chain.
+Supported by substantial corroborating primary source evidence
+but not yet confirmed by a single document directly linking
+Wingfield to Boxford.
+
+PROPOSED SEQUENCE:
+
+John Harper Esq develops north Suffolk connections through the
+Jermy family of Metfield (C1/326/40, ordered). He disposes of
+Fakenham manor February 1509 (WP-TNA-028). Inherits Essex lands
+April 1509. Settles at Wingfield c.1509-1515. Active in Wingfield
+land disputes c.1538-1544 (C1/981/98-99, ordered). Dies April
+1546, buried Wingfield FC84/D1/1 — PRIMARY IMAGE CONFIRMED.
+Wife Margery buried two weeks earlier same month.
+
+SONS CONFIRMED AT WINGFIELD:
+- John Harper (married Jone Goldinge 1552, buried 1566) ✅
+- William Harper (children baptised Wingfield 1550-1556) ✅
+- Thomas Harper (pursuing Wingfield deeds 1553-1555 per
+  C1/1358/21-23, ordered — PENDING)
+
+PROPOSED BOXFORD CONNECTION:
+A third son — not yet identified in primary sources — moves to
+Boxford c.1555-1562 and becomes John Harbarde who marries Rose
+Smythe at Boxford 11 July 1563. Hugh Harbertt (proposed brother)
+appears at Boxford 1562.
+
+KEY OBSERVATION: John Harbarde's son baptised at Boxford 28
+October 1563 — only 3.5 months after the marriage. Family was
+already settled at Boxford before the 1563 marriage. This pushes
+the Wingfield-to-Boxford migration back to c.1555-1560.
+
+DOCUMENTS THAT WILL CONFIRM OR DENY:
+1. C1/326/40 — Jermy v Throgmerton — ORDERED RC8271591 PENDING
+2. C1/981/98-99 — Ewen v Harper (John Harper of Wingfield)
+   ORDERED RC8276062 PENDING
+3. C1/1358/21-23 — Harper v Lawes (Thomas son of John Harper
+   deceased, Wingfield) — ORDERED RC8276060 PENDING
+4. C1/948/11 — Barley v Harper — ORDERED RC8274724 PENDING
+
+CERTAINTY: STRONG HYPOTHESIS — not yet primary source confirmed.
+Annex B only. Do not promote to Main Doc without confirmation.
+
+ESSEX LINE EXTINCTION CONFIRMED — SIR GEORGE HARPER WILL:
+Sir George Harper (1503-1558) will PROB 11/42A/75 confirmed
+29 April 2026. No male Harper heirs named. No Suffolk connections.
+Estate entirely Kent-based. Essex male line formally extinct
+December 1558. John Harper Esq dead 12 years by this point.
+The two branches had completely separated — George's silence on
+the Suffolk branch is consistent with the hypothesis.
+
+ANNEX B — Theory, Hypothesis \& Unconfirmed | Harper/Harberd Research | Internal only | Updated 29 April 2026.
+

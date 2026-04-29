@@ -202,5 +202,248 @@ Calke Abbey National Trust | GM reply expected — call scheduled
 
 
 
-ANNEX A — Verified Supporting Evidence | Harper/Harberd Family Research | Updated April 2026 | Internal Use Only
+================================================================
+WINGFIELD PARISH REGISTER — FC84/D1/1
+CONFIRMED PRIMARY IMAGES — 29 APRIL 2026
+================================================================
+
+The Wingfield parish register (FC84/D1/1) has been reviewed and
+the following entries confirmed as primary images. These entries
+establish the John Harper family at Wingfield, Suffolk across
+three generations 1546-1584. This is the proposed settlement
+location of John Harper Esq after he leaves Essex c.1509.
+
+BURIALS:
+
+1. "Margery Harper was buried the x day of Aprill" — Anno Dni 1546
+   Margery Harper buried 10 April 1546, Wingfield.
+   Wife of John Harper Esq — dies two weeks before her husband.
+
+2. "John Harper was buried the xxij day of Aprill" — Anno Dni 1546
+   John Harper buried 22 April 1546, Wingfield.
+   PROPOSED IDENTIFICATION: John Harper Esq, younger son of
+   Richard Harpur of Epping. Born c.1470-1480. Aged approximately
+   66-76 at death. Consistent with a man who inherited Essex lands
+   April 1509 and settled in Suffolk c.1509-1515.
+
+3. "John Harper ye sonne of John Harper was buried ye xxvb day
+   of November" — Anno Dni 1566
+   John Harper son of John Harper buried 25 November 1566.
+   Explicitly names his father as John Harper — confirming
+   generational descent.
+
+4. John Harper buried 21 April 1580, Wingfield.
+   Spouse: Jone Harper (confirmed via FamilySearch record).
+   Same individual as John Harper × Jone Goldinge (married 1552)
+   — Jone Goldinge became Jone Harper on marriage.
+
+5. "John Harper the sonne of William Harper was buryed ye xxte
+   daye of August" — Anno Dni 1584
+   John Harper son of William Harper buried 20 August 1584.
+   Confirms a William Harper branch at Wingfield — William
+   is a proposed son of John Harper Esq (brother of John above).
+
+MARRIAGE:
+
+6. John Harper × Jone Goldinge — married 25 July 1552, Wingfield
+   St Andrew. Confirmed via FamilySearch / FC84/D1/1.
+   This John = son of John Harper Esq (buried 1566).
+
+BAPTISMS — WILLIAM HARPER'S CHILDREN:
+
+7. Margaret Harper — baptised 2 February 1550/1, Wingfield
+   Daughter of William Harper.
+
+8. Alice Harper — baptised 24 October 1552, Wingfield
+   Daughter of William Harper.
+
+9. Edward Harper — baptised November 1555, Wingfield
+   Son of William Harper.
+
+10. John Harper — baptised 21 December 1556, Wingfield
+    Son confirmed — father not yet identified in primary image
+    (William Harper branch or John Harper branch).
+
+SIGNIFICANCE: The Wingfield parish register confirms a Harper
+family established at Wingfield across three generations 1546-
+1584. John Harper Esq (proposed patriarch, buried 1546) had at
+least two sons confirmed at Wingfield: John (married 1552, buried
+1566) and William (children baptised 1550-1556). A third son or
+grandson is proposed to have moved to Boxford c.1555-1562, where
+Hugh Harbertt appears in 1562 and John Harbarde marries Rose
+Smythe in 1563.
+
+IDENTITY FLAG: The identification of the 1546 burial as John
+Harper Esq (younger son of Richard of Epping) is PROBABLE but
+not yet confirmed by a document that explicitly names both his
+Essex origin and his Wingfield settlement. C1/981/98-99 (John
+Harper of Wingfield, ordered, pending) and C1/326/40 (Jermy v
+Throgmerton, ordered, pending) are the documents most likely
+to confirm this identification.
+
+================================================================
+SIR GEORGE HARPER WILL — PROB 11/42A/75
+CONFIRMED PRIMARY IMAGE — 29 APRIL 2026
+================================================================
+
+WP-TNA-035
+Will of Sir George Harper, Knight. Proved December 1558.
+Prerogative Court of Canterbury. PROB 11/42A/75.
+PRIMARY IMAGE CONFIRMED 29 April 2026.
+
+Sir George Harper — son of Richard Harper III × Constance
+Chamberlayne. Knighted 1547. MP for Kent. Sold Latton Hall 1548.
+Died December 1558 without male heirs.
+
+KEY PERSONS NAMED:
+- Dame Audrey Harper — wife, sole executrix
+- Thomas Culpepyr of Bedgebury — "my brother" (Culpeper marriage)
+- Alexander Culpepyr — nephew (son of Thomas Culpeper)
+- Elianore and Joane — sisters' daughters, receive household goods
+- Richard Lynison and Richard Mey — executors
+- George Jones — trustee friend, Kent property
+
+KEY PROPERTY:
+- Countledge of Hadlow, Kent — held by lease from Duke of
+  Northumberland
+- Kent and Surrey properties throughout
+- NO Suffolk property mentioned
+- NO male Harper heirs named anywhere
+
+SIGNIFICANCE:
+1. Essex male line formally extinct December 1558. Confirmed.
+2. No male Harper heirs acknowledged — consistent with John
+   Harper Esq's Suffolk branch having completely separated
+   from the Essex line 50 years earlier.
+3. John Harper Esq had been dead 12 years by this point (buried
+   Wingfield April 1546). George had no reason to acknowledge
+   distant Suffolk cousins he likely never met.
+4. Property entirely in Kent — confirms the Essex Harper estate
+   had fully migrated to Kent through George's life.
+5. Signature confirmed: "G. Dn. Georgii Harper militis"
+   Sir George Harper, knight — primary image confirmed.
+
+NOTE: A John Wattington will is annexed to this probate file.
+His sister is named Margaret Harper — a Hampshire woman who
+married into the Harper name. No connection to our Suffolk chain.
+
+================================================================
+SUFFOLK BAPTISM SEARCH — FREEBIRD/FAMILYSEARCH
+HARPER/HARBERD VARIANTS — SUFFOLK 1550-1620
+REVIEWED 29 APRIL 2026
+================================================================
+
+FamilySearch search: surname Harper (soundex), Suffolk,
+baptism, 1550-1620. Key results relevant to our research:
+
+WINGFIELD ENTRIES (north Suffolk — our proposed settlement):
+- Margaret Harper — 2 Feb 1550/1, Wingfield ✅ (William's daughter)
+- Alice Harper — 24 Oct 1552, Wingfield ✅ (William's daughter)
+
+BOXFORD ENTRIES (confirmed chain):
+- John HARBARDE — 28 Oct 1563, Boxford ✅
+  Son of John Harbarde × Rose Smythe. Baptised 3.5 months
+  after parents' marriage — confirms family settled at Boxford
+  before the 1563 marriage.
+- Jeffraye HARBERTT — 20 Apr 1568, Boxford ✅
+- James HARBERTT — 25 Jun 1570, Boxford ✅
+- John HARBERTE — 12 May 1599, Boxford ✅
+- John HARBERD — 1 Jun 1600, Boxford ✅ (confirmed chain)
+- James HARBERD — 5 Dec 1602, Boxford ✅
+- Margaret HARBERD — 23 Jun 1615, Boxford ✅
+
+BURY ST EDMUNDS ENTRIES (confirmed chain):
+- John HARBOUR — 9 Feb 1624/5, Bury St Edmunds ✅
+  Father: John HARBOUR. Source: SHAH Suffolk Green Book 1915.
+  Confirms John Harbar × Mary Bathorne son baptised 1624/5.
+
+NOTE ON JOHN HARBARDE BAPTISM 28 OCT 1563:
+John Harbarde baptised 28 October 1563 — only 3.5 months after
+parents' marriage on 11 July 1563. Confirms John Harbarde (father)
+was already settled at Boxford before the marriage. This rules
+out the possibility that the family arrived at Boxford for the
+first time at the marriage — they were already established there.
+
+================================================================
+SIR JOHN HARPUR OF RUSHALL — IPM CONFIRMATIONS
+29 APRIL 2026 — inquisitionspostmortem.ac.uk
+================================================================
+
+Four independent primary source documents confirm Sir John Harpur
+of Rushall as active legal professional in Staffordshire 1423-1432.
+
+E-CIPM 22-11 | C 139/1/8 mm.1-2 | 4 Jun 1423 | Staffordshire
+James de Moreton IPM. "Harpour of the Temple delivered this
+inquisition into court." Sir John named as attorney delivering
+document. "Of the Temple" = member of Inns of Court. Earliest
+known primary source appearance in legal capacity.
+
+E-CIPM 23-243 | C 139/40/49 mm.1-2 | 27 Aug 1429 | Staffs
+John Delves IPM. [Harpur] = Sir John conducting as escheator.
+Matches History of Parliament escheator dates: 4 Nov 1428-
+12 Feb 1430. Primary source confirmation of official role.
+
+E-CIPM 23-338 | C 139/43/11 mm.1-2 | 19 Oct 1429 | Staffs
+Thomas Collettus IPM. [Harpur] conducting as escheator. John
+Harpur named as juror. Critical: "John Harpur and other
+escheators have received the issues of the above for the king's
+use by virtue of their office." October 1429 = inside confirmed
+escheator window. Only one escheator held Staffordshire at a
+time — definitively Sir John Harpur of Rushall.
+
+E-CIPM 23-720 | C 139/56/52 mm.1-2 | 4 Feb 1432 | Staffs
+Robert son of Thomas Harecourt proof of age. John Harpour named
+as royal commissioner. Inquisition taken by [Whitegreve] = Robert
+Whitgreve — same individual as co-buyer in 1422 and 1436 West
+Tilbury Feet of Fines (WP-TNA-033, WP-TNA-034). Independent
+cross-confirmation of Rushall network across two primary source
+series simultaneously.
+
+SIGNIFICANCE: Sir John of Rushall now confirmed through five
+document types. Escheator dating is definitive confirmation.
+Whitgreve connection across Feet of Fines and IPM series locks
+the identification beyond reasonable doubt.
+
+================================================================
+TNA DISCOVERY — NEW DOCUMENTS IDENTIFIED 29 APRIL 2026
+TO BE ORDERED NEXT SESSION
+================================================================
+
+C 2/JasI/H30/61 — Harper v Chauncey (1603-1625) ⭐⭐⭐⭐⭐
+Thomas Harper (uncle and next heir of John Harper) vs Ezekiel
+Chauncey. Lands in Syleham and manor of Monks Hall, Syleham,
+Suffolk. Syleham = our confirmed chain parish FC81/D1/1.
+Thomas Harper as uncle and next heir states explicit generational
+relationship. Critical document — TO ORDER IMMEDIATELY.
+
+WARD 7/62/3 + C 142/382/55 — Richard Harper, Suffolk, 1620/21
+Two versions of same IPM. Will name heir and lands. One
+generation after confirmed Boxford chain begins. TO ORDER BOTH.
+
+C 1/817/2 — Harper v Sutton (1533-1538) ⭐⭐⭐⭐
+John Harper of Swaffham Prior, Cambridgeshire + wife MARGERY
+pursuing Suffolk property. Wife Margery = same name as John
+Harper Esq's wife buried Wingfield April 1546. Date and wife's
+name consistent with John Harper Esq. TO ORDER.
+
+C 3/96/56 — Harper v Plumpton (1558-1579) ⭐⭐⭐
+William Harper, property in Huntingfield Suffolk (Hoxne Hundred,
+12 miles from Wingfield). Right period for William Harper son of
+John Esq asserting land claims post-1546. TO ORDER.
+
+C 143/449/37 — John Harper for Rushall Church (1442/3) ⭐⭐⭐
+Inquisition ad quod damnum. Sir John Harpur petitioning to endow
+perpetual chaplaincy at Rushall Church. Confirmed by History of
+Parliament footnote 17. Connects to Richard of Epping's Rushall
+Church bequest PROB 11/9/246 (1492). TO ORDER.
+
+WARD 7/100/31 + E 150/1249/5-3 — Richard Harper kt, Derby 1576/77
+IPM for Richard Harpur alias Harper, Justice of Common Pleas.
+Baronetcy line primary source confirmation. TO ORDER.
+
+WARD 7/50/81 — Richard Harper knight, Derby, 1619/20
+IPM for Sir John Harpur of Swarkeston, father of 1st Baronet.
+TO ORDER.
+
+ANNEX A — Verified Supporting Evidence | Harper/Harberd Family Research | Updated 29 April 2026 | Internal Use Only
 

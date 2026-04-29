@@ -455,6 +455,38 @@ WP-TNA-034
                   William Mitton (deforciant)
   Cross-ref:      WP-TNA-030; WP-TNA-031; WP-TNA-033
 
+WP-TNA-035
+  Document:       Will (PCC) — primary image confirmed
+  Individual:     Sir George Harper, Knight
+  WC-ID:          WC-H015
+  Court:          Prerogative Court of Canterbury
+  Archive Ref:    PROB 11/42A/75
+  Date:           Proved December 1558
+  Status:         PRIMARY IMAGE CONFIRMED (29 April 2026)
+  Importance:     8
+  Lineage Impact: Last male heir of Essex Harper line. Dies
+                  December 1558 without male heirs. Essex line
+                  formally extinct. No male Harper heirs named.
+                  No Suffolk connections acknowledged. Property
+                  entirely in Kent — Hadlow, Sutton Valence,
+                  Bedgebury. Confirms complete separation of
+                  Essex and Suffolk branches by 1558.
+                  John Harper Esq dead 12 years by this point.
+                  Signature confirmed: "G. Dn. Georgii Harper
+                  militis" — Sir George Harper, knight.
+  Named persons:  Dame Audrey Harper (wife, sole executrix);
+                  Thomas Culpepyr of Bedgebury (brother);
+                  Alexander Culpepyr (nephew);
+                  Elianore and Joane (sisters' daughters);
+                  Richard Lynison (executor);
+                  Richard Mey (executor);
+                  George Jones (trustee, Kent property)
+  Cross-ref:      WP-TNA-001 (Richard of Epping — grandfather
+                  of George); History of Parliament confirmed.
+  Note:           John Wattington will annexed to probate file.
+                  Sister Margaret Harper named — Hampshire woman,
+                  no connection to Suffolk chain.
+
 ================================================================
 REGISTER — OUTSTANDING ARCHIVE SEARCHES
 ================================================================

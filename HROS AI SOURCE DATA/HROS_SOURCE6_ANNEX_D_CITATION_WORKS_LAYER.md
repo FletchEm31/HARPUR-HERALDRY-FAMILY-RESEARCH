@@ -293,6 +293,14 @@ WP-TNA-034  Feet of Fine — John Harpur (Sir John of Rushall)
             Second West Tilbury consolidation
             Used in: ANNEX A — MAIN DOC ★★★★★
 
+WP-TNA-035  Will — Sir George Harper, Knight
+            PROB 11/42A/75 | December 1558
+            PRIMARY IMAGE CONFIRMED (29 Apr 2026)
+            Essex male line extinct. No male Harper heirs.
+            No Suffolk connections. Kent property only.
+            Signature: "G. Dn. Georgii Harper militis" ✅
+            Used in: ANNEX A + ANNEX E
+
 ================================================================
 CURRENT REGISTER — SUFFOLK ARCHIVES
 ================================================================
