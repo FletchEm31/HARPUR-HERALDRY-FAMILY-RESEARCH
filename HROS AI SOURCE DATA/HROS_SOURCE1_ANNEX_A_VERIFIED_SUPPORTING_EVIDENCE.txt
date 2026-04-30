@@ -163,7 +163,16 @@ SIBLING GROUPS — Confirmed Parish Records
 
 Children of Josephe Harberd & Marye Pulley — Boxford
 Name                          | Event / Date      | Archive    | Status
-John Harberd * DIRECT ANCESTOR| Bapt. 1 Jun 1600  | FB77/D1/1  | PRIMARY CONFIRMED
+John Harberte — INFANT        | Bapt. 12 May 1599 | FB77/D1/1  | FREEREG CONFIRMED — entry 9
+(died before Jun 1600,        | Father: Josepthe  |            | line 262. Infant sibling of
+name reused)                  | HARBERTE          |            | direct ancestor. Name collision
+                              |                   |            | RESOLVED — different spelling
+                              |                   |            | same parents. Primary image needed.
+John Harberd * DIRECT ANCESTOR| Bapt. 1 Jun 1600  | FB77/D1/1  | PRIMARY CONFIRMED — entry 9
+                              | Father: Joseph    |            | line 292. Two different surname
+                              | HARBERD           |            | spellings of same father within
+                              |                   |            | 13 months — dialect transcription
+                              |                   |            | argument confirmed.
 Josephe Harbord               | Bapt. 1 Nov 1635  | FB77/D1/1  | PRIMARY CONFIRMED
 Jon Harberd                   | Bapt. 28 Dec 1638 | FB77/D1/1  | PRIMARY CONFIRMED
 
