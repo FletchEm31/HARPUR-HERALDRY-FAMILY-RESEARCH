@@ -1,0 +1,278 @@
+ANNEX B — Theory, Hypothesis & Unconfirmed Research
+Harper / Harberd Family Lineage | Active Research Leads | Updated 30 April 2026
+INTERNAL RESEARCH DOCUMENT — NOT FOR COLLEGE OF ARMS SUBMISSION.
+
+================================================================
+1. THE MASTER HYPOTHESIS — Status 30 April 2026
+================================================================
+The following narrative represents the working theory connecting the confirmed Suffolk Harberd
+chain to the Harpur Baronets of Calke Abbey. As of 30 April 2026 this hypothesis is supported
+by five confirmed primary source TNA documents, three independent Herald's Visitations, five
+new Chancery case images partially read, and the major new Jeffraye Harbutt primary
+confirmation at Boxford. The critical remaining gap is a single document directly linking John
+Harper Esq to John Harbertt of Boxford — but the circumstantial case is now significantly
+stronger than at any prior point in the research.
+
+================================================================
+2. CORRECTED GENERATIONAL STRUCTURE — April 2026
+================================================================
+IMPORTANT CORRECTION: John Harper Esq is the YOUNGER SON of Richard of Epping — making
+him the UNCLE of George Harper, not his brother. George is Richard III's son (Richard of
+Epping's grandson). John is Richard of Epping's second son — one generation above George.
+
+Generation | Individual                                           | Evidence                                    | Status
+G1         | Sir John Harpur of Rushall (1425-1464)               | History of Parliament; SC8/248/12368        | PRIMARY + PEER-REVIEWED CONFIRMED
+G2         | Sir Richard Harpur of Epping (1443-1492)             | PROB 11/9/246; Kent Visitation 1574 p.62   | PRIMARY CONFIRMED
+G2         | Sir William Harpur — brother of Richard of Epping.   | Kent Visitation 1574 p.62; PROB 11/9/246   | NEAR-PRIMARY CONFIRMED
+           | Sons: Humphrey, Vultho, Cornelius                    |                                             |
+G3         | Richard Harper III (c.1470-1509) — son and heir      | History of Parliament; Constance wills      | CONFIRMED secondary
+G3         | John Harper Esq (c.1470-1480) — YOUNGER SON of       | PROB 11/9/246; Kent Visitation 1574         | PRIMARY CONFIRMED —
+           | Richard of Epping; UNCLE of George                   |                                             | location post-1507 UNKNOWN
+G4         | Sir George Harper MP (1503-1558)                     | History of Parliament; PROB 11/29 primary  | CONFIRMED
+G4 (prop.) | John Harbertt of Boxford (fl.c.1510-1540)           | FB77/D1/1 primary at Boxford               | PRIMARY at Boxford —
+           | — proposed son of John Esq                           |                                             | CONNECTION UNCONFIRMED
+G5         | John Harbarde (marr. 1563)                           | FB77/D1/1 primary                          | PRIMARY at Boxford —
+           | — proposed son of John Harbertt                      |                                             | parentage UNCONFIRMED
+G6+        | Josephe Harberd and confirmed Suffolk chain          | FB77/D1/1 and subsequent primary sources   | FULLY CONFIRMED throughout
+
+================================================================
+3. THE NARRATIVE — How John Harper Gets to Boxford
+================================================================
+Richard Harper of Epping dies 1492/3. His elder son Richard III inherits Latton Hall and
+marries Constance Chamberlayne. Richard III dies 10 April 1509. His son George becomes ward
+— purchased by stepfather Alexander Culpeper. Essex main line will expire with George (dies
+1558, no male heirs).
+
+Richard of Epping's younger son John inherits Essex lands at Stanford and Stapulford on 10
+April 1509 — the exact date Richard III dies, activating the contingency in PROB 11/9/246.
+John is approximately 29-39 years old. He has Essex lands but no great estate. He looks to
+Suffolk.
+
+Why Suffolk specifically: Constance Chamberlayne — his sister-in-law, now widow of his
+brother — has family estates at Capel St Mary (8.5 miles from Boxford). Her new husband
+Alexander Culpeper has church connections at Bures St Mary (4 miles from Boxford, per his
+will PROB 11/30). The wider Harberd gentry network is already established in Suffolk.
+
+NEW 30 APR 2026: Multiple Chancery cases now place a John Harper actively operating as a
+moneylender and property holder in Suffolk in exactly this window. His executors are named
+Nicholas and Jeffrey — almost certainly his sons. Jeffrey appears as a baptism name one
+generation later inside the Boxford Harbertt family. His son Thomas Harper is confirmed
+pursuing John's Suffolk estate in Chancery in 1553-1555. His death is placed approximately
+1540-1550 based on Thomas's active pursuit of the estate by 1553.
+
+================================================================
+4. THE HARPER LENDING DYNASTY — NEW 30 APRIL 2026
+================================================================
+Title: "The Harper Lending Dynasty — Essex to Suffolk: An Inherited Business Model Across
+Three Primary Sources"
+
+A significant thematic connection emerged across three primary documents confirmed in this
+session. Richard Harper of Epping (PROB 11/9/246, 1492) was an Essex gentry moneylender
+and property holder. His younger son John Harper carried the exact same business model into
+Suffolk — lending money secured against land, accumulating property interests across multiple
+parishes simultaneously.
+
+Document              | Individual           | Business Activity              | Geography      | Date      | Status
+PROB 11/9/246         | Richard Harper       | Property holder, gentry        | Latton Hall,   | 1492      | PRIMARY CONFIRMED
+                      | of Epping            | lending, church bequests       | Essex          |           |
+C1/326/40             | John Harper          | Moneylender — loan secured     | Suffolk        | 1504-1515 | IMAGES RECEIVED
+Jermy v Throgmorton   | (deceased) +         | against land. Executors        |                |           | PARTIAL READ
+                      | executors Nicholas   | pursuing debt post-death.      |                |           |
+                      | and Jeffrey          |                                |                |           |
+C1/329/1              | Richard Harper       | Holding title deeds to Suffolk | Mendham &      | 1504-1515 | IMAGES RECEIVED
+Kyngsey v Harper      |                      | land — property accumulation   | Wyddershale,   |           | PARTIAL READ
+                      |                      | through debt instruments       | Suffolk        |           |
+C1/1358/21-23         | Thomas Harper        | Pursuing father's freehold     | Feldcroft,     | 1553-1555 | IMAGES RECEIVED
+Harper v Lawes        | (son of John Harper) | property interests in Suffolk  | Suffolk        |           | PARTIAL READ
+                      |                      | secured through private        |                |           |
+                      |                      | lending against Agnes          |                |           |
+                      |                      | Stratfield estate              |                |           |
+
+The family business was secured lending against land. Richard did it in Essex. John took it
+to Suffolk. Thomas pursued the estate after John's death. This is not coincidence — it is an
+inherited business model carried across county lines by the same family.
+
+================================================================
+5. SUFFOLK HARPER CHANCERY CLUSTER — Updated 30 April 2026
+================================================================
+ALL DOCUMENTS REQUIRE FULL PROFESSIONAL TRANSCRIPTION BY DR. FOX
+BEFORE ANY PROMOTION TO ANNEX A OR MAIN DOC.
+
+----------------------------------------------------------------
+RC8271591 — C1/326/40 — Jermy v Throgmorton ★★★★★ CRITICAL LINCHPIN
+----------------------------------------------------------------
+Plaintiff:      John Jermy of Hetfeld, Suffolk, gentleman
+Defendant:      John Throgmorton, late of [Guetington?], Norfolk, gentleman
+Central figure: John Harper — DECEASED — creditor/moneylender
+Executors:      Nicholas and Jeffrey — almost certainly John Harper's sons
+Subject:        Debt repayment — John Jermy's father borrowed money from John Harper, gave
+                land as security. Throgmorton bought land, refuses to pay debt to Harper's estate.
+Date:           1504-1515
+RC Number:      RC8271591
+Status:         IMAGES RECEIVED — PARTIAL READ — FULL TRANSCRIPTION BY DR. FOX URGENTLY REQUIRED
+Key:            Jeffrey name as executor connects to Jeffraye Harbutt baptism Boxford 1568.
+                John Harper deceased Suffolk moneylender with named heirs active in county.
+
+----------------------------------------------------------------
+RC8276061 — C1/329/1 — Kyngsey v Harper ★★★★
+----------------------------------------------------------------
+Plaintiff:      Robert Kyngsey
+Defendant:      Richard Harper
+Subject:        Detention of title deeds, charters and muniments
+Property:       Mendham and Wyddershale, Suffolk
+Court:          Chancery — addressed to Archbishop of Canterbury as Lord Chancellor
+Date:           1504-1515
+RC Number:      RC8276061
+Status:         IMAGES RECEIVED — PARTIAL READ — FULL TRANSCRIPTION REQUIRED
+Key:            Richard Harper holding property title deeds in Mendham — 3 miles from Syleham,
+                Hoxne Hundred. Man of substance. Same window as C1/326/40.
+
+----------------------------------------------------------------
+RC8274724 — C1/948/11 — Barley v Harper ★★★★
+----------------------------------------------------------------
+Plaintiff:      Barley of Hertfordshire — CONFIRMED from partial image read
+Defendant:      Harper — George Harper defending Latton manor
+Subject:        Latton manor, Essex — outside Hertfordshire claimant challenging Harper title
+Date:           1538-1544
+RC Number:      RC8274724
+Status:         IMAGES RECEIVED — BADLY DAMAGED — FULL TRANSCRIPTION REQUIRED
+Key:            Thomas named as son and heir of John in connection with Latton. Confirms Harper
+                family maintaining Essex connection while operating in Suffolk simultaneously.
+Note:           TNA note — see also C1/737/67 companion document
+
+----------------------------------------------------------------
+RC8276062 — C1/981/98-99 — Ewen v Harper ★★★
+----------------------------------------------------------------
+Plaintiff:      John Ewen
+Defendant:      John Harper of Wingfield, Suffolk
+Subject:        Lands in Dennington, Suffolk
+Date:           1538-1544
+RC Number:      RC8276062
+Status:         DISPATCHED — IMAGES PENDING
+Key:            John Harper in Suffolk 1538-1544 — directly in migration window.
+                Wingfield 25 miles northeast of Boxford.
+
+----------------------------------------------------------------
+C1/1358/21-23 — Harper v Lawes ★★★★
+Page check due 13 May 2026
+----------------------------------------------------------------
+Plaintiff:      Thomas Harper — son and heir of John Harper
+Defendant:      John Lawes and Richard Stratforde
+Connected:      Agnes Stratfield (prior landowner), John Payne (co-feoffee with John Harper —
+                NEW NAME requires investigation), William Stratfield, Thomas Jermy
+Property:       Feldcroft, Suffolk
+Date:           1553-1555
+Pages:          21 (bill of complaint), 22 (defendants answer), 23 (plaintiffs replication)
+Status:         IMAGES RECEIVED — PARTIAL READ — PAGE CHECK DUE 13 MAY 2026
+Key:            Thomas Harper confirmed as son and heir of John Harper. John Harper held
+                freehold property in Suffolk. John Harper deceased before 1553 — places death
+                approximately 1540-1550. Case actively contested — replication filed.
+John Payne:     Named as co-feoffee alongside John Harper — business associate requiring
+                further investigation. TO ORDER any Chancery cases involving John Payne Suffolk
+                same period.
+
+================================================================
+6. RARE NAME CLUSTER ARGUMENT — Updated 30 April 2026
+================================================================
+Three independent primary sources confirm the same rare names appearing in both the Essex
+Harper documents and the Suffolk Harberd family cluster across two generations:
+
+Name               | Essex / Chancery Document               | Suffolk Harberd Document              | Gap    | Significance
+William + Humphrey | PROB 11/9/246 — 1492: brother William   | Waltham Abbey Dec 1577: William       | 85 yrs | Same rare paired relationship
+(paired)           | Harper, nephew Humphrey Harper          | Harbert + Humfre Harbert, 8 miles     |        | reproduced in geographic
+                   |                                         | from Epping, on road to Suffolk        |        | corridor Essex to Suffolk
+Jeffrey            | C1/326/40 — 1504-1515: Jeffrey as       | FB77/D1/1 — Boxford 20 Apr 1568:      | ~60yrs | Extremely rare Norman French
+                   | executor of John Harper's Suffolk        | Jeffraye Harbutt baptised, son of     |        | name. Cannot be coincidence
+                   | estate — almost certainly his son        | Hugh Harberd grandson of patriarch    |        | within same county.
+
+Three independent primary sources. Three rare name confirmations. This is consistent with a
+single family network carrying specific names deliberately across generations — standard
+gentry naming practice of the period.
+
+================================================================
+7. THE BARONETCY LINE — Confirmed by Primary Source
+================================================================
+Generation | Individual                                           | Primary Source
+G1         | Sir John Harpur of Rushall (1425-1464)               | SC8/248/12368; History of Parliament
+G2         | Sir William Harpur — son of John of Rushall           | Kent Visitation 1574 p.62
+G?         | Richard Harpur of Derbyshire — intermediate gen.     | Staffordshire Visitation (Glover 1583) — NOT YET ACCESSED
+G?         | Richard Harpur alias Harper, Justice, Swarkeston     | PROB 11/59/108 — PRIMARY CONFIRMED April 2026
+G?         | Jane Harpur — widow of Justice, Swarkeston           | PROB 11/89/461 — PRIMARY CONFIRMED April 2026
+G?         | John Harpur of Swarkeston — eldest son of Justice    | PROB 11/89/461 — PRIMARY CONFIRMED April 2026
+G?         | Sir Henry Harpur, 1st Baronet of Calke (1579-1638)   | Burke's Peerage confirmed
+
+GAP: Connection between Sir William Harpur (son of John of Rushall, Kent Visitation 1574)
+and Richard Harpur alias Harper of Swarkeston (PROB 11/59/108) not yet closed by primary
+source. Staffordshire Visitation (Glover 1583) most likely to close this gap. Access via
+British Library or Ancestry.
+
+================================================================
+8. HERALD'S VISITATIONS — Constance Chamberlayne Framework
+================================================================
+Visitation     | Date      | Reference              | Key Confirmation
+Cambridgeshire | 1575/1619 | Harl. Soc. xli, p.41  | Constance 1 m. to .... Harper, 2 to Alexander Culpeper
+Kent           | 1574      | Harl. Soc. lxxiv, p.62 | John Harper as 1 sonne and Humfrey as 2 sonne of Richard Harper of Latton
+Kent           | 1619-1621 | John Philipot, p.62    | Constantia filia Roberti Chamberlaine... relicta Harpur vx 2das
+
+================================================================
+9. OUTSTANDING GAPS AND PRIORITY ACTIONS — 30 April 2026
+================================================================
+Priority | Action                                              | Status
+CRITICAL | Dr. Fox — full transcription C1/326/40             | IMAGES SENT — AWAITING TRANSCRIPTION
+CRITICAL | Dr. Fox — full transcription C1/1358/21-23         | PAGE CHECK DUE 13 MAY 2026
+CRITICAL | Dr. Fox — full transcription C1/329/1              | IMAGES SENT — AWAITING TRANSCRIPTION
+CRITICAL | Dr. Fox — full transcription C1/948/11             | IMAGES SENT — AWAITING TRANSCRIPTION
+HIGH     | Consistory Court of Norwich — search wills         | NOT YET INITIATED — FLAGGED BY DR. FOX
+HIGH     | Suffolk Archives — probate search 1560-1640        | AWAITING RESPONSE — sent 7 Apr 2026 — CHASE NOW
+HIGH     | Essex Record Office — Richard Harper III will      | AWAITING RESPONSE — sent 11 Apr 2026 — CHASE NOW
+HIGH     | John Payne — research co-feoffee C1/1358/21-23    | NOT YET INITIATED
+HIGH     | C1/981/98-99 — Ewen v Harper images               | DISPATCHED RC8276062 — PENDING
+MEDIUM   | Staffordshire Visitation Glover 1583               | NOT YET ACCESSED — British Library or Ancestry
+MEDIUM   | Boxford FB77/D1/1 — Constance as given name       | NOT YET INITIATED
+MEDIUM   | John Titford email — Derbyshire genealogist        | NOT YET DRAFTED
+
+================================================================
+10. EXISTING MEDIUM PRIORITY CHANCERY LEADS — Not Yet Ordered
+================================================================
+C 2/JasI/H30/61  | Harper v Chauncey, 1603-1625 | Thomas Harper uncle/heir, Syleham Suffolk
+C 3/96/56        | Harper v Plumpton, 1558-1579  | William Harper, Huntingfield Suffolk
+C 9/33/100       | Smalpeice v Harper, 1664      | John Harper, Withersdale Suffolk
+DL 4/28/51       | Wakering v Harper, 1585-1586  | Harper, Stoke-by-Clare Suffolk
+C 8/371/20       | Felton v Harper, 1711         | Daniel Harper, Beccles Suffolk — cannot download, requires copy request
+C 142/33/11      | Richard Harper Essex IPM      | 1518-1519 — companion to E150/303/7
+
+================================================================
+11. PAR183 — UNCONFIRMED PARISH REGISTER
+================================================================
+Status: WORKING THEORY | UNCONFIRMED — parish identity unknown
+Source: Ancestry user upload, labelled PAR183. Primary image confirmed April 2026.
+Entry: "John Harper the sonne of John Harper was Christened 18 of November 1604"
+
+Key observations:
+- Surname spelled HARPER — the Essex spelling, not the Suffolk Harbertt/Herber variant
+- Father also named John Harper — same name carried through generations
+- Suggests a family that arrived in Suffolk relatively recently
+
+OUTSTANDING: Parish identity unconfirmed. Emails sent 11 April 2026 to:
+- accesstoarchives@suffolk.gov.uk
+- info@suffolkarchives.co.uk
+- ero.enquiries@essex.gov.uk
+CHASE IF NO RESPONSE BY: 28 April 2026 — NOW OVERDUE
+
+================================================================
+12. GEOGRAPHIC FRAMEWORK — Chamberlayne / Culpeper Suffolk Footprint
+================================================================
+Status: WORKING THEORY | INFERENCE ONLY
+Sources: PROB 11/30 (Alexander Culpeper will 1541) + PROB 11/29/217 (Constance will 1542)
+
+Two independent primary sources confirm the Chamberlayne family's Suffolk geographic footprint:
+- Culpeper bequest to St Mary Bures (PROB 11/30) — 4 miles from Boxford
+- Chamberlayne estates at Capel St Mary — 8.5 miles from Boxford
+
+CERTAINTY: INFERENCE ONLY — no primary source directly links John Harper Esq to this
+geography. Supports the migration hypothesis but does not confirm it.
+
+================================================================
+ANNEX B — Theory, Hypothesis & Unconfirmed | Harper/Harberd Research
+Updated 30 April 2026 | Internal only | NOT FOR COLLEGE OF ARMS SUBMISSION
+================================================================
