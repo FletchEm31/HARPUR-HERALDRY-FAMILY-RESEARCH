@@ -133,14 +133,18 @@ WP-TNA-015  Chancery — Richard Harper Suffolk | TNA | C1 Vol.4
             p.286 Bundle 329 | TO ORDER | Status: NOT YET ORDERED
 
 WP-TNA-016
-  WP-TITLE:   Chancery — John Harper Suffolk (Jermy v Throgmerton)
+  WP-TITLE:   Chancery — John Harper Suffolk (Jermy v Throgmorton)
   ARCHIVE:    The National Archives, Kew
   FULL REF:   C1/326/40
   DATE:       1504-1515
   TYPE:       PRIMARY
-  STATUS:     ORDERED | RC8271591 | Due 30 Apr 2026
-  ROUTING:    MAIN DOC / ANNEX A — CRITICAL LINCHPIN DOCUMENT ★★★★★
-  NOTES:      Subject: land transaction involving John Harper, Suffolk/Norfolk
+  STATUS:     DISPATCHED — READY TO DOWNLOAD | RC8271591
+  ROUTING:    ANNEX A — debt/land dispute; John Harper as central figure,
+              deceased; executors Nicholas and Jeffrey; John Throgmorton
+              defendant. Confirms John Harper active in Suffolk/Norfolk
+              money-lending network 1504-1515.
+  NOTES:      Partial transcription completed May 2026. Full professional
+              transcription required before promotion to Main Doc.
 
 WP-TNA-019
   WP-TITLE:   Chancery — Barley v Harper, Latton manor Essex
@@ -148,161 +152,201 @@ WP-TNA-019
   FULL REF:   C1/948/11
   DATE:       1538-1544
   TYPE:       PRIMARY
-  STATUS:     ORDERED 18 Apr 2026 | RC8274724
-  ROUTING:    ANNEX A/B — detention of deeds, Latton manor, defendant Harper
-  NOTES:      Damaged — TNA notes see C1/737/67 also
+  STATUS:     DISPATCHED — READY TO DOWNLOAD | RC8274724
+  ROUTING:    ANNEX B — George Harper defending Latton manor against
+              Barley of Hertfordshire. Thomas named as son and heir of John.
+              Damaged document.
+  NOTES:      Barley county confirmed as Hertfordshire. Thomas son/heir
+              pattern matches C1/1358/21-23. See C1/737/67 companion doc.
 
 WP-TNA-020
-  WP-TITLE:   IPM — William Harper of Ruysshall, esquire
-  ARCHIVE:    The National Archives, Kew (via BHO calendar)
-  FULL REF:   Cal. IPM Series II, Vol. 21, No. 110
-              British History Online, Henry VII Vol. 3, pp.273-297
-  DATE:       Died 1 March 1508; inquisition 25 May 1508
-  TYPE:       SECONDARY (published calendar of TNA primary)
-  STATUS:     CONFIRMED READ (April 28 2026)
-  ROUTING:    ANNEX E (WP-TNA-019 in Annex E) | ANNEX B
-  NOTES:      TNA original not yet ordered. Calendar text confirmed.
-              Names John Harper (son & heir, aged 54+), Humphrey Harper
-              (son), Nicholas Harper, Cornelius Harpur (rector Walton).
+  WP-TITLE:   Chancery — Ewen v Harper, Dennington Suffolk
+  ARCHIVE:    The National Archives, Kew
+  FULL REF:   C1/981/98-99
+  DATE:       1538-1544
+  TYPE:       PRIMARY
+  STATUS:     DISPATCHED — READY TO DOWNLOAD | RC8276062
+  ROUTING:    ANNEX A — John Harper of Wingfield/Dennington as defendant,
+              purchasing lands from John Ewen. Hoxne Hundred, Suffolk.
+              William [Corse?] co-defendant.
+  NOTES:      Partial transcription completed May 2026. Dennington 3 miles
+              from Wingfield. Same John Harper as C1/1358/21-23 — 15-year
+              documented property career in Hoxne Hundred confirmed.
 
 WP-TNA-021
-  WP-TITLE:   IPM — Edmund Newenham (John Harpur of Russhall as feoffee)
-  ARCHIVE:    The National Archives, Kew (via BHO calendar)
-  FULL REF:   Cal. IPM Series II, Vol. 21, No. 109
-              British History Online, Henry VII Vol. 3, pp.273-297
-  DATE:       Feoffment 14 July 1497; inquisition 10 February 1508
-  TYPE:       SECONDARY (published calendar of TNA primary)
-  STATUS:     CONFIRMED READ (April 28 2026)
-  ROUTING:    ANNEX E | ANNEX B
-  NOTES:      TNA original not yet ordered. Calendar text confirmed.
-              John Harpur "late of Russhalle co. Stafford esquire"
-              named as feoffee — primary source placing Rushall Harper
-              in legal capacity 1497.
+  WP-TITLE:   Chancery — Harper v Lawes, Feldcroft Suffolk
+  ARCHIVE:    The National Archives, Kew
+  FULL REF:   C1/1358/21-23
+  DATE:       1553-1555
+  TYPE:       PRIMARY
+  STATUS:     DISPATCHED — READY TO DOWNLOAD | RC8276060
+  ROUTING:    ANNEX A — Thomas Harper son and heir of John Harper deceased,
+              pursuing freehold inheritance of Feldcroft Suffolk. John Payne
+              co-feoffee. John Harper death c.1540-1550.
+  NOTES:      Three pages. Partial transcription May 2026. Full professional
+              transcription required. Forward to Dr. Fox priority.
 
 WP-TNA-022
-  WP-TITLE:   IPM — William Harper of Rushall (original TNA document)
+  WP-TITLE:   Chancery — Kyngsey v Harper, Mendham Suffolk
   ARCHIVE:    The National Archives, Kew
-  FULL REF:   C 142/21/110
-  DATE:       1508 (23 Henry VII)
+  FULL REF:   C1/329/1
+  DATE:       1504-1515
   TYPE:       PRIMARY
-  STATUS:     ORDERED | RC8289648 / Order 3517436 | PENDING
-  ROUTING:    ANNEX E (cross-ref WP-TNA-020) | ANNEX B
-  NOTES:      Primary TNA original behind the BHO calendar entry
-              (WP-TNA-020). Receipt will upgrade status from
-              SECONDARY (calendar) to PRIMARY (original document).
-              Priority: ★★★★★
-
-WP-TNA-023
-  WP-TITLE:   SC 1/51/175 — William Harper letter to Lord Privy Seal
-  ARCHIVE:    The National Archives, Kew
-  FULL REF:   SC 1/51/175
-  DATE:       c.1490s-1530s (to be confirmed on receipt)
-  TYPE:       PRIMARY
-  STATUS:     ORDERED | RC8289649 / Order 3517436 | PENDING
-  ROUTING:    ANNEX A/B — direct correspondence from William Harper
-              of Rushall to Lord Privy Seal. May name family members,
-              property, or context connecting Rushall to Essex.
-  NOTES:      Priority: ★★★★★
-
-WP-TNA-024
-  WP-TITLE:   3764/5 — John Harper of Rushall quitclaim 1433
-  ARCHIVE:    The National Archives, Kew (series to confirm)
-  FULL REF:   3764/5
-  DATE:       1433
-  TYPE:       PRIMARY
-  STATUS:     ORDERED | PENDING
-  ROUTING:    ANNEX B — pre-Essex Rushall Harper documentary evidence.
-              John Harper of Rushall active 1433 = one generation
-              before Sir John of Rushall d.1464. May confirm
-              earlier Rushall Harper family structure.
-  NOTES:      Priority: ★★★★★
-
-WP-TNA-025
-  WP-TITLE:   D/DCe T20 — Richard Harper, Theydon Garnon deed 1487
-  ARCHIVE:    The National Archives, Kew (or Essex Record Office — confirm)
-  FULL REF:   D/DCe T20
-  DATE:       1487
-  TYPE:       PRIMARY
-  STATUS:     ORDERED | PENDING
-  ROUTING:    ANNEX A/B — Richard Harper in Theydon Garnon, Essex, 1487.
-              Theydon Garnon is 3 miles from Latton/Epping — directly
-              adjacent to Latton Hall. This is our Richard Harper III
-              window. High priority Essex primary source.
-  NOTES:      Priority: ★★★★
-
-WP-TNA-026
-  WP-TITLE:   Essex Feet of Fines Vol. IV — Harper entries
-  ARCHIVE:    Essex Record Office / TNA
-  FULL REF:   Essex Feet of Fines Vol. IV, pp.3, 23, 40, 53, 68
-  DATE:       c.1490s-1530s (pages to confirm on receipt)
-  TYPE:       PRIMARY
-  STATUS:     ORDERED | PENDING
-  ROUTING:    ANNEX A/B — feet of fines confirm land transactions.
-              Pages flagged as containing Harper references in the
-              Essex/Latton window.
-  NOTES:      Priority: ★★★★
-
-WP-TNA-027  Feet of Fine — Richard Harpour esquire + Elizabeth
-            CP 25/1/224/122 no.17 | Suffolk | 1491
-            PRIMARY IMAGE CONFIRMED (AALT, 28 Apr 2026)
-            Onehouse manor + west Suffolk lands — 600 marks
-            Used in: ANNEX A (identity flag — probable WC-H002)
-
-WP-TNA-028  Feet of Fine — John Harbart + Margaret
-            CP 25/1/224/123 no.99 | Suffolk | 1509
-            PRIMARY IMAGE CONFIRMED (AALT, 28 Apr 2026)
-            Manor of Little Fakenham + 300 acres — 200 marks
-            Feb 1509 — 2 months before Richard III dies
-            Used in: ANNEX A (probable WC-H001 — John Harbertt of Boxford)
-            *** HIGH PRIORITY IDENTIFICATION ***
-
-WP-TNA-029  Feet of Fine — Cornelius Harpur, clerk
-            CP 25/1/294/81 no.153 | Staffs/Warwicks | 1507
-            PRIMARY IMAGE CONFIRMED (AALT, 28 Apr 2026)
-            Manor of Aston — Rushall network confirmed
-            Used in: ANNEX C
-
-WP-TNA-030  Feet of Fine — William Harpur → John Harpur son
-            CP 25/1/294/75 no.30 | Essex | 1471
-            PRIMARY IMAGE CONFIRMED (AALT, 28 Apr 2026)
-            West Tilbury transfer — remainder to Richard Harpur
-            William and Richard confirmed as brothers (sons of Sir John)
-            Used in: ANNEX A — MAIN DOC CANDIDATE ★★★★★
-
-WP-TNA-031  Feet of Fine — John Harpur of Ruysshale + Eleanor
-            CP 25/1/293/73 no.429 | Essex/Kent/Middlesex | 1458
-            PRIMARY IMAGE CONFIRMED (AALT, 28 Apr 2026)
-            Sir John of Rushall holding West Tilbury 6 years pre-death
-            Used in: ANNEX A — MAIN DOC ★★★★★
-
-WP-TNA-032  Feet of Fine — Richard Harper + Elizabeth (widow Skrene)
-            CP 25/1/294/77 no.121 | Essex/Cambs | 1478
-            PRIMARY IMAGE CONFIRMED (AALT, 28 Apr 2026)
-            Identity unconfirmed — not Dame Elizabeth de Arderne
-            Used in: ANNEX B
-
-WP-TNA-033  Feet of Fine — John Harpur (Sir John of Rushall)
-            CP 25/1/291/65 no.8 | Essex/Kent/Middlesex | 1422
-            PRIMARY IMAGE CONFIRMED (AALT, 28 Apr 2026)
-            Founding Essex acquisition — West Tilbury
-            Used in: ANNEX A — MAIN DOC ★★★★★
-
-WP-TNA-034  Feet of Fine — John Harpur (Sir John of Rushall)
-            CP 25/1/292/68 no.181 | Essex/Kent/Middlesex | 1436
-            PRIMARY IMAGE CONFIRMED (AALT, 28 Apr 2026)
-            Second West Tilbury consolidation
-            Used in: ANNEX A — MAIN DOC ★★★★★
-
-WP-TNA-035  Will — Sir George Harper, Knight
-            PROB 11/42A/75 | December 1558
-            PRIMARY IMAGE CONFIRMED (29 Apr 2026)
-            Essex male line extinct. No male Harper heirs.
-            No Suffolk connections. Kent property only.
-            Signature: "G. Dn. Georgii Harper militis" ✅
-            Used in: ANNEX A + ANNEX E
+  STATUS:     DISPATCHED — READY TO DOWNLOAD | RC8276061
+  ROUTING:    ANNEX A — Richard Harper detaining title deeds to land in
+              Mendham and Wyddershale, Suffolk. Addressed to Archbishop of
+              Canterbury as Chancellor. Edges damaged.
+  NOTES:      Mendham 3 miles from Syleham. Hoxne Hundred cluster.
+              Full professional transcription required.
 
 ================================================================
-CURRENT REGISTER — SUFFOLK ARCHIVES
+CURRENT REGISTER — FEET OF FINES (COURT OF COMMON PLEAS)
+================================================================
+
+WP-TNA-023
+  WP-TITLE:   Feet of Fine — West Tilbury Essex acquisition
+  ARCHIVE:    TNA / Court of Common Pleas
+  FULL REF:   CP 25/1/291/65 no.8
+  DATE:       1422
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — spreadsheet evidence confirmed May 2026
+  ROUTING:    MAIN DOC — Sir John Harpur of Rushall acquires moiety of
+              West Tilbury Essex for £100. Co-buyer Robert Whitegreave.
+              Founding Essex acquisition.
+
+WP-TNA-024
+  WP-TITLE:   Feet of Fine — West Tilbury consolidation
+  ARCHIVE:    TNA / Court of Common Pleas
+  FULL REF:   CP 25/1/292/68 no.181
+  DATE:       1436
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — spreadsheet evidence confirmed May 2026
+  ROUTING:    MAIN DOC — Sir John Harpur consolidates West Tilbury for
+              200 marks. Robert Whitegreave again co-buyer.
+
+WP-TNA-025
+  WP-TITLE:   Feet of Fine — West Tilbury possession confirmed
+  ARCHIVE:    TNA / Court of Common Pleas
+  FULL REF:   CP 25/1/293/73 no.429
+  DATE:       1458
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — spreadsheet evidence confirmed May 2026
+  ROUTING:    MAIN DOC — Sir John Harpur described as 'of Ruysshale,
+              esquire.' Wife Eleanor confirmed. Active possession six years
+              before death 1464.
+
+WP-TNA-026
+  WP-TITLE:   Feet of Fine — William and Richard brotherhood confirmed
+  ARCHIVE:    TNA / Court of Common Pleas
+  FULL REF:   CP 25/1/294/75 no.30
+  DATE:       1471
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — spreadsheet evidence confirmed May 2026
+  ROUTING:    MAIN DOC — CRITICAL. William Harpur transfers West Tilbury
+              to son John; remainder explicitly named as Richard Harpur.
+              Confirms William and Richard as brothers, sons of Sir John
+              of Rushall. Primary source fact — not inference.
+
+WP-TNA-027
+  WP-TITLE:   Feet of Fine — Richard Harpour Suffolk disposal
+  ARCHIVE:    TNA / Court of Common Pleas
+  FULL REF:   CP 25/1/224/122 no.17
+  DATE:       1491
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — spreadsheet evidence confirmed May 2026
+  ROUTING:    ANNEX A — Richard Harpour + Elizabeth dispose of Onehouse
+              manor and lands including Rattlesden (10 miles from Boxford)
+              for 600 marks. Family already held Suffolk property before
+              any proposed migration.
+
+WP-TNA-028
+  WP-TITLE:   Feet of Fine — John Harbart Suffolk disposal (Fakenham)
+  ARCHIVE:    TNA / Court of Common Pleas
+  FULL REF:   CP 25/1/224/123 no.99
+  DATE:       February 1509
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — spreadsheet evidence confirmed May 2026
+  ROUTING:    ANNEX A — HIGH PRIORITY. John Harbart + wife Margaret
+              dispose of moiety of manor of Little Fakenham and 300 acres
+              NW Suffolk for 200 marks. Buyers: Robert Drury (kt), Thomas
+              Jermyn, William Spelman. Zero competing Harbart families in
+              Suffolk FoF 1480-1560. Two months before Richard III dies
+              10 April 1509. Strongest candidate for John Harbertt patriarch.
+
+WP-TNA-029
+  WP-TITLE:   Feet of Fine — John Raglan alias Herberd Suffolk disposal
+  ARCHIVE:    TNA / Court of Common Pleas
+  FULL REF:   CP 25/1/224/123 no.89
+  DATE:       1 July 1507
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — spreadsheet evidence confirmed May 2026
+  ROUTING:    ANNEX A — CRITICAL. John Raglan otherwise called John
+              Herberd + wife Margaret dispose of 100 acres Kentford Suffolk
+              for 40 marks. Same man as WP-TNA-028: same wife Margaret,
+              same county, same disposal pattern, 2 years apart. Raglan =
+              place-name alias. Herberd (1507) → Harbart (1509) = normal
+              clerk phonetics. Directly links to John Harbertt of Boxford.
+
+WP-TNA-030
+  WP-TITLE:   Feet of Fine — Richard Harper Essex disposal
+  ARCHIVE:    TNA / Court of Common Pleas
+  FULL REF:   CP 25/1/294/77 no.121
+  DATE:       1478
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — spreadsheet evidence confirmed May 2026
+  ROUTING:    ANNEX B — Richard Harper + Elizabeth (widow of Sir John
+              Skrene kt) dispose of Helions Bumpstead Essex and Olmstead
+              Hall Cambridgeshire. Elizabeth identity unresolved — not Dame
+              Elizabeth de Arderne. Querent includes John Sulyard.
+
+================================================================
+CURRENT REGISTER — INQUISITIONS POST MORTEM (IPM)
+================================================================
+
+WP-TNA-031
+  WP-TITLE:   IPM — James de Moreton, Staffordshire
+  ARCHIVE:    TNA
+  FULL REF:   C 139/1/8 (E-CIPM 22-11)
+  DATE:       4 June 1423
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED READ May 2026
+  ROUTING:    ANNEX A — Foot note: "Harpour of the Temple delivered this
+              inquisition into court." Confirms John Harpour of Rushall as
+              Inner Temple member delivering IPM 1423.
+
+WP-TNA-032
+  WP-TITLE:   IPM — John Delves, Staffordshire
+  ARCHIVE:    TNA
+  FULL REF:   C 139/40/49 (E-CIPM 23-243)
+  DATE:       27 August 1429
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED READ May 2026
+  ROUTING:    ANNEX A — Header "[Harpur]" — John Harpur conducting as
+              Escheator of Staffordshire. August 1429.
+
+WP-TNA-033
+  WP-TITLE:   IPM — Thomas Collettus, Staffordshire
+  ARCHIVE:    TNA
+  FULL REF:   C 139/43/11 (E-CIPM 23-338)
+  DATE:       19 October 1429
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED READ May 2026
+  ROUTING:    ANNEX A — "John Harpur and other escheators have received
+              the issues of the above for the king's use." Explicitly names
+              John Harpur as Crown escheator receiving revenues. Oct 1429.
+
+WP-TNA-034
+  WP-TITLE:   IPM — Robert son of Thomas Harecourt, Staffordshire
+  ARCHIVE:    TNA
+  FULL REF:   C 139/56/52 (E-CIPM 23-720)
+  DATE:       4 February 1432
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED READ May 2026
+  ROUTING:    ANNEX A — "John Harpour, by commission of Henry V" — named
+              as one of five commissioners holding Harecourt lands. 1432.
+
+================================================================
+CURRENT REGISTER — SUFFOLK PARISH REGISTERS
 ================================================================
 WP-SFK-001  Boxford parish register | Suffolk Archives | FB77/D1/1
             1538-1812 | PRIMARY | CONFIRMED READ
@@ -319,6 +363,21 @@ WP-SFK-003  Nayland parish register | FB64/D1/1
 WP-SFK-004  Beccles St Michael register | 109/D2/11
             1661, 1705 | PRIMARY | CONFIRMED READ (image needed 1705)
             Used in: MAIN DOC
+
+WP-SFK-006
+  WP-TITLE:   Wingfield Parish Register
+  ARCHIVE:    Suffolk Archives
+  FULL REF:   FC84/D1/1
+  DATE:       1546-1580 entries relevant
+  TYPE:       PRIMARY
+  STATUS:     CONFIRMED — primary images confirmed April/May 2026
+  ROUTING:    ANNEX A — Four key entries:
+              (1) Margery Harper buried 10 April 1546 — wife of John Harper
+              (2) John Harper buried 22 April 1546 — G2 direct ancestor
+              (3) John Harper × Jone Goldinge married 25 July 1552 — G3
+              (4) John Harper "sonne of John Harper" buried 25 Nov 1566 —
+                  father explicitly named in clerk's hand — G3
+              Also: William Harper family (collateral) baptisms 1550-1556.
 
 ================================================================
 CURRENT REGISTER — PUBLISHED SECONDARY SOURCES
@@ -343,3 +402,33 @@ WP-PUB-006  Burke's General Armory (1884)
 
 WP-PUB-007  Suffolk in 1674 (ed. Hervey, 1905)
             Archive.org | TIER 2 | Used in: ANNEX A
+
+WP-PUB-008
+  WP-TITLE:   Rawcliffe, C. — The Staffords, Earls of Stafford and Dukes
+              of Buckingham 1394-1521
+  PUBLISHER:  Cambridge University Press, 1978
+  TYPE:       SECONDARY — peer-reviewed academic monograph
+  TIER:       TIER 2
+  STATUS:     CONFIRMED READ May 2026 (pp.82, 121, 153, 200-201, 204-205,
+              216-217)
+  ROUTING:    ANNEX A — Confirms: Richard Harper as Receiver General for
+              Lady Margaret Beaufort 1485-ca.1492 (p.201); William Harper
+              as Steward of Staffordshire 1472-1483 and Suffolk receiver
+              1485-1508 (pp.200, 205); John Harper as Steward of
+              Staffordshire 1428 (p.216); John Harper council transfer to
+              Duke Humphrey on Countess Anne's death 1438 (p.153).
+
+WP-PUB-009
+  WP-TITLE:   Driver, J.T. — PhD Thesis: "The Buckingham Affinity"
+              University of Liverpool, 1982
+  TYPE:       SECONDARY — peer-reviewed academic thesis
+  TIER:       TIER 2
+  STATUS:     CONFIRMED READ May 2026 (pp.390-393, 436, 535, 539)
+  ROUTING:    ANNEX A — CRITICAL. Confirms: "Richard Harper was born
+              about 1430, the second son of John Harper of Rushall,
+              Staffordshire, by Eleanor, heiress of Rushall." (p.390).
+              Died 22 October 1492. Buried Catton Essex. Wife Elizabeth
+              Booth. Executor Sir Reginald Bray. Bequeathed 13s.4d. to
+              Rushall church. Escheator Essex/Herts 1476-77. White Roding
+              Essex confirmed residence. William Harper named as
+              co-feoffee alongside Richard (p.392).

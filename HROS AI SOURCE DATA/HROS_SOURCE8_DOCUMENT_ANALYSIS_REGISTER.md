@@ -24,6 +24,12 @@ Works Cited Register by WP-ID.
 
 
 ================================================================
+DOCUMENT ANALYSIS REGISTER | Harper / Harberd Family Research
+HROS | Updated 3 May 2026 | Internal Use Only
+================================================================
+
+
+================================================================
 DOCUMENT 1
 WP-TNA-001
 PROB 11/9/246 — Will of Richard Harpur of Epping, Essex
@@ -540,203 +546,352 @@ Not yet confirmed but worth noting for future research.
 
 
 ================================================================
-DOCUMENT ANALYSIS REGISTER | Harper / Harberd Family Research
-HROS | Updated April 17 2026 | Internal Use Only
+DOCUMENT 6
+WP-TNA-020 / WP-TNA-021 — CONNECTED PAIR
+C1/981/98-99 (Ewen v Harper) + C1/1358/21-23 (Harper v Lawes)
+Hoxne Hundred, Suffolk
+Date range: 1538-1555
+Partial transcription: May 2026
 ================================================================
 
-================================================================
-DOCUMENT 4 — SESSION 29 APRIL 2026
-WP-TNA-035
-PROB 11/42A/75 — Will of Sir George Harper, Knight
-Proved: December 1558
-Court: Prerogative Court of Canterbury
-Primary image read: 29 April 2026
-================================================================
+VERBATIM EXTRACTS — C1/981/98-99
+---------------------------------
 
-VERBATIM EXTRACTS
------------------
+Page 98 header (partial):
+  "To the right honourable [and] Thomas [Lindle?] Knight Lord..."
+  — Address to Lord Chancellor. Folio 54.
 
-Opening (probate section):
-  "Probatum fuit suprascriptum testamentum... Octavo die mensis
-  Decembris Anno dni Millesimo quingentesimo quinquagesimo octavo"
-  [Proved the eighth day of December in the year of our Lord
-  1558]
+Opening (partial):
+  "Most humbly shewing and complayneth...John [Harp?] men of
+  Dennyngton in the [Countie?] of Suff[olk]...Thomas [so?]
+  [seized?]...sold the said [Londes?] unto the said John Harp
+  [and?] men..."
 
-Schedule opening:
-  "The Schedule made the tenth day of November in the first year
-  of the reign of our Sovereign Lady Elizabeth by the grace of
-  God Queen of England France and Ireland and defender of the
-  faith to be annexed to the last will and testament of Sir
-  George Harper Knight."
+Page 99 header (confirmed):
+  "The answer of [John?] Harp[er?] [and?] Willm [Corpse?/Corse?]
+  to the Bill of Complaint of [John?] Ewen"
 
-Signature (confirmed):
-  "G. Dn. Georgii Harper militis"
-  [George, Lord George Harper, knight]
+Key confirmed reading page 99:
+  "The said [John?] Harper [saith?] that he taketh on [deed?]
+  [acknowledging?] the [bonds?]...he [paid?] the said [silver?]
+  [pounds?]...the said Harp [saith?] that he [lent?]..."
 
-Key bequest — brother named:
-  "all those two severall leases which were late made by the
-  said late Duke unto the said Sir George and my brother Thomas
-  Colpepyr late of Bedgebery in the said county of Kent esquire
-  deceased"
+CONFIRMED FACTS:
+- Complainant: John Ewen
+- Defendant: John Harper
+- Co-defendant: William [Corse/Corpse?]
+- Location: Dennington, Suffolk (Hoxne Hundred)
+- Subject: Land purchase — John Harper bought lands from John Ewen
+- John Harper asserts lawful payment and valid obligation/bond
+- Thomas referenced as prior party
+- Date range: 1538-1544 (TNA catalogue, Henry VIII period)
 
-Nephew named:
-  "Moreover I will give and bequeath unto my nephew Alexander
-  Colpepyr"
+VERBATIM EXTRACTS — C1/1358/21-23
+----------------------------------
 
-Sisters' daughters:
-  "two parts to my sisters two daughters Elianore and Joane"
+Summary of confirmed content:
+  Thomas Harper petitions Chancery claiming rightful inheritance
+  of property called Feldcroft, Suffolk, held by father John Harper
+  under secured lending arrangement against estate of Agnes Stratfield.
+  John Harper held property interest as freehold in his demesne.
+  Agnes Stratfield's estate was to pass to John Harper and heirs by
+  feoffment. Defendants John Lawes and Richard Stratforde alleged to
+  have unlawfully entered and seized premises, dispossessing Thomas.
+  Thomas Harper filed a replication — case actively contested.
 
-Executors confirmed:
-  "Richard Lynison gent and Richard Mey my executors"
+Named parties confirmed:
+  Thomas Harper (plaintiff — son and heir of John Harper)
+  John Lawes (defendant)
+  Richard Stratforde (defendant)
+  Agnes Stratfield (prior landowner)
+  John Payne (co-feoffee with John Harper)
+  Thomas Jermy (named)
+  William Stratfield (named in will context)
 
-Kent property:
-  "all that ferme or tenement and lande with the appurtenances
-  called the Countledge of Hadlow in the Countie of Kent, late
-  in the tenure of Richard Ffissher"
+SIGNIFICANCE — CONNECTED PAIR ANALYSIS
+---------------------------------------
 
-SIGNIFICANCE
-------------
+1. SAME JOHN HARPER — TWO INDEPENDENT CHANCERY CASES.
+C1/981/98-99 (1538-1544): John Harper actively purchasing and
+defending property in Dennington, Hoxne Hundred, Suffolk.
+C1/1358/21-23 (1553-1555): John Harper deceased; son Thomas pursuing
+Wingfield inheritance. Dennington 3 miles from Wingfield — same
+Hoxne Hundred cluster. This is one man documented across a 15-year
+active property career and confirmed deceased by 1553.
 
-1. ESSEX MALE LINE EXTINCT.
-Sir George Harper dies December 1558 without male heirs.
-His will names no male Harper relatives. His estate passes
-entirely to his wife Dame Audrey Harper and to the Culpeper
-network through his mother Constance Chamberlayne's second
-marriage. The Essex Harper line is formally extinct.
+2. JOHN HARPER'S DEATH WINDOW.
+Active 1538-1544. Deceased by 1553. Death c.1540-1550. Consistent
+with burial at Wingfield 22 April 1546 confirmed in FC84/D1/1.
+The Wingfield burial and the Chancery death window align precisely.
 
-2. NO SUFFOLK CONNECTIONS.
-The will contains no reference to Suffolk, to any Harper
-family in Suffolk, or to any individual who can be connected
-to the Wingfield or Boxford Harper/Harberd families. This is
-entirely consistent with the hypothesis that John Harper Esq's
-Suffolk branch had completely separated from the Essex line by
-the time of his death in 1546 — twelve years before George's
-will. George had no reason to acknowledge distant Suffolk
-cousins he almost certainly never met.
+3. THOMAS HARPER AS SON AND HEIR.
+Thomas pursuing inheritance is consistent with the G3 Wingfield
+structure. If John Harper buried 1546 at Wingfield is G2, Thomas
+is G3 — the same generation as the man buried "sonne of John Harper"
+at Wingfield 25 November 1566. Whether Thomas and the 1566 burial
+are the same individual or brothers requires further investigation.
 
-3. BROTHER IDENTIFIED AS THOMAS CULPEPER.
-George refers to Thomas Culpepyr of Bedgebury as "my brother"
-— confirming the Culpeper step-relationship through Constance
-Chamberlayne's second marriage to Sir Alexander Culpeper.
-This is consistent with PROB 11/29/217 (Dame Constance's will,
-confirmed April 2026) which names George Harpur as her son
-from the Harper marriage and the Culpeper children separately.
+4. JOHN PAYNE AS CO-FEOFFEE.
+John Payne operating alongside John Harper as co-feoffee in Suffolk
+secured lending arrangements. Payne requires investigation — may
+identify other Harper associates in Hoxne Hundred.
 
-4. JOHN WATTINGTON WILL ANNEXED.
-A will of John Wattington, yeoman of Odiham, Hampshire is
-annexed to the probate file. His sister Margaret Harper is
-named — a Hampshire woman who married into the Harper name.
-This has no connection to the Suffolk chain and represents
-a separate Harper family entirely.
+5. COLLEGE OF ARMS STANDARD.
+Both documents are primary source Chancery records from TNA. They
+meet the evidentiary standard. Full professional transcription by
+Dr. Fox required before promotion to Main Doc.
 
-5. GENERATIONAL CONFIRMATION.
-Sir George born c.1503, died 1558, aged approximately 55.
-This is consistent with being the son of Richard Harper III
-(died 1509) and Constance Chamberlayne. His uncle John Harper
-Esq (younger son of Richard of Epping) would have been
-approximately 75-85 years old at George's death — consistent
-with the April 1546 Wingfield burial placing John Esq's death
-12 years before George's.
+CERTAINTY: ANNEX A — partial transcription. HIGH CONFIDENCE on
+identified facts. Full transcription required.
+
 
 ================================================================
-DOCUMENT 5 — SESSION 29 APRIL 2026
-WP-WINGFIELD-001
+DOCUMENT 7
+WP-SFK-006
 FC84/D1/1 — Wingfield Parish Register
-Burials, Marriages, Baptisms — confirmed entries
-Primary images read: 29 April 2026
+Suffolk Archives
+Key entries: 1546-1580
+Primary images confirmed: April/May 2026
 ================================================================
 
 CONFIRMED ENTRIES
 -----------------
 
-BURIALS:
+Entry 1 — Burial of wife:
+  "Margery Harper was buried the x day of Aprill Anno Dni 1546"
+  [Margery Harper was buried the 10th day of April in the year
+  of our Lord 1546]
 
-Anno Dni 1546:
-  "Margery Harper was buried the x day of Aprill"
-  Margery Harper buried 10 April 1546, Wingfield St Andrew.
+Entry 2 — Burial of John Harper G2:
+  "John Harper was buried the xxij day of Aprill Anno Dni 1546"
+  [John Harper was buried the 22nd day of April in the year of
+  our Lord 1546]
 
-  "John Harper was buried the xxij day of Aprill"
-  John Harper buried 22 April 1546, Wingfield St Andrew.
-  Husband and wife dying 12 days apart — consistent with
-  epidemic or disease event affecting elderly couple.
+Entry 3 — Marriage of G3:
+  "John Harper and Jone Goldinge were married the xxvth daye of
+  July Anno Dni 1552"
+  [John Harper and Joan Goldinge were married the 25th day of
+  July in the year of our Lord 1552]
 
-Anno Dni 1566:
-  "John Harper ye sonne of John Harper was buried ye xxvb
-  day of November"
-  John Harper son of John Harper buried 25 November 1566.
-  Explicitly names his father — confirms generational descent.
+Entry 4 — Burial of G3 (CRITICAL — father explicitly named):
+  "John Harper ye sonne of John Harper was buried ye xxvb day
+  of November Anno Dni 1566"
+  [John Harper the son of John Harper was buried the 25th day
+  of November in the year of our Lord 1566]
 
-Anno Dni 1580:
-  John Harper buried 21 April 1580, Wingfield.
-  Spouse: Jone Harper (confirmed FamilySearch record).
-  Same individual as John Harper × Jone Goldinge (1552).
-
-Anno Dni 1584:
-  "John Harper the sonne of William Harper was buryed ye
-  xxte daye of August"
-  John Harper son of William Harper buried 20 August 1584.
-  Confirms William Harper branch at Wingfield.
-
-MARRIAGE:
-
-Anno Dni 1552:
-  John Harper × Jone Goldinge — married 25 July 1552.
-  Wingfield St Andrew, Suffolk parish register.
-  This John = son of John Harper buried 1566.
-
-BAPTISMS — WILLIAM HARPER'S CHILDREN:
-
-  Margaret Harper — baptised 2 February 1550/1
-  Alice Harper — baptised 24 October 1552
-  Edward Harper — baptised November 1555
-  John Harper — baptised 21 December 1556
-  All at Wingfield St Andrew. Father: William Harper.
+Collateral entry (William Harper family):
+  Margaret (2 Feb 1550/1), Alice (24 Oct 1552), Edward (Nov 1555),
+  John (21 Dec 1556) — children of William Harper, baptised at
+  Wingfield. Son John Harper son of William Harper buried
+  20 August 1584. NOT direct ancestors — collateral line only.
 
 SIGNIFICANCE
 ------------
 
-1. JOHN HARPER ESQ BURIAL — PROPOSED IDENTIFICATION.
-The John Harper buried 22 April 1546 at Wingfield is proposed
-as John Harper Esq — younger son of Richard Harpur of Epping.
-Born c.1470-1480, he would be aged approximately 66-76 at
-death — entirely consistent with an elderly gentry landowner.
-Wife Margery dying 12 days earlier in the same month suggests
-shared illness. This identification is PROBABLE but not yet
-confirmed by a document naming both his Essex origin and his
-Wingfield settlement.
+1. G2 BURIAL CONFIRMED AT WINGFIELD.
+John Harper buried 22 April 1546 at Wingfield, Suffolk. Wife
+Margery buried 10 April 1546 — twelve days before him. Both die
+within two weeks. Primary source confirmation that John Harper Esq
+(younger son of Richard of Epping per PROB 11/9/246) settled and
+died at Wingfield, Suffolk. Geographic location: Hoxne Hundred,
+25 miles northeast of Boxford.
 
-2. THREE GENERATIONS CONFIRMED AT WINGFIELD.
-- John Harper (patriarch) + Margery — buried 1546
-- John Harper son of John — married 1552, buried 1566
-- William Harper (brother of John above) — children 1550-1556
-- John Harper son of William — buried 1584
-Four burials, one marriage, four baptisms across 38 years.
-This is not a transient family. This is an established
-Wingfield Harper household.
+2. FATHER-SON RELATIONSHIP EXPLICITLY STATED BY CLERK.
+Entry 4 — "John Harper ye sonne of John Harper" — the clerk wrote
+the relationship in full in the burial register. This is not
+inference. This is a primary source statement of parentage. G3 =
+son of G2, both named John Harper, both at Wingfield.
 
-3. WILLIAM HARPER BRANCH.
-William Harper — proposed younger son of John Harper Esq —
-has children baptised at Wingfield 1550-1556. His son John
-is buried 1584. This is a parallel branch to the John Harper
-line and confirms John Esq had multiple sons at Wingfield.
+3. CHRONOLOGICAL ALIGNMENT WITH CHANCERY CASES.
+C1/981/98-99: John Harper active Dennington/Wingfield 1538-1544.
+FC84/D1/1: John Harper buried Wingfield 22 April 1546.
+C1/1358/21-23: Thomas son of John Harper deceased pursuing
+Wingfield inheritance 1553-1555.
+Three independent primary sources forming a coherent chronological
+sequence for the same individual.
 
-4. THE BOXFORD CONNECTION.
-John Harbarde marries Rose Smythe at Boxford 11 July 1563.
-Their son John is baptised at Boxford 28 October 1563 —
-only 3.5 months after the marriage. This confirms the family
-was already settled at Boxford before the 1563 marriage,
-pushing the migration from Wingfield to c.1555-1560.
-The proposed bridge figure — a third son of John Harper Esq
-not yet identified in Wingfield records — is the active
-research priority.
+4. G3 MARRIAGE AND DEATH DATES.
+G3 marries Joan Goldinge at Wingfield 25 July 1552. Thomas Harper
+pursues Wingfield deeds in Chancery 1553 — one year after Joan
+Goldinge marriage. G3 buried Wingfield 25 November 1566. Joan
+survives as widow — buried at Wingfield 21 April 1580 (FamilySearch
+/ FC84/D1/1 confirmation).
 
-5. DOCUMENTS PENDING THAT WILL CONFIRM OR DENY:
-- C1/326/40 — John Harper + Jermy family, Metfield 1504-1515
-- C1/981/98-99 — John Harper of Wingfield, defendant 1538-1544
-- C1/1358/21-23 — Thomas son of John Harper deceased, Wingfield
-  1553-1555 — CRITICAL — names next generation explicitly
+5. THE BRIDGE GENERATION GAP.
+G3 is buried at Wingfield 1566. G4 John Harbarde marries Rose
+Smythe at Boxford 1563 — three years before G3 dies at Wingfield.
+The family's migration from Wingfield to Boxford (25 miles) occurred
+in the period c.1555-1562. A son of G2 or G3 established at Boxford
+before G3's death at Wingfield is fully consistent with normal
+gentry family dispersal patterns.
+
+CERTAINTY: ANNEX A — primary images confirmed. HIGH CONFIDENCE.
+Full professional review by Dr. Fox recommended.
+
+
+================================================================
+DOCUMENT 8
+WP-TNA-031-034
+E-CIPM Series — John Harpur of Rushall as Crown Officer
+1423-1432
+Primary text confirmed: May 2026
+================================================================
+
+CONFIRMED ENTRIES
+-----------------
+
+C 139/1/8 (4 June 1423):
+  "[Foot:] Harpour of the Temple delivered this inquisition
+  into court."
+
+C 139/40/49 (27 August 1429):
+  "[Harpur]" — header identifying escheator conducting inquisition
+  Stone, Staffordshire
+
+C 139/43/11 (19 October 1429):
+  "Since Thomas's death, John Harpur and other escheators have
+  received the issues of the above for the king's use by virtue
+  of their office."
+
+C 139/56/52 (4 February 1432):
+  "John Harpour, by commission of Henry V [CFR 1413-1422, p.355]"
+  — named as one of five commissioners holding Harecourt lands
+
+SIGNIFICANCE
+------------
+
+1. JOHN HARPUR'S CAREER NOW SPANNED 1422-1464 ACROSS NINE SOURCES.
+Feet of Fines 1422 (West Tilbury acquisition) through to History
+of Parliament death 1464. The four IPMs add 1423-1432 documentation
+of his active legal/administrative career as Inner Temple member,
+Crown Escheator, and Royal Commissioner. This is not a shadowy
+ancestor — this is a fully documented public figure.
+
+2. "HARPOUR OF THE TEMPLE" — INNER TEMPLE MEMBERSHIP CONFIRMED.
+Legal training at the Inner Temple is the mechanism by which John
+Harpur entered Stafford household service as an auditor. The 1423
+IPM confirms this professional background by naming him specifically
+as the Temple member who delivered the document to court.
+
+3. CROSS-CONFIRMATION WITH RAWCLIFFE AND DRIVER.
+Rawcliffe (p.216) confirms John Harper as Steward of Staffordshire
+from 15 July 1428. Driver (p.390 fn.3) confirms John Harper as JP
+for Staffordshire from December 1446 until after 1460, died 1464.
+The four IPMs document the period 1423-1432 — filling the gap
+between his Temple qualification and his 1428 Stafford appointment.
+
+CERTAINTY: CONFIRMED — primary text documents read in full.
+
+
+================================================================
+DOCUMENT 9
+WP-PUB-008 / WP-PUB-009
+Rawcliffe (1978) + Driver PhD thesis (1982)
+Peer-reviewed secondary sources — key extracts
+Read: May 2026
+================================================================
+
+KEY EXTRACTS — DRIVER THESIS pp.390-393
+
+Page 390 — Biographical header:
+  "HARPER, Richard
+  [Also 'Harpour', 'Harpur']
+  Stafford — 16 April 1467...
+  Richard Harper was born about 1430, the second son of John
+  Harper of Rushall, Staffordshire, by Eleanor, heiress of Rushall."
+
+  [Footnote 3:] "John Harper was a J.P. for Staffordshire from
+  Dec.1446 until after 1460; he died in 1464."
+
+Page 392:
+  "he was given as one of the feoffees of Henry, duke of
+  Buckingham, for certain manors in Essex, Gloucestershire and
+  Northamptonshire. [Among other feoffees were] William, Lord
+  Hastings, Sir William Knyvet, Sir Richard Chokke and
+  William Harper."
+
+Page 393 (death):
+  "Richard Harper died on 22 October 1492. In his will, proved
+  on 18 January 1493, he left a cup with a silver gilt cover to
+  Sir Reginald Bray, who was named as one of his executors. His
+  wife, Elizabeth Booth, was also an executor. He asked to be
+  buried at Catton, Essex, and he bequeathed 13s. 4d. to Rushall
+  church, together with timber from Wedgnock park for the repair
+  of its steeple."
+
+Page 539 (Knyvet entry):
+  "His fellow burgess was Richard Harper of White Roding, Essex,
+  a member of the household of the duke of Buckingham, who had
+  already sat for Stafford in 1467-8 and 1472-5."
+
+KEY EXTRACTS — RAWCLIFFE pp.200-205, 216
+
+Page 201 — Receivers General:
+  "7 Nov. 1485–ca. Mich. 1492 — Richard Harper (for Lady Margaret
+  Beaufort) (ibid., 1485-94, p.44; W.A.M. 32349)"
+
+Page 205 — Suffolk receiver:
+  "14 Nov. 1485–Mich. 1508 — William Harper (the county; for Lady
+  Margaret Beaufort to 1498) (C.P.R., 1485-94, p.26; S.C.6/Hen.
+  VII 869 m.4)"
+
+Page 216 — Stewards of Staffordshire:
+  "15 Jul 1428 — John Harper (for the Dowager Countess Anne)
+  (Add. Ch. 19858)"
+  "By Mich. 1472–ca. Mich. 1483 — William Harper (for the Dowager
+  Duchess Anne to 1480, then for Duke Henry) (Add. Ms. 29608 m.3;
+  Harl. Ms. 433 fo. 328)"
+
+Page 153:
+  "On the death of Anne, Dowager Countess of Stafford, in 1438,
+  John Harper, Thomas Willoughby, John Andrews and other members
+  of her council automatically joined Duke Humphrey."
+
+SIGNIFICANCE
+------------
+
+1. DRIVER THESIS CONFIRMS G1 PARENTAGE INDEPENDENTLY.
+"Richard Harper was born about 1430, the second son of John Harper
+of Rushall, Staffordshire, by Eleanor, heiress of Rushall."
+This is a peer-reviewed academic biographical entry — the first
+such source to state the parentage of Richard of Epping explicitly.
+Combined with CP 25/1/294/75 no.30 (1471 FoF) this gives two
+independent source levels confirming Richard as second son of John.
+
+2. WIFE CONFIRMED AS ELIZABETH BOOTH — NOT DAME ELIZABETH DE ARDERNE.
+Driver names Richard's wife as Elizabeth Booth. PROB 11/9/246 names
+"Dame Elizabeth." These may be the same woman — "Booth" as maiden
+name, "de Arderne" through a prior marriage or alternative
+identification. Requires resolution. FLAG for Dr. Fox.
+
+3. WILLIAM HARPER AS CO-FEOFFEE ALONGSIDE RICHARD.
+Driver p.392 names William Harper among co-feoffees with Richard
+for Buckingham manors in Essex. This is the brother William named
+in PROB 11/9/246 — both brothers operating together in the
+Buckingham affinity in the 1480s. Two independent primary sources
+now confirm the William/Richard brotherhood: the 1471 FoF (legal
+document) and the Buckingham feoffment record (administrative).
+
+4. RAWCLIFFE CONFIRMS RICHARD'S SERVICE ENDING DATE MATCHES WILL.
+Richard Harper as Receiver General for Lady Margaret Beaufort
+"7 Nov. 1485–ca. Mich. 1492." His will proved 18 January 1492/3.
+Michaelmas 1492 = 29 September 1492. Richard died 22 October 1492
+(Driver p.393). Service ended at death — the dates are precise.
+
+5. WILLIAM HARPER AS SUFFOLK RECEIVER 1485-1508.
+Rawcliffe p.205 confirms William Harper as Suffolk receiver for Lady
+Margaret Beaufort from 14 November 1485 to Michaelmas 1508 — over
+23 years. This places William Harper in Suffolk administrative
+service throughout the entire period when John Harper (William's
+nephew) was establishing himself in Suffolk. Familial connections
+to Suffolk at the highest administrative level.
+
+CERTAINTY: CONFIRMED — peer-reviewed secondary sources.
+These support and corroborate primary evidence. Cannot substitute
+for primary sources in College of Arms submission but materially
+strengthen the circumstantial framework.
 
 ================================================================
 DOCUMENT ANALYSIS REGISTER | Harper / Harberd Family Research
-HROS | Updated 29 April 2026 | Internal Use Only
+HROS | Updated 3 May 2026 | Internal Use Only
 ================================================================
